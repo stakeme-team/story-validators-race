@@ -1,5 +1,5 @@
 # STAKEME
-![1500x500](https://github.com/user-attachments/assets/aa7d156a-3a80-44b2-afa7-4143b22da947)
+![1500x500](https://github.com/user-attachments/assets/631010ae-c92f-439a-8e48-0aba761013ca)
 
 > STAKEME team helps web 3.0 projects to test their product, increase the number of participants in the tesnet, and provide the most efficient development support with dedicated tools. Stakeme are also reliable validator, we provide RPC, snapshots, and useful utilities. We have developed a multichain faucet that is adapted to high loads, and also a self-written explorer. We have extensive experience in developing for various networks, and also have a great community with discord 98k users.
 
