@@ -2,6 +2,7 @@
 My name is Aleksey, i am independent POS validator and blockchain enthusiast. I have 14 years Network and Telecommunication DevOps Engineer skills, so my great validator abilities is my technical knowledge. All my server, nodes and validators have monitoring via my zabbix monitoring system, i am develop custom templates to control all important and critical metrics and get alarms if something go wrong. Thereby my services have high uptime and quick response to incidents.
 
 **My validator mainnet networks**<br>
+https://dymension.explorers.guru/validator/dymvaloper12dcwljddj8u4402lt08quyxvh6vh7aj5umujct
 https://haqq.explorers.guru/validator/haqqvaloper1mhakrdp2rkzyztk85aux5ffs7xgwtp6hkzpr05
 https://kyve.explorers.guru/validator/kyvevaloper1w3etlejq78tn4vwmqhepzcl2a6zyth0wg4ae02
 https://app.kyve.network/#/validators/kyve1xccnldlwmgpq4hc855f3nzvshfl5nw7493c9l9
