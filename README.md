@@ -36,4 +36,4 @@ In the last step, you must prepare and launch a validator node. This will prove 
 After successfully completing all four tasks you will receive:
 - 1300 IP test tokens for participation.
 - A special STAKEME role in our Discord community.
-Holders of this role will receive 2 IP test tokens daily.
+Holders of this role will receive 3 IP test tokens daily.
