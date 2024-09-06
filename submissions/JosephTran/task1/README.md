@@ -5,15 +5,15 @@ Our guides are designed to be clear and accessible, covering a wide range of blo
 
 By following our guides, you will learn how to:
 
-Set up and configure your environment for different blockchain networks.
+- Set up and configure your environment for different blockchain networks.
 
-Install and configure nodes to participate in the network.
+- Install and configure nodes to participate in the network.
 
-Optimize node performance and ensure high availability.
+- Optimize node performance and ensure high availability.
 
-Monitor node health and handle common issues.
+- Monitor node health and handle common issues.
 
-Maintain and upgrade your nodes to stay current with network changes.
+- Maintain and upgrade your nodes to stay current with network changes.
 
 Our mission is to empower you with the knowledge and skills to effectively run blockchain nodes, contributing to the robustness and resilience of decentralized networks. Explore our detailed guides and start your journey towards becoming a proficient node operator today.
 
