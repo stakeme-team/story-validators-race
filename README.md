@@ -16,23 +16,24 @@ To start the race, you need to complete the first task. After its successful com
 
 ## Tasks
 
-### Task 1: Introduce yourself
+### [Task 1: Introduce yourself](./tasks/task1/README.md)
 The first step requires you to introduce yourself and your activities as a validator. Your submission should include:
 - Information about your validator.
 - The networks in which you validate.
 - Recent contributions you have made to blockchain projects.
 Once your application is approved, you can move on to the second task.
 
-### Task 2: Launch Archived Node
+### [Task 2: Launch Archived Node](./tasks/task2/README.md)
 In this task, you will have to install and launch an archive node in Iliad Testnet. This will demonstrate your skills in deploying the node.
 
-### Task 3: Provide public endpoints of the archive node
+### [Task 3: Provide public endpoints of the archive node](./tasks/task3/README.md)
 After successfully launching the archive node, you will need to provision public endpoints so that other users can interact with your node, starting from the first block.
 
 ### Task 4: Launching the Validator Node
 In the last step, you must prepare and launch a validator node. This will prove that your node is ready to perform the validation function and keep the network running.
 
 ## Rewards
+![story-testnet](https://github.com/user-attachments/assets/98aac9f0-ae10-4f51-8f97-60f9bf3ca8ba)
 After successfully completing all four tasks you will receive:
 - 1300 IP test tokens for participation.
 - A special STAKEME role in our Discord community.
