@@ -53,7 +53,7 @@ https://evm-rpc-story.josephtran.xyz
 enode://b2624137cc602dcb1db9913a7cbe0a2ba134723038ebabdda4df7b2cef7ddc3ffa7ee8567d2193b3d2608406c304eb902a8a52e8fb6ff7e34c1b1773115f8c68@peer-story.josephtran.xyz:30303
 ```
 
-## Snapshot
+## Snapshot node
 ```
 https://service.josephtran.xyz/testnet/story/snapshot
 ```
