@@ -17,7 +17,6 @@ Our guides cover platforms like Ethereum, Cosmos, Polkadot, offering clear, step
 Start your journey to becoming a proficient node operator and contribute to the strength of decentralized networks with our comprehensive guides.
 
 
-# **My experience:**
 I currently operate validator nodes for multiple blockchain networks: 
 
 - 0gchain: https://explorer.allnodes.one/0gchain/staking/0gvaloper18c7rfqptzj00q20jpjutva5lpgsugtd7ptq4cd
