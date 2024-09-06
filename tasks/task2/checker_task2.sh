@@ -37,7 +37,6 @@ created checker validator team @stakeme
 
 echo "> Please enter the Cosmos RPC URL of the node: (ex. https://story-testnet-rpc.stakeme.pro)"
 read -r RPC_URL
-RPC_URL=${RPC_URL:-"http://127.0.0.1:26657"}
 
 RPC_STATUS_URL="$RPC_URL/status"
 
@@ -93,7 +92,6 @@ CURRENT_STEP=$((CURRENT_STEP + 1))
 
 echo "> Please enter the EVM JSON RPC URL (ex. https://story-testnet-evm-rpc.stakeme.pro)"
 read -r EVM_RPC_URL
-EVM_RPC_URL=${EVM_RPC_URL:-"http://138.201.200.100:8545"}
 
 display_step_status "Checking EVM Chain ID" "$BUSY" "$YELLOW"
 
