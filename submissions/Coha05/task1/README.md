@@ -1,6 +1,5 @@
 # Hello, I'm **Coha**! 👋
 
-Welcome to my GitHub profile! 🌐✨
 
 ---
 
@@ -8,6 +7,13 @@ Welcome to my GitHub profile! 🌐✨
 
 - 🔭 I’m running nodes for **Avail**, **Initia**, **OG** and **Story** testnets.
 - 📫 How to reach me: **[on Telegram](https://t.me/notcoha)** or **[my X](https://x.com/Coha05_)**.
+
+- Avail Turing Guide: https://github.com/Coha05/turing-node-avail
+- OG Testnet service: https://github.com/Coha05/0g-testnet
+- Elixir Guide: https://github.com/Coha05/Elixir-Testnet-Validator
+- Story Guide & Service: https://github.com/Coha05/Story
+- OG Explorer: https://explorer.tech-coha05.xyz/0g
+- More on my github.
 
 ---
 
