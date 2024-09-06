@@ -1,3 +1,6 @@
+
+![photo_2024-09-06_17-57-59](https://github.com/user-attachments/assets/36acab80-729d-4de3-831c-68c8bea6ca23)
+
 ### Task 1: Introduce Yourself
 
 Hello, my name is Emre, a.k.a ezraike. I have been in the crypto ecosystem since about 2019, after the decline after 2021, I turned to Node / Testnet works. I do not have validator services, faucet / snapshot services like other submission sending friends. In addition to testnets, I voluntarily wrote and translated articles for many projects and published them on my Medium account.
@@ -8,7 +11,7 @@ Among these, the testnet process that contributed the most to me was the Celesti
 
 Recently, my focus is on Story Protocol, so in the early days of Testnet, I prepared a guide for the Validator installation in 2 different languages [EN/TR], published it on Github, and provided support to people who had problems during the installation.
 
-###Related Links
+### Related Links
 
 #### Payforblob Transaction via Celestia: https://github.com/ezraike/Celestia_PFB_UI
 #### Story Protocol Validator Guide: https://github.com/ezraike/story-validator-guide/tree/main
