@@ -21,6 +21,24 @@ Synergy Nodes is operating validator nodes for 26 Mainnets and provide various c
 
 All information available on our website - https://synergynodes.com
 
+### Blockchain Explorer 
+
+We are operating a Cosmos blockchains explorer at CosmosRun.info for both mainnets and testnets. This is forked from ping.pub
+
+URL: https://cosmosrun.info
+
+### Youtube Channel
+
+Our Youtube channel is focused on providing technical tutorials on installing and operate validator nodes for Cosmos based blockchains. Along with this, we also create many other blockchain based tutorials which are useful for users.
+
+URL: https://www.youtube.com/channel/UCFOFPbgP0wLTQ007NtNl_oQ
+
+### Our X (Twitter) Account:
+https://x.com/SynergyNodes
+
+### Our Zetachain Cross chain bridge:
+https://zetabridge.synergynodes.com/
+
 ## Our Core-Infra Services
 
 We actively engage with team members, other Validators and also with the community. We provide the following Core-Infra support and services for all the blockchains where we validate:
