@@ -9,10 +9,10 @@ https://info.lavanet.xyz/provider/lava@1p7d580vfu5pvu77kmmhzr9shxmqzyr57ktpue9#h
 
 ## Recent contributions ## 
 ### Lava Network
-- I'm actively involved lava testnet , Providing RPC many chains include APTOS, ARB, AXELAR, CELESTIA, ETH1, EVMOS, NEAR, STARKET
+- I'm actively involved lava testnet , Providing RPC many chains include APTOS, ARB, AXELAR, CELESTIA, ETH1, EVMOS, NEAR, STARKNET
 ## Tangle Network
 - Validator Tangle Network ( https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.tangle.tools#/staking ) -- TeoViTeoVi
-- 
+- AR.io Network Gateways: https://network-portal.app/#/gateways/Ms8uQa1XZIYbdMQA26ZHS3hnO5nBoC6G3xvrxDuJ7dw
 ## Socials
 https://x.com/diszell2008
 ## Discord 
