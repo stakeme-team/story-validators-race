@@ -1,4 +1,4 @@
-# Story Validators Race
+# Story validators race
 
 ## Task 3: Provide public endpoints of the archive node
 After archive node successfully launching, you will have to provision the public endpoints. So that's needed other users to interact with your node, starting from the first block.
