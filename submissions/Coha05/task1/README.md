@@ -9,10 +9,12 @@
 - 📫 How to reach me: **[on Telegram](https://t.me/notcoha)** or **[my X](https://x.com/Coha05_)**.
 
 - Avail Turing Guide: https://github.com/Coha05/turing-node-avail
+- Avail Turing Validator: https://avail-turing.subscan.io/validator/5DZXzhW3WSXvnTF2zm3RGqEmYLixCnBXyMCWG7J9tJMpXJh9
 - OG Testnet service: https://github.com/Coha05/0g-testnet
 - Elixir Guide: https://github.com/Coha05/Elixir-Testnet-Validator
 - Story Guide & Service: https://github.com/Coha05/Story
 - OG Explorer: https://explorer.tech-coha05.xyz/0g
+- Initia Validator: https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1sv5jej44xns6jem05yvexuq95dyzt0nkafhajd
 - More on my github.
 
 ---
