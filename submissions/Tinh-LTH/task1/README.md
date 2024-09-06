@@ -27,12 +27,12 @@ My focus is on maintaining high uptime, ensuring optimal performance, and contri
 ## Story Service 
 **- Cosmos RPC**:
 ```
-https://evm-rpc-story.allnodes.one
+https://rpc-story.allnodes.one
 ```
 
 **- Metamask RPC:**
 ```
-https://evm-evm-rpc-story.allnodes.one
+https://evm-rpc-story.allnodes.one
 ```
 
 **- Validator assdress**:
