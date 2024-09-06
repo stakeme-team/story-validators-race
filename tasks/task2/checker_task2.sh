@@ -8,7 +8,7 @@ DONE="[done]"
 BUSY="[busy]"
 FAILED="[failed]"
 
-TOTAL_STEPS=5
+TOTAL_STEPS=6
 CURRENT_STEP=1
 ALL_TESTS_PASSED=true
 
@@ -26,6 +26,63 @@ set_test_status() {
     fi
 }
 
+install_jq() {
+  check_jq_installed() {
+    if ! command -v jq &> /dev/null; then
+      return 1
+    else
+      return 0
+    fi
+  }
+
+  display_step_status "Checking if jq is installed" "$BUSY" "$YELLOW"
+
+  local OS="$(uname -s)"
+  if [[ "$OS" == "Linux" ]]; then
+    if command -v apt-get &> /dev/null; then
+      if check_jq_installed; then
+        display_step_status "jq already installed" "$DONE" "$GREEN"
+      else
+        sudo apt-get update > /dev/null
+        sudo apt-get install -y jq > /dev/null
+        if check_jq_installed; then
+          display_step_status "jq installed successfully" "$DONE" "$GREEN"
+        else
+          display_step_status "jq installation failed" "$FAILED" "$RED"
+          set_test_status "failed"
+          echo
+          exit 1
+        fi
+      fi
+    else
+      echo "This is not Ubuntu or the system does not use apt."
+      exit 1
+    fi
+  elif [[ "$OS" == "Darwin" ]]; then
+    if check_jq_installed; then
+      display_step_status "jq already installed" "$DONE" "$GREEN"
+    else
+      if ! command -v brew &> /dev/null; then
+        /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+      fi
+      brew install jq
+      if check_jq_installed; then
+        display_step_status "jq installed successfully" "$DONE" "$GREEN"
+      else
+        display_step_status "jq installation failed" "$FAILED" "$RED"
+        set_test_status "failed"
+        echo
+        exit 1
+      fi
+    fi
+  else
+    echo "Unsupported operating system: $OS"
+    exit 1
+  fi
+
+  echo
+}
+
 echo "
   ___ _____ ___  _____   __
  / __|_   _/ _ \| _ \ \ / /
@@ -34,6 +91,9 @@ echo "
 
 created checker validator team @stakeme
 "
+
+install_jq
+CURRENT_STEP=$((CURRENT_STEP + 1))
 
 echo "> Please enter the Cosmos RPC URL of the node: (ex. https://story-testnet-rpc.stakeme.pro)"
 read -r RPC_URL
@@ -112,7 +172,6 @@ else
     echo
 fi
 
-
 CURRENT_STEP=$((CURRENT_STEP + 1))
 
 display_step_status "Checking EVM JSON RPC" "$BUSY" "$YELLOW"
@@ -125,11 +184,11 @@ expected_hash="0x85c762933fc6600a200ced1985e238f31536ce7448772e2d0c2aba2e8b51099
 if [ "$block_hash" != "$expected_hash" ]; then
     display_step_status "EVM block hash is incorrect (current value: $block_hash)" "$FAILED" "$RED"
     set_test_status "failed"
-    echo
+    echo  # Переход на новую строку
     exit 1
 else
     display_step_status "EVM block hash is correct" "$DONE" "$GREEN"
-    echo
+    echo  # Переход на новую строку
 fi
 
 CURRENT_STEP=$((CURRENT_STEP + 1))
