@@ -7,6 +7,7 @@ OriginStake
 ### Validator Information
 
 We are OriginStake, a trusted validator offering non-custodial staking services on PoS networks.
+Our Website: https://originstake.com
 
 
 The special feature of OriginStake is that we participate in becoming Validator on blockchains not only on the technical aspect. We always contribute to the ecosystem in many different aspects such as user support, usage instructions, communication, and educating users about blockchain. We know that helping users better understand blockchain will help them more easily access the ecosystem. We constantly strive to contribute to the blockchains we participate in operating with the goal of sustainable development for all.
