@@ -26,12 +26,11 @@ We backed the creation amd keep maintaining of Undexer (Namada network indexer) 
 - Participating actively on every testnet iteration (actively contributing).
 - Mandragora was the first validator team that broke Namada public testnet (iteration nº 3; on latest testnet iterations, made it interoperable with Cosmos Hub testnet via IBC (assets were successfully transferred between them, and discovered an issue which was finally related to Heliax's Hermes fork they were using).
 - Technical/validator support to validators, and general support answering users' questions about Namada or Anoma.
-- Testing out actively hain features and providing feedback on every testnet iteration.
+- Testing out actively chain features and providing feedback on every testnet iteration.
 
 # Other remarkable contributions in the ecosystem 
 
 - Mandragora is the top 12 relayer operator with +$64M secured by us: https://ibc.iobscan.io/relayers
-
 
 # Contact us
 
