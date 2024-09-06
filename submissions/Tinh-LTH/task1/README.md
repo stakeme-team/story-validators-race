@@ -24,18 +24,6 @@ My focus is on maintaining high uptime, ensuring optimal performance, and contri
 
 # **Services**
 
-## Cosmos RPC
-
-```
-https://rpc-story.allnodes.one
-```
-
-## EVM JSON RPC
-
-```
-https://evm-rpc-story.allnodes.one
-```
-
 ## PEER
 
 ```
