@@ -1,4 +1,7 @@
-# **About me:**
+## 🎨 About Me
+- 📫 How to reach me: **[On Telegram](https://t.me/tinhdv)** or **[My X](https://x.com/tinhs2cop)**.
+
+---
 Welcome to TinhDv Service, your go-to resource for setting up and managing blockchain nodes. Whether you're an enthusiast, developer, or business, we provide the tools and knowledge to help you succeed in maintaining blockchain networks.
 
 Our guides cover platforms like Ethereum, Cosmos, Polkadot, offering clear, step-by-step instructions to:
@@ -22,10 +25,23 @@ I currently operate validator nodes for multiple blockchain networks:
 - Story: https://testnet.story.explorers.guru/validator/storyvaloper1wjl6dzufze67r7rpx5ta2z7kxeeva4h2sawxa8
 My focus is on maintaining high uptime, ensuring optimal performance, and contributing to network security and decentralization.
 
-# **Services**
+## Story Service 
+**- Cosmos RPC**:
+```
+https://evm-rpc-story.allnodes.one
+```
 
-## PEER
+**- Metamask RPC:**
+```
+https://evm-evm-rpc-story.allnodes.one
+```
 
+**- Validator assdress**:
+```
+https://testnet.story.explorers.guru/validator/storyvaloper1wjl6dzufze67r7rpx5ta2z7kxeeva4h2sawxa8
+```
+
+**- Peer:**
 ```
 f8b29354fbe832c1cb011b2fbe4f930f89a0d430@peer-story.allnodes.one:26656
 ```
