@@ -1,7 +1,7 @@
 OriginStake
 
 <p align="center">
-<img src="[https://raw.githubusercontent.com/OriginStake/ogs-media/main/Slice Logo/OriginStake-slice-2.svg](https://raw.githubusercontent.com/OriginStake/ogs-media/main/Slice%20Logo/OriginStake-slice-2.svg)" width="300" height="300">
+<img src="https://raw.githubusercontent.com/OriginStake/ogs-media/main/Slice%20Logo/OriginStake-slice-2.svg" width="300" height="300">
 </p>
 
 ### Validator Information
@@ -32,34 +32,37 @@ We have extensive experience operating on diverse blockchains such as EVM, Cosmo
 
   <https://testnet.story.explorers.guru/validator/storyvaloper1zrkjleyv9c4rp5u24cyn6j08ahypep35r4uk3k>
 
-  \
-* **Casper Mainet:** <https://cspr.live/validator/01bfe29c4645582cab79fea369dcffab349676c8970ad80a99a8518c7453ea393e>
+* **Casper Mainet:**
 
+  <https://cspr.live/validator/01bfe29c4645582cab79fea369dcffab349676c8970ad80a99a8518c7453ea393e>
 
-* **Aura Mainet:** <https://aurascan.io/validators/auravaloper1pms3rklvl59gc4rkrhzxjxneuake3jurm4ay3z>
+* **Aura Mainet:**
+  
+  <https://aurascan.io/validators/auravaloper1pms3rklvl59gc4rkrhzxjxneuake3jurm4ay3z>
 
+* **Berachain v2 (testnet):**
 
-* **Berachain v2 (testnet):** <https://bartio.station.berachain.com/validators/0xFc81ADDEE6D47B1EFba13E4e2268064D4a3cD065>
+  <https://bartio.station.berachain.com/validators/0xFc81ADDEE6D47B1EFba13E4e2268064D4a3cD065>
 
-  \
 * **ZeroGravity (testnet)**
 
   <https://explorer.originstake.com/0g/staking/0gvaloper1yz306wwv24d8m2zg8yujrssxs7cp2483fz0hcr>
 
-  \
 * **Initia (testnet):**
 
   <https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1dntcr3jpuwdkx74s4tnw8a0gp2mugum7j37ppv>
 
+* **Mantrachain (testnet):**
 
-* **Mantrachain (testnet):** <https://explorer.originstake.com/mantra/staking/mantravaloper1kunnuwldn2wu42ct5pgfemknpfwpc4c4l3gx4f>
+  <https://explorer.originstake.com/mantra/staking/mantravaloper1kunnuwldn2wu42ct5pgfemknpfwpc4c4l3gx4f>
 
+* **Airchains (testnet):**
 
-* **Airchains (testnet):** <https://testnet.airchains.io/validator/airvaloper159nql0nlqp9fql2cjlytzmf6ftfzmdwzd0lah5>
+  <https://testnet.airchains.io/validator/airvaloper159nql0nlqp9fql2cjlytzmf6ftfzmdwzd0lah5>
 
+* **Penumbra (testnet):**
 
-* **Penumbra (testnet):** <https://penumbra.today/validator/penumbravalid1he9sez9r2yzc8dekh5w7vqqz6r5c557s8jjchmu3879e9lzn4g9q57k04c>
-
+  <https://penumbra.today/validator/penumbravalid1he9sez9r2yzc8dekh5w7vqqz6r5c557s8jjchmu3879e9lzn4g9q57k04c>
 
 ## **Ecosystem outside of being an operator**
 
