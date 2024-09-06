@@ -16,7 +16,7 @@ Maintain and upgrade your nodes to stay current with network changes.
 
 Our mission is to empower you with the knowledge and skills to effectively run blockchain nodes, contributing to the robustness and resilience of decentralized networks. Explore our detailed guides and start your journey towards becoming a proficient node operator today.
 
-- **About me:**
+# **About me:**
 I currently operate validator nodes for multiple blockchain networks: 
 
 - 0gchain: https://testnet.ping.pub/0g/staking/0gvaloper1arf2rfrsx4pu9kpzxj06ydces6ptn8jwvth73n
