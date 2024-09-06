@@ -19,12 +19,12 @@ Our mission is to empower you with the knowledge and skills to effectively run b
 - **About me:**
 I currently operate validator nodes for multiple blockchain networks: 
 
-0gchain: https://testnet.ping.pub/0g/staking/0gvaloper1arf2rfrsx4pu9kpzxj06ydces6ptn8jwvth73n
-Airchain: https://testnet.itrocket.net/airchains/staking/airvaloper1rr2zsalccnqa86ndvc0l90kdwhxw9hxg8jjejc
-Initia: https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1lwf56jz3nr8njw58j2gdcmzvv6kqnc50mq4pss
-Chainbase Network AVS: https://holesky.eigenlayer.xyz/operator/0x2a3f4d5d0b1fc69e00ef9d9593663e644d0057e4
-Fiamma: https://testnet-explorer.fiammachain.io/fiamma/staking/fiammavaloper14tlxt5aapp6r03zntlty5nhcf9nnvmv0fhklsr
-Empe-chain: https://testnet.ping.pub/empe/staking/empevaloper1p9wevq0sxr0xq90t0p68gl7aletp5zdwljwmn8
+- 0gchain: https://testnet.ping.pub/0g/staking/0gvaloper1arf2rfrsx4pu9kpzxj06ydces6ptn8jwvth73n
+- Airchain: https://testnet.itrocket.net/airchains/staking/airvaloper1rr2zsalccnqa86ndvc0l90kdwhxw9hxg8jjejc
+- Initia: https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1lwf56jz3nr8njw58j2gdcmzvv6kqnc50mq4pss
+- Chainbase Network AVS: https://holesky.eigenlayer.xyz/operator/0x2a3f4d5d0b1fc69e00ef9d9593663e644d0057e4
+- Fiamma: https://testnet-explorer.fiammachain.io/fiamma/staking/fiammavaloper14tlxt5aapp6r03zntlty5nhcf9nnvmv0fhklsr
+- Empe-chain: https://testnet.ping.pub/empe/staking/empevaloper1p9wevq0sxr0xq90t0p68gl7aletp5zdwljwmn8
 
 My focus is on maintaining high uptime, ensuring optimal performance, and contributing to network security and decentralization.
 
