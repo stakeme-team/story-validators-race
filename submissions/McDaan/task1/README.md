@@ -15,6 +15,7 @@ Hey there fam! This is Daniel, a blockchain passionate and founder of Mandragora
  - Stride (no longer in the active set): we have no data since it turned out a consumer chain of Cosmos Hub, so it uses its active set now.
  - Composable (participated on its testnet and then on mainnet - no longer in the active set): https://ping.pub/picasso/staking/picavaloper1xhrtx9x030cw95qmhs2alypn72vxjszplvqcfj
  - Sifchain (the team rugged): https://ping.pub/sifchain/staking/sifvaloper1fvpl8sct7jgfmlyu85gsxt8qxvaff8cdqrytme
+ - Story Protocol (actively participating on public testnet in the active set and contributing on technical support in a non-stop manner): https://testnet.story.explorers.guru/validator/storyvaloper1u0ujshue3jz4fl8yncqvc94uauusj7fg9tx47g
 
 In those networks we are out of the active set, whether being inactive or jailed, we decided to leave ourselves - even though there are special cases as Evmos, Stride, Osmosis, etc.
 
