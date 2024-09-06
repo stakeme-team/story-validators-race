@@ -12,7 +12,8 @@ Hey there fam! This is Daniel, a blockchain passionate and founder of Mandragora
  - Namada (15 testnet iterations, 1 incentivized testnet, and many other testnets after that - top 1 contributors, top 1 on the incentivized testnet)
  - Side Protocol (testnet - we have participated in its two celebrated incentivized rounds so far)
  - Osmosis (no longer in the active set)
- - Composable (no longer in the active set)
+ - Stride (no longer in the active set)
+ - Composable (participated on its testnet and then on mainnet - no longer in the active set)
  - Sifchain (the team rugged)
 
 # Contributions
