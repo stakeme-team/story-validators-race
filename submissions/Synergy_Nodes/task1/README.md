@@ -51,3 +51,39 @@ We actively engage with team members, other Validators and also with the communi
 - Auto Compounding
 - Explorer based on Ping.pub
 - and more...
+
+### Infrastructure for our Validator Nodes
+
+For mainnets, we operate high end dedicated servers:
+
+```
+AMD Ryzen Threadripper 3970X 32-Core Processor (or)
+AMD Ryzen 9 7950X3D 16-Core Processor 
+128 GB DDR4 RAM
+2x 2 TB NVMe SSDs
+1 Gbits/S
+```
+
+### Provider:
+``LeaseWeb, OVH``
+
+For each chain where we operate Validator nodes, we run 3 servers.
+
+```
+1st for Main Validator Node
+2nd as Backup Validator Node
+3rd for IBC relayers, API, RPC endpoints
+```
+
+### Security for our Nodes:
+
+For all the servers we implement the following security measures:
+1. Deny all incoming traffic except for few important ports, such as 26656.
+2. Hardware tied SSH Key Authentication to login to server. Without these keys, no one can login.
+3. Removed SSH login using root password.
+4. Remove default SSH port 22 and we are using custom port for SSH.
+5. SSH login only allowed from 1 main IP, and allow temporary access to an other IP during travel.
+6. Fully synced Backup server and we can switch to backup server within 5 mins if main sever is down.
+7. PagerDuty alerts using Tenderduty with phone calls and email alerts which we have setup in an other independent server. This will notify us through phone call and email anytime if we miss 3 pre-commits.
+
+
