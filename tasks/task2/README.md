@@ -12,7 +12,7 @@ In this task, you will install and run an archive node on the iliad testnet. Thi
 You can use our checker to validate your node’s availability:
 
 ```bash
-bash checker_task2.sh
+bash <(curl -s https://raw.githubusercontent.com/stakeme-team/story-validators-race/main/tasks/task2/checker_task2.sh)
 ```
 ## Submission
 
