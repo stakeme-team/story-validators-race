@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "https://rpc.story.sipalingtestnet.com",
+  "evm_json_rpc": "https://evm.story.sipalingtestnet.com",
+  "tests": "ok",
+  "timestamp": 1725641661
+}
