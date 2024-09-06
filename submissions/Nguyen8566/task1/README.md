@@ -4,6 +4,7 @@ https://t.me/tutorialnodegrup
 https://discord.gg/nC9JRqty
 
 My validator mainnet networks
+
 https://arbiscan.io/token/0xc227e25544edd261a9066932c71a25f4504972f1?a=0x38059d8bed547835B1a3E5C77CE9Ce9973d04Af8
 https://x.taostats.io/hotkey/5Cm8KKLhLQEDd8bsWnPEANrPhq1GHQjYUu5GnZzDvhePQ3SV
 
