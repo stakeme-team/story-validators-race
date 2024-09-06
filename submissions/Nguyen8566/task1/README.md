@@ -1,6 +1,8 @@
 Information about my validator
 My name is Nguyen, i am independent POS validator and blockchain enthusiast. I have 4 years of experience in the Web3 industry as a community manager in several communities. Currently, I am a moderator in:
+
 https://t.me/tutorialnodegrup
+
 https://discord.gg/nC9JRqty
 
 My validator mainnet networks
