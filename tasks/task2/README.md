@@ -5,7 +5,7 @@
 In this task, you will install and run an archive node on the iliad testnet. This task demonstrates your ability to deploy a node effectively.
 
 ### Assignment criteria:
-- **Story (Cosmos-layer) node**: The node must store the first block (`earliest_block_height: 1`).
+- **Story (Cosmos-layer) node**: The node must store the first block (`earliest_block_height: 1`). Also must be tx_index: on
 - **Story Geth (EVM-layer) node**: The node must store the first block.
 - **Public RPC Access**: The RPC must be publicly accessible. Using a CDN with a proxy is allowed. Maintaining high RPC uptime is crucial, as the checking system will periodically send requests to verify availability.
 
