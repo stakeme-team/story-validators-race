@@ -8,7 +8,7 @@ DONE="[done]"
 BUSY="[busy]"
 FAILED="[failed]"
 
-TOTAL_STEPS=5
+TOTAL_STEPS=10
 CURRENT_STEP=1
 ALL_TESTS_PASSED=true
 
@@ -26,6 +26,63 @@ set_test_status() {
     fi
 }
 
+install_jq() {
+  check_jq_installed() {
+    if ! command -v jq &> /dev/null; then
+      return 1
+    else
+      return 0
+    fi
+  }
+
+  display_step_status "Checking if jq is installed" "$BUSY" "$YELLOW"
+
+  local OS="$(uname -s)"
+  if [[ "$OS" == "Linux" ]]; then
+    if command -v apt-get &> /dev/null; then
+      if check_jq_installed; then
+        display_step_status "jq already installed" "$DONE" "$GREEN"
+      else
+        sudo apt-get update > /dev/null
+        sudo apt-get install -y jq > /dev/null
+        if check_jq_installed; then
+          display_step_status "jq installed successfully" "$DONE" "$GREEN"
+        else
+          display_step_status "jq installation failed" "$FAILED" "$RED"
+          set_test_status "failed"
+          echo
+          exit 1
+        fi
+      fi
+    else
+      echo "This is not Ubuntu or the system does not use apt."
+      exit 1
+    fi
+  elif [[ "$OS" == "Darwin" ]]; then
+    if check_jq_installed; then
+      display_step_status "jq already installed" "$DONE" "$GREEN"
+    else
+      if ! command -v brew &> /dev/null; then
+        /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+      fi
+      brew install jq
+      if check_jq_installed; then
+        display_step_status "jq installed successfully" "$DONE" "$GREEN"
+      else
+        display_step_status "jq installation failed" "$FAILED" "$RED"
+        set_test_status "failed"
+        echo
+        exit 1
+      fi
+    fi
+  else
+    echo "Unsupported operating system: $OS"
+    exit 1
+  fi
+
+  echo
+}
+
 echo "
   ___ _____ ___  _____   __
  / __|_   _/ _ \| _ \ \ / /
@@ -34,6 +91,9 @@ echo "
 
 created checker validator team @stakeme
 "
+
+install_jq
+CURRENT_STEP=$((CURRENT_STEP + 1))
 
 echo "> Please enter the Cosmos RPC URL of the node: (ex. https://story-testnet-rpc.stakeme.pro)"
 read -r RPC_URL
@@ -89,7 +149,21 @@ else
 fi
 
 CURRENT_STEP=$((CURRENT_STEP + 1))
+display_step_status "Checking Cosmos node synchronization (catching_up)" "$BUSY" "$YELLOW"
 
+catching_up=$(echo $response | jq -r '.result.sync_info.catching_up')
+
+if [ "$catching_up" = "false" ]; then
+    display_step_status "Cosmos node is synchronized (catching_up: false)" "$DONE" "$GREEN"
+    echo
+else
+    display_step_status "Cosmos node is still catching up (catching_up: true)" "$FAILED" "$RED"
+    set_test_status "failed"
+    echo
+    exit 1
+fi
+
+CURRENT_STEP=$((CURRENT_STEP + 1))
 echo "> Please enter the EVM JSON RPC URL (ex. https://story-testnet-evm-rpc.stakeme.pro)"
 read -r EVM_RPC_URL
 
@@ -109,7 +183,6 @@ else
     display_step_status "EVM Chain ID is correct" "$DONE" "$GREEN"
     echo
 fi
-
 
 CURRENT_STEP=$((CURRENT_STEP + 1))
 
@@ -132,6 +205,41 @@ fi
 
 CURRENT_STEP=$((CURRENT_STEP + 1))
 
+echo "> Please enter the Cosmos REST API URL (ex. https://story-testnet-rest.stakeme.pro)"
+read -r REST_URL
+
+display_step_status "Checking Cosmos REST API" "$BUSY" "$YELLOW"
+
+rest_response=$(curl -s "$REST_URL/upgrade/module_versions")
+
+expected_rest_response='{"code":200,"msg":{"module_versions":[{"name":"auth","version":"5"},{"name":"bank","version":"4"},{"name":"consensus","version":"1"},{"name":"distribution","version":"3"},{"name":"evmengine","version":"1"},{"name":"evmstaking","version":"1"},{"name":"genutil","version":"1"},{"name":"gov","version":"5"},{"name":"mint","version":"2"},{"name":"runtime"},{"name":"slashing","version":"4"},{"name":"staking","version":"5"},{"name":"upgrade","version":"2"}]},"error":""}'
+
+if [[ "$rest_response" == "$expected_rest_response" ]]; then
+    display_step_status "Cosmos REST API returned expected result" "$DONE" "$GREEN"
+    echo
+else
+    display_step_status "Cosmos REST API response does not match expected result" "$FAILED" "$RED"
+    set_test_status "failed"
+    echo
+    exit 1
+fi
+
+CURRENT_STEP=$((CURRENT_STEP + 1))
+
+echo "> Please enter the Cosmos WebSocket URL (ex. wss://story-testnet-rpc.stakeme.pro/websocket)"
+read -r COSMOS_WS_URL
+
+display_step_status "Cosmos WebSocket URL saved (please check WebSocket connection manually)" "$DONE" "$GREEN"
+echo
+
+CURRENT_STEP=$((CURRENT_STEP + 1))
+
+echo "> Please enter the EVM WebSocket URL (ex. wss://story-testnet-evm-rpc.stakeme.pro)"
+read -r EVM_WS_URL
+
+display_step_status "EVM WebSocket URL saved (please check WebSocket connection manually)" "$DONE" "$GREEN"
+echo
+
 tests_status="ok"
 if [ "$ALL_TESTS_PASSED" = false ]; then
     tests_status="failed"
@@ -142,6 +250,9 @@ echo "Paste the content into data.json
 {
   \"cosmos_rpc\": \"$RPC_URL\",
   \"evm_json_rpc\": \"$EVM_RPC_URL\",
+  \"cosmos_rest\": \"$REST_URL\",
+  \"cosmos_ws\": \"$COSMOS_WS_URL\",
+  \"evm_ws\": \"$EVM_WS_URL\",
   \"tests\": \"$tests_status\",
   \"timestamp\": $checked_timestamp
 }
