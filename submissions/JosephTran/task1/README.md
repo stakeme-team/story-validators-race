@@ -60,7 +60,7 @@ https://service.josephtran.xyz/testnet/story/snapshot
 
 
 # For more information about my work and experience, please visit:*
-Services: https://service.josephtran.xyz/
-Website: https://www.josephtran.xyz
-GitHub: https://github.com/Josephtran102
-Twitter: https://twitter.com/josephtran102
+- Services: https://service.josephtran.xyz/
+- Website: https://www.josephtran.xyz
+- GitHub: https://github.com/Josephtran102
+- Twitter: https://twitter.com/josephtran102
