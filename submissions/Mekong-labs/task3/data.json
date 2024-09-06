@@ -3,7 +3,7 @@
     "evm_json_rpc": "https://story-testnet-evm-rpc.mekonglabs.tech",
     "cosmos_rest": "https://story-testnet-rest.mekonglabs.tech",
     "cosmos_ws": "https://story-testnet-rpc.mekonglabs.tech/websocket",
-    "evm_ws": "http://story-testnet-evm-wss.mekonglabs.tech",
+    "evm_ws": "https://story-testnet-evm-wss.mekonglabs.tech",
     "tests": "ok",
     "timestamp": 1725644202
   }
