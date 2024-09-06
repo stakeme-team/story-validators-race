@@ -41,13 +41,12 @@ The validators I am on right now
 
 Mainnet
 LUNC - https://validator.info/terra-classic/terravaloper14qv3eec9chk0d55ldjpffjwdet3wf4tdetqkk2
-SOURCE - https://dashboard.oneiricts.com/source
-Sentinelhub - https://dashboard.oneiricts.com/sentinel
+SOURCE - https://dashboard.oneiricts.com/source/staking/sourcevaloper14m0n559xdj00qwvp6ck0xesprrq26kgpke3xl2
+Sentinelhub - https://dashboard.oneiricts.com/sentinel/staking/sentvaloper14m0n559xdj00qwvp6ck0xesprrq26kgp528uls
 
 Testnet
-Zero Gravity - https://dashboard.oneiricts.com/0g-chain
-Story
-Chainbase
-Elixir
+Zero Gravity - https://dashboard.oneiricts.com/0g-chain/staking/0gvaloper1gd0e2wjajrm65sxcl24cyka9n483eckktyv8vg
+Chainbase - https://holesky.eigenlayer.xyz/operator/0xb7dfff066ceb8690eb6e447bda26ae75bac57cc2
+
 
 I am hoping to be selected so I can be part of building up the ecosystem and also be able to afford more equipment in the future to contribute in more ways than now.
