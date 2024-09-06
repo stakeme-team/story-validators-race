@@ -1,5 +1,5 @@
 # Synergy Nodes
-<center><img src="https://raw.githubusercontent.com/SynergyNodes/SynergyNodes_Logo/main/Synergy_Nodes.png" style="width: 50%; fill: white;" /></center>
+<img src="https://raw.githubusercontent.com/SynergyNodes/SynergyNodes_Logo/main/Synergy_Nodes.png" style="width: 50%; fill: white;" />
 
 > ITRocket provide services for projects, developers and  validators, custom monitoring and analysis tools to enhance community effectiveness and network reliability. Our services also include but are not limited to: Daily snapshots, state-sync, public endpoints, peering and seed-node services, RPC Scanner, Decentralization Analytics, Proposal Bot, Peer scanner, and more.
 Our rapidly growing user base, which has increased by 1.6 times (from 15,000 to 25,000 unique daily users on our website in the last two months) and an average of 20 million requests to our public endpoints are a testament to our reliability and the community's trust in our services.  
