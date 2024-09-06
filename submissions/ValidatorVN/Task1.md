@@ -1,6 +1,6 @@
 **ValidatorVN**
 
-We are a Trusted Proof-of-Stake validator & Tendermint chain service provider. Active ecosystem contributor, community manager & moderator. We have participated in 70+ projects since the beginning and are operating on +20 projects both mainnet and testnet including Shentu Chain, Zeta Chain, Fetch AI, Mantra Chain, 0G, Namada and more.
+We are a Tendermint chain service provider & IBC relayer, active ecosystem contributor, community manager & moderator. We have participated in 70+ projects since the beginning and are operating on +20 projects both mainnet and testnet including Shentu Chain, Zeta Chain, Fetch AI, Mantra Chain, 0G, Namada and more.
 
 List of testnet & mainnet projects we are securing
 
@@ -58,9 +58,12 @@ We adopt Grafana, Prometheus, Tenderduty, Horcrux, Tmkms as our main monitoring 
 
 We offer various services such as installation guides, public endpoints, snapshots, essential files, live peers & seeds. More at https://services.validatorvn.com/
 
-We also actively help the community by taking a role as technical mod in Autonity & 0g(Zero-Gravity)
+We also actively help the community by taking a role as technical mod in Autonity & 0g(Zero-Gravity). Spreading the news about projects on our Telegram group with 2500 members http://t.me/ValidatorVN 
 
 ***Recent contribution***
 
+Services for Story Protocol: https://services.validatorvn.com/story-protocol
+
 In-depth look at Initia architecture: https://services.validatorvn.com/initia
+
 Addressing uptime performance: https://services.validatorvn.com/initia/uptime-performance-addressing-missed-blocks
