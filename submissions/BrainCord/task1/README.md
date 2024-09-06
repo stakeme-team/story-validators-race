@@ -14,8 +14,7 @@ I take pride in my robust and diverse infrastructure setup:
   - 🇵🇱 Poland
   - 🇩🇪 Germany
   - 🇺🇸 United States 
-
-This distributed approach ensures maximum uptime and resilience for the networks I support.
+- Main Server: Ryzen 9 5950X / 64GB RAM / 1TB SSD
 
 ## What Networks I do operate now?
 - Zero Gravity: https://testnet.0g.explorers.guru/validator/0gvaloper1t02n0x53czj9xm94uexvs452pfv7dc2eqgz2sh
@@ -35,6 +34,17 @@ This distributed approach ensures maximum uptime and resilience for the networks
 - Taiko
 - Umee
 
+## Recent contributions
+### Namada (Shielded Expedition)
+🛡️ I'm actively involved in the Namada testnet, providing:
+- RPC & Indexer services
+- Operating an IBC Relayer between Namada and Osmosis
+### Chainflip
+🔗 I've been supporting Chainflip's journey from testnet to mainnet:
+- Maintaining testnet infrastructure post-mainnet launch
+- Previously served as a Discord (mod), assisting the Chainflip team
+- Helped manage community engagement leading up to the token launch on exchanges
 
-## Website 
-https://readymag.website/u1743175687/owl/
+## Socials
+Twitter: https://x.com/owl_genesis | 
+Discord: q.w.e.r.t.y | https://readymag.website/u1743175687/owl/
