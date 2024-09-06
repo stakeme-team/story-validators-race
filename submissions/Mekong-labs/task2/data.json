@@ -1,6 +1,6 @@
 {
-  "cosmos_rpc": "",
-  "evm_json_rpc": "",
+  "cosmos_rpc": "https://story-testnet-rpc.mekonglabs.tech",
+  "evm_json_rpc": "https://story-testnet-evm-rpc.mekonglabs.tech",
   "tests": "ok",
-  "timestamp": 0
+  "timestamp": 1725637387
 }
