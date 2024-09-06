@@ -33,6 +33,7 @@ After successfully launching the archive node, you will need to provision public
 In the last step, you must prepare and launch a validator node. This will prove that your node is ready to perform the validation function and keep the network running.
 
 ## Rewards
+![story-testnet](https://github.com/user-attachments/assets/98aac9f0-ae10-4f51-8f97-60f9bf3ca8ba)
 After successfully completing all four tasks you will receive:
 - 1300 IP test tokens for participation.
 - A special STAKEME role in our Discord community.
