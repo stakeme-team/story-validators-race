@@ -12,11 +12,11 @@ Currently I am the moderator for projects: Sui, 0g-Labs, Suins, Bitsmiley. Among
 I have a passion for blockchain technology and am willing to spend time and effort to learn and develop. I am always responsible for my work, ensuring the node operates stably and safely. I am always looking for new and creative solutions to problems. I am willing to cooperate with other members of the team and in the community to develop together.
 
 # **My experience:**
-I currently operate validator nodes for multiple blockchain networks: 
+I. currently operate validator nodes for multiple blockchain networks: 
 - 0gchain: One of 125 selected active validators:
    https://testnet.explorer.liveraven.net/zero-gravity/staking/0gvaloper14m6clv038tyu5get77acp95wjjpvftk9s938d0
 - VOI Netwwork: https://voi-nodes.dev/node/0651f435-4f61
 
-II In addition, I have installed testnet nodes for some projects such as Sui, Lava, Dymension, Avail. But because the testnet has ended, I currently only have some evidence as follows. (Please take a look): 
+II. In addition, I have installed testnet nodes for some projects such as Sui, Lava, Dymension, Avail. But because the testnet has ended, I currently only have some evidence as follows. (Please take a look): 
 - Dymension: https://github.com/Taybew1/rollapp-registry
 - Avail: https://github.com/Taybew1/avail-campaign-listing
