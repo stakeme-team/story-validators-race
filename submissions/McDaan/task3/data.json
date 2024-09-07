@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://story-rpc.mandragora.io",
+  "evm_json_rpc": "https://story-rpc-evm.mandragora.io",
+  "cosmos_rest": "https://story-api.mandragora.io",
+  "cosmos_ws": "wss://story-rpc.mandragora.io/websocket",
+  "evm_ws": "wss://story-wss.mandragora.io",
+  "tests": "ok",
+  "timestamp": 1725735894
+}
