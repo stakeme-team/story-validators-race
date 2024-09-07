@@ -5,12 +5,12 @@ I specialise on Cosmos ecosystem - validating in countless testnests and some ma
 More than 50 incentivized testnets and ambassador campaigns are behind my back.
 
 **My current activities:**
-Uptick mainnet: https://uptick.explorers.guru/validator/uptickvaloper1m280rc5q0mkc3x89qzk2d2qz5h60y4j8yxzjsd
-Alora testnet
-Nillion testnet
-0g testnet
-Elixir testnet
-Massa mainnet
+Uptick mainnet: https://uptick.explorers.guru/validator/uptickvaloper1m280rc5q0mkc3x89qzk2d2qz5h60y4j8yxzjsd  <br/>
+Alora testnet  
+Nillion testnet  
+0g testnet   
+Elixir testnet  
+Massa mainnet  
 
 **My past activities (not all of them):**
 HaQQ mainnet validator
