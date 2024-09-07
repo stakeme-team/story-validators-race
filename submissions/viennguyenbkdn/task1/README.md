@@ -1,12 +1,13 @@
 # Profile information
 ---
 ## 1. Server Specifications:
-CPU: AMD’s Ryzen™ 9 5950x 
-RAM: 128GB of DDR4 ECC 
-Disk: 2 x 3.84 TB NVMe SSD Datacenter 
-Bandwidth: 1 GBit/s guaranteed, Unlimited Traffic 
-Backup Space: 100 GB 
+CPU: AMD’s Ryzen™ 9 5950x
+RAM: 128GB of DDR4 ECC
+Disk: 2 x 3.84 TB NVMe SSD Datacenter
+Bandwidth: 1 GBit/s guaranteed, Unlimited Traffic
+Backup Space: 100 GB
 Location: Finland (Hetzner) 
+
 
 ## 2. Contact information
 Website: https://viennguyenbkdns-noderunner.gitbook.io/introduction/
