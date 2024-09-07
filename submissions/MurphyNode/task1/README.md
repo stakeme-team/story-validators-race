@@ -42,19 +42,19 @@ Our infrastructure is designed for optimal performance and reliability:
 
 Cosmos Ecosystem - Validators:
 
-Aura: https://aurascan.io/validators/auravaloper1h0kddfd427k82htf6f9qtc9jrpa42fh9rsfrly
-Warden: https://testnet.warden.explorers.guru/validator/wardenvaloper1lytdjcg36w5lrxv7xeveg0h9f5a8hxj9vmld0q
-Swisstronik: https://explorer-cosmos.testnet.swisstronik.com/swisstronik/staking/swtrvaloper19kc0xts64nfhlkynx5cwn8kkm3n2k9y6jtkgnx 
-Mantrachain: https://testnet.mantra.explorers.guru/validator/mantravaloper1jctr2gp9g53ry2wvy3ajjdjaspqak9dc74yae7
-0G: https://testnet.0g.explorers.guru/validator/0gvaloper10a40497x8gs8sxqqs6nd7uuj9mgl7qfcmhjk88
-Galactica: https://explorer-pingpub-reticulum.galactica.com/galactica-reticulum/staking/galavaloper1lgs65nm2mk7akd0p2gpk40sa2sqwryjwdsj6el
-Selfchain: https://explorer.selfchain.xyz/selfchain/staking/selfvaloper163s6a06ykd97gmtzd40mxmqgg7wm7sv4g0970s
-Dymension: https://devnet.dymension.xyz/rollapp/lyeoeon_9240338-1/metrics
-Side: https://testnet.itrocket.net/side/staking/bcvaloper1qjypkpvfmw7qmt9kh92vn5hf0wsdf5wgd3sl9d
-Stratis: https://auroria.beacon.stratisevm.com/validator/99e4fe82b070bb32e3e3ccf5b78b4a99e9bd37e88f61ff583bd0eeb45c3d3026f37658361e10b0bff83629e3e6ffb6d3#deposits
-Crossfi: https://test.xfiscan.com/validator/mxvaloper177ccxrcfh4cv9jxjc5z96cp6dswqvc3x2nmtrp
-Initia: https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper19p2pghtzf2av2s2pun3xh3dvad9qs47fqv40ku
-Lumoz, Airchains, Namada, Dusk, Dill, Nulink,...
+- Aura: https://aurascan.io/validators/auravaloper1h0kddfd427k82htf6f9qtc9jrpa42fh9rsfrly
+- Warden: https://testnet.warden.explorers.guru/validator/wardenvaloper1lytdjcg36w5lrxv7xeveg0h9f5a8hxj9vmld0q
+- Swisstronik: https://explorer-cosmos.testnet.swisstronik.com/swisstronik/staking/swtrvaloper19kc0xts64nfhlkynx5cwn8kkm3n2k9y6jtkgnx 
+- Mantrachain: https://testnet.mantra.explorers.guru/validator/mantravaloper1jctr2gp9g53ry2wvy3ajjdjaspqak9dc74yae7
+- 0G: https://testnet.0g.explorers.guru/validator/0gvaloper10a40497x8gs8sxqqs6nd7uuj9mgl7qfcmhjk88
+- Galactica: https://explorer-pingpub-reticulum.galactica.com/galactica-reticulum/staking/galavaloper1lgs65nm2mk7akd0p2gpk40sa2sqwryjwdsj6el
+- Selfchain: https://explorer.selfchain.xyz/selfchain/staking/selfvaloper163s6a06ykd97gmtzd40mxmqgg7wm7sv4g0970s
+- Dymension: https://devnet.dymension.xyz/rollapp/lyeoeon_9240338-1/metrics
+- Side: https://testnet.itrocket.net/side/staking/bcvaloper1qjypkpvfmw7qmt9kh92vn5hf0wsdf5wgd3sl9d
+- Stratis: https://auroria.beacon.stratisevm.com/validator/99e4fe82b070bb32e3e3ccf5b78b4a99e9bd37e88f61ff583bd0eeb45c3d3026f37658361e10b0bff83629e3e6ffb6d3#deposits
+- Crossfi: https://test.xfiscan.com/validator/mxvaloper177ccxrcfh4cv9jxjc5z96cp6dswqvc3x2nmtrp
+- Initia: https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper19p2pghtzf2av2s2pun3xh3dvad9qs47fqv40ku
+- Lumoz, Airchains, Namada, Dusk, Dill, Nulink,...
 
 
 ## Our Services
