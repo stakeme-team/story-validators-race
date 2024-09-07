@@ -3,7 +3,7 @@ Welcome to Joseph Tran Node Operator Services, your comprehensive guide to setti
 
 Our guides are designed to be clear and accessible, covering a wide range of blockchain platforms including Ethereum, Polkadot, and Cosmos. We provide step-by-step instructions, best practices for security and performance, and troubleshooting tips to ensure your nodes run smoothly and efficiently.
 
-Our Focus :
+By following our guides, you will learn how to :
 
 - Set up and configure your environment for different blockchain networks.
 
