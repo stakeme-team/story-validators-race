@@ -68,9 +68,9 @@ Analyzed performance data to identify bottlenecks and implemented solutions to i
 Security Enhancements:
 Conducted security audits and assessments of node setups to identify potential vulnerabilities.
 Implemented security measures and best practices to protect nodes from attacks and unauthorized access.
+
+
 Documentation and Knowledge Sharing:
-
-
 Created and maintained detailed documentation for node setup processes, troubleshooting guides, and best practices.
 Shared knowledge and experiences with other validators through written guides, tutorials, and workshops, fostering a collaborative environment. These contributions have helped improve the stability, security, and efficiency of the blockchain networks I have worked with, and have furthered my expertise in the field. My ongoing commitment to supporting and advancing blockchain technology drives me to continually seek ways to enhance my contributions.
 
