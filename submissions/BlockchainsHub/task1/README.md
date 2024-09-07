@@ -1,6 +1,10 @@
 ![Notion Banner 3000x1000](https://github.com/user-attachments/assets/b4d70c7d-6971-409d-bc24-8a4acded0294)
 ## Introduction
-BlockHub is your trusted partner in Proof-of-Stake (PoS) validation services. Founded in 2023, we bring ambition and dedication to deliver unparalleled services and support to our clients and the broader crypto community. Our 24/7 monitoring system, powered by Prometheus and Grafana, ensures high standards of reliability and performance.
+Founded in late 2023 by @botxx15, a crypto enthusiast since 2017, BlockHub is an emerging force in Proof-of-Stake (PoS) validation services. We combine fresh perspectives with a deep-seated passion for blockchain technology, positioning us uniquely in the validator landscape.
+
+As a newly established validator, BlockHub combines a passion for blockchain technology with a commitment to learning and growth. Our team's energy and dedication position us to adapt quickly in the ever-evolving blockchain ecosystem.
+
+As an ambitious new validator, we are currently honing our skills on various blockchain testnets, with a clear trajectory towards mainnet participation. While our present focus allows us to refine our operations, our ultimate goal is to secure and support production networks. We maintain an unwavering commitment to operational excellence, ensuring our servers consistently deliver optimal performance and reliability across all environments. Our long-term vision extends beyond testnet contributions; we are actively preparing to make significant impacts on mainnets, evolving alongside the projects we support and contributing meaningfully to the broader blockchain ecosystem. This forward-looking approach not only demonstrates our dedication as a validator but also positions us as a committed partner in the ongoing development and security of decentralized networks.
 
 ## Networks We Validate
 <div align="center">
@@ -12,13 +16,11 @@ BlockHub is your trusted partner in Proof-of-Stake (PoS) validation services. Fo
   <a href="https://alpha.nubit.org/"><img src="https://github.com/user-attachments/assets/328aa4a5-32d9-4428-be15-0da86dd88da1" alt="Nubit" width="150" /></a>
 </div>
 
-## Our Contributions
-Our contributions to blockchain projects focus on:
+### Our Approach
 
-- Creating comprehensive node setup guides
-- Assisting community members with node setup and troubleshooting
-- Developing educational content for project communities
-- Translating technical content into our local language to improve accessibility
+- **Reliability**: We employ a robust 24/7 monitoring system using Prometheus and Grafana, ensuring uninterrupted service and rapid response to any potential issues.
+- **Performance**: By partnering with trusted and reliable server providers, we strive to maintain high standards of performance across all networks we validate.
+- **Community Engagement**: Actively contributing to project ecosystems through [guides](https://github.com/BlockchainsHub/Testnet), support, and knowledge sharing.
 
 ## Get in Touch
 <div align="center">
