@@ -1,0 +1,6 @@
+{
+    "cosmos_rpc": "https://story-testnet-rpc.blockhub.id",
+    "evm_json_rpc": "https://story-testnet-jsonrpc.blockhub.id",
+    "tests": "ok",
+    "timestamp": 1725731905
+}
