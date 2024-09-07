@@ -68,6 +68,46 @@ Our platform also supports exchange, withdrawals, deposits, and provides digital
 
 - **Celestia Mainnet**, **Akash Network**, **Namada**, and **Penumbra** foundation delegations.
 - We continue to contribute to some of the most innovative blockchain projects.
+# Projects and Validator Nodes
+
+Below is a list of various validator nodes and projects with their corresponding links. You will find information about validators for different blockchain projects and services.
+
+## 🌟 Validator Nodes
+
+- **[Cosmos](https://www.mintscan.io/cosmos/validators/cosmosvaloper1nlfrwx5t3mm3cuqqkvjv6jv24m7s2z5utzfe8s)**
+- **[Celestia](https://www.mintscan.io/celestia/validators/celestiavaloper1nxdm2vdl9xmmekauu3yfhq49t6vqc5cph2dj3s/?sector=votes)**
+- **[Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1h6pv6eymyf40w0xjuuacj3vnu9lxwq8u0nm7uj)**
+- **[Akash](https://www.mintscan.io/akash/validators/akashvaloper1r0q2udxrttayt207ymw0t8msa94rd898276ryu/)**
+- **[Archway](https://archway.explorers.guru/validator/archwayvaloper1hccgnft2asahy7hxrk4fx2y6nndk3rwre387zm)**
+- **[Penumbra](https://penumbra.today/validator/penumbravalid1aglayhqq2ec5yfgx8ljqrd9ypnma5uu46hsd0d77dakgu4nywuyqk29d0m)**
+- **[Coreum](https://explorer.coreum.com/coreum/validators/corevaloper1ktahdhh56gxfh0xvxgwq38ln2crww6u6svcsav)**
+- **[Dymension](https://www.mintscan.io/dymension/validators/dymvaloper127chaf96mtdz33aqqnqmgnxtuas9d78pdalr5j)**
+- **[Polkadot](https://1k.hirish.net/polkadot/15PhKsje5DLm5CWqRhFz1YeS3WA94Ui8xMcihfFjbCPidisS)**
+- **[Axelar](https://axelarscan.io/account/axelarvaloper14fpqu7kpvlhlhyefsmus6strrz4kwselc5caah)**
+- **[Umee](https://ux.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)**
+- **[Stader](https://beaconcha.in/validator/8757a9896d3b661e25009792d22e0d7dee101756cc0d2a11d9f4359646bb97b4b41ab8a2ebb29c45cdf096f15fa6e96a#deposits)**
+- **[Althea](https://www.mintscan.io/althea/validators/altheavaloper1fqsrzlm3rs6srpkmk52p65vpuultlkdyrgq88p)**
+- **[Band](https://www.mintscan.io/band/validators/bandvaloper1e794d7mk245mr62e6mf67zaqpxweufe5wcf552)**
+- **[Eigenlayer](https://app.eigenlayer.xyz/operator/0x3af71d6533fdab1c5b22a695d648135a8eeb6f79)**
+- **[Jackal](https://ping.pub/jackal/staking/jklvaloper1qg9pjld3c26svc06u8r3k4cmjlaqg88jkald0p)**
+- **[Kusama](https://1k.hirish.net/kusama/DMPQfvTwBZHUA9D2WTUgWGU2CrTBaAgDwBdZVhbx1b8xFuv)**
+- **[KYVE](https://www.mintscan.io/kyve/validators/kyvevaloper1s26mkhm970sgs3n72nj03rsnaknazt7g8muled)**
+- **[Lambda](https://ping.pub/lambda/staking/lambvaloper1dxe8r8cwr36frcgyz5ufugm8tahampuamttlzp)**
+- **[Nym](https://explorer.nymtech.net/network-components/mixnode/84)**
+- **[Seda](https://seda.explorers.guru/validator/sedavaloper1hyw5dy0tc33j4j9ngp6tarajgdze82753q8827)**
+- **[Composable](https://explorer.stavr.tech/Composable-Mainnet/staking/centaurivaloper123rv9yms3dwfs0gh8rwenzxn8u5w34pe873wen)**
+- **[Gitopia](https://ping.pub/gitopia/staking/gitopiavaloper1ajxy3x3gf4rled2cmuwv8qd5a0nt6070hzjmfx)**
+- **[Gravity Bridge](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper18wf8uk8na65ed26t7l6l2p3td9xw4jm007tp0p)**
+- **[Massa](https://www.massexplo.io/address/AU12126CJj1ThTJ7gYGjpsM3SxLkk63MPxvcLreLowS3e3ZHnZCHd)**
+- **[Neutron](https://www.mintscan.io/neutron/ics-validators/neutronvaloper1nlfrwx5t3mm3cuqqkvjv6jv24m7s2z5us5dhhq)**
+- **[Stride](https://www.mintscan.io/stride/ics-validators/stridevaloper1nlfrwx5t3mm3cuqqkvjv6jv24m7s2z5uwgevn2)**
+- **[Haqq](https://haqq.explorers.guru/validator/haqqvaloper1f9hyencljeju20vtwkun0qm93lv9hgdee3k75s)**
+- **[Source](https://explorer.stavr.tech/Source-Mainnet/staking/sourcevaloper1ft9p0huar6f5xt4cdnfp4g6scwlddzrpk2se5e)**
+- **[Quicksilver](https://www.mintscan.io/quicksilver/validators/quickvaloper185lq8jkc70ya6hxkcrzye5l85u6plefuf0eqet)**
+- **[Cheqd](https://ping.pub/cheqd/staking/cheqdvaloper1sc2rssfv3wrl9ard9yz876srpzjrnfersfleld)**
+- **[Mande Rollapp](https://portal.dymension.xyz/rollapp/mande_18071918-1/staking)**
+
+These links lead to various validator nodes and projects within blockchain ecosystems. Use them to check validator statuses, view data, and obtain more information.
 
 ## 👋 Get in Touch!
 
