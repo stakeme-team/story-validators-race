@@ -17,12 +17,14 @@ If you are new to running nodes or want to learn more about setting up and maint
 
 # My Experience
 Currently, I have played an instrumental role in supporting and maintaining the integrity of various blockchain testnet ecosystems. Notably, I have been actively involved in running nodes for the following projects:
-- [0gchain](https://explorer.meganode.org/0g/staking/0gvaloper1j8yz49ue8k5vc90tk63hersd2vxrn6ay7aqmma) (One of 125 selected active validators)
-- [Hedgeblock](https://explorer.nodestake.org/hedge-testnet/staking/hedgevaloper1crv5du4vch4x4jy5fulekl8fr3yz4s4nf66mq6) (One of 100 selected active validators)
-- [Galactica Netwwork](https://testnet.itrocket.net/galactica/staking/galavaloper1kyj2a004k9pysk5xazms7pyp8fya97h37789pp) (One of 100 selected active validators)
-- [VOI Netwwork](https://voi-nodes.dev/node/76f57861-b281)
-- [Chainbase Network AVS](https://holesky.eigenlayer.xyz/operator/0xf964B97680c5b76c785Ca8baFe115B86C22b271b)
-- [Nufflelabs Network](https://holesky.eigenlayer.xyz/operator/0xf964B97680c5b76c785Ca8baFe115B86C22b271b!)
+- 0gchain (One of 125 selected active validators): https://explorer.meganode.org/0g/staking/0gvaloper1j8yz49ue8k5vc90tk63hersd2vxrn6ay7aqmma 
+- Hedgeblock (One of 100 selected active validators): 
+https://explorer.nodestake.org/hedge-testnet/staking/hedgevaloper1crv5du4vch4x4jy5fulekl8fr3yz4s4nf66mq6 
+- Galactica Netwwork (One of 100 selected active validators): https://testnet.itrocket.net/galactica/staking/galavaloper1kyj2a004k9pysk5xazms7pyp8fya97h37789pp
+- VOI Netwwork: https://voi-nodes.dev/node/76f57861-b281
+- Chainbase Network AVS: https://holesky.eigenlayer.xyz/operator/0xf964B97680c5b76c785Ca8baFe115B86C22b271b
+- Nufflelabs Network:https://holesky.eigenlayer.xyz/operator/0x0c330D452519643C2AAc1DF5935871A5C575fDeD
+
 
 **For more information about my work and experience, please visit:**
  - [My github](https://github.com/tn85/Rachel-Testnet-Guides/tree/main)
