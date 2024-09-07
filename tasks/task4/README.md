@@ -5,7 +5,7 @@ In the last step, you have to prepare and launch the validator node. This will p
 
 ### Assignment Criteria:
 - Create a validator wallet, if not already created
-- Provide the address of the wallet in Cosmos and EVM format
+- Provide the address of the wallet in EVM format
 - Sign this wallet with the message “story-validators-race task4” and send the signature
 - You must have a validator node running and synchronized with the blockchain
 
@@ -53,7 +53,6 @@ Paste the following format into the data.json file:
 {
   "moniker": "string",
   "signature": "string",
-  "cosmos_wallet": "string",
   "evm_wallet": "string",
   "timestamp": number
 }
