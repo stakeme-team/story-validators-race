@@ -17,7 +17,7 @@
 - **Heurist node Ranker minor with GPU**
 - **Kuzco GPU node Ranker minor, Kuromi nickname on Leaderboard**
 - **Ironfish, Aleo, Shardeum node tsetnet**
-- **Chasm tesnet node user**
+- **Chasm testnet node user**
 - **Arbitrum, Starknet, Avail, Espresso system node tsetnet**
 - **Now, Story validator testnet node user **  : [https://testnet.story.explorers.guru/validator/storyvaloper1zwhu4lfkxvmyh6yvwmru5jfyewgyr04kqz3hnz](https://testnet.story.explorers.guru/validator/storyvaloper1zwhu4lfkxvmyh6yvwmru5jfyewgyr04kqz3hnz)
 
