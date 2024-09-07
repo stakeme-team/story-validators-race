@@ -52,6 +52,8 @@ We have participated in more than 100+ test networks and are currently validatin
 - [Gitopia](https://ping.pub/gitopia/staking/gitopiavaloper1fpwhn7tevwz657rg00mc7zcf9eq4tg0a703dw8) (D)
 - [Router](https://routerscan.io/validators/routervaloper1wf2sev9705ujesda8rzncr60xjgvt3mjzd5kne)
 - [UX (Umee)](https://ux.explorers.guru/validator/umeevaloper1wwl9f8wcc0am9wruvmx4hjzdv7ewfcex0lz9vp) (D)
+- [SSV](https://explorer.ssv.network/operators/657) (D)
+- [Eigenlayer](https://app.eigenlayer.xyz/operator/0xb42CcE7682cE9Bc9A013eD0C54533545879C5087)
 
 ### Without links
 - Aether
