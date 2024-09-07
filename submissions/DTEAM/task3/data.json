@@ -1,0 +1,9 @@
+{
+    "cosmos_rpc": "https://rpc.story.testnet.dteam.tech",
+    "evm_json_rpc": "https://evm.story.testnet.dteam.tech:443",
+    "cosmos_rest": "https://api.story.testnet.dteam.tech",
+    "cosmos_ws": "wss://rpc.story.testnet.dteam.tech/websocket",
+    "evm_ws": "wss://evm.wss.story.testnet.dteam.tech:443",
+    "tests": "ok",
+    "timestamp": 1725639217
+}
