@@ -33,4 +33,4 @@ I currently operate validator nodes for multiple blockchain networks:
 <img src="https://github.com/z8000kr/test/blob/main/Notion.png?raw=true" style="width: 100%; fill: white" />
  > We are making it easier for many people to access the project by providing user-friendly guides.
 
- > Zstake Trusted Proof-of-Stake validator & Tendermint chain service provider. We actively participate in decentralized governance discussions and DAO voting. We offer free educational resources and public technical services. Staking with us supports our positive contributions to the ecosystem
+ > We are making it easier for many people to access the project by providing user-friendly guides
