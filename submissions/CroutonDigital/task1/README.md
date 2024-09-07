@@ -88,6 +88,7 @@ Below is a list of various validator nodes and projects with their corresponding
 - **[Stader](https://beaconcha.in/validator/8757a9896d3b661e25009792d22e0d7dee101756cc0d2a11d9f4359646bb97b4b41ab8a2ebb29c45cdf096f15fa6e96a#deposits)**
 - **[Althea](https://www.mintscan.io/althea/validators/altheavaloper1fqsrzlm3rs6srpkmk52p65vpuultlkdyrgq88p)**
 - **[Band](https://www.mintscan.io/band/validators/bandvaloper1e794d7mk245mr62e6mf67zaqpxweufe5wcf552)**
+- **[Lava](https://lava.explorers.guru/validator/lava@valoper1xacp27waphgvuv7f9g63s4n4wxkn6k7sd223w2)**
 - **[Eigenlayer](https://app.eigenlayer.xyz/operator/0x3af71d6533fdab1c5b22a695d648135a8eeb6f79)**
 - **[Jackal](https://ping.pub/jackal/staking/jklvaloper1qg9pjld3c26svc06u8r3k4cmjlaqg88jkald0p)**
 - **[Kusama](https://1k.hirish.net/kusama/DMPQfvTwBZHUA9D2WTUgWGU2CrTBaAgDwBdZVhbx1b8xFuv)**
