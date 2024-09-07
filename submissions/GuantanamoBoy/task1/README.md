@@ -29,7 +29,7 @@ Memory - 6.8 TB NVMe
 Bandwidth - 1 Gbit/s-Port
 
 **My socials:** <br/>
-GitHub https://github.com/GuantanamoBoy
-Medium https://medium.com/@giuseppeboeing
-Twitter https://twitter.com/tre6ent
+GitHub https://github.com/GuantanamoBoy  
+Medium https://medium.com/@giuseppeboeing  
+Twitter https://twitter.com/tre6ent  
 
