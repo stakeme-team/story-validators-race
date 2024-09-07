@@ -62,10 +62,13 @@ We have participated in more than 100+ test networks and are currently validatin
 
 ## Services
 - [Validator services](https://noders.services)
+  
 A platform for validators and blockchain projects. It provides documentation for node setup and maintenance, snapshots for faster synchronization, and addresses of various endpoints (RPC, gRPC, API) essential for chain interaction.
 
-- [Cosmos List](https://cosmoslist.co/) 
+- [Cosmos List](https://cosmoslist.co/)
+  
 A parser of public endpoints for nearly all Cosmos chains. The list is updated every 3 hours, providing up-to-date information on available endpoints for seamless chain connectivity.
 
 - [Faucet list](https://faucet.noders.services/)
+  
 A list of faucets where you can request test tokens. Soon, faucets for most Cosmos testnet chains will also be available on the platform.
