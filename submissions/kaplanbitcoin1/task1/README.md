@@ -12,7 +12,7 @@ Additionally, I have helped various projects during critical testnet phases by m
 
 
 
-* Projects where I participated in the node setup process
+## Projects where I participated in the node setup process
 
 
 Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, Humanode, AO, Ari-o, AlignedLayer, Gasp, Nubit, Archain Rollup, Farcaster, Analog, Waku, Sonaric, Nubit, Allora, Flock, Nillion, Empe, Symphony, 0G, Chainbase. 
