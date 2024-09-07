@@ -22,7 +22,7 @@ Although it hasn't been long since we started, we were able to get the honor of 
   * The project team was selected jointly for first place during the validator selection round and is currently in operation.
 - Chainbase Network AVS : https://holesky.eigenlayer.xyz/operator/0x8e4488ca72E52C994bAE5CB7404B884a1205c67F
 - Story : https://testnet.story.explorers.guru/validator/77CA1381BC3F349563323A35CD69FCA47F39F502
-- In addition, we are operating a node rather than an active one.
+- Aleo Prover, Symphony Vlidator, eigenlayer, Nesa Validator(inactive) In addition, we are operating a node rather than an active one.
 
 ## Contact Information:
 * Website: https://zstake.xyz/ 
