@@ -15,7 +15,8 @@
 - **IBC ecosystems** : Celestia private validator tester / Kyve network / Namada Trusted setup testnet user
 - **Aptos, sui node testnet**
 - **Heurist node Ranker minor with GPU**
-- **Kuzco GPU node Ranker minor, Kuromi nickname on Leaderboard** : [![kuzco](https://github.com/user-attachments/assets/25d1619a-04e9-4ae9-a5a7-95bb17245f96)](![kuzco](https://github.com/user-attachments/assets/25d1619a-04e9-4ae9-a5a7-95bb17245f96))
+- **Kuzco GPU node Ranker minor, Kuromi nickname on Leaderboard** : [Kuzco GPU node Ranker minor](https://github.com/user-attachments/assets/25d1619a-04e9-4ae9-a5a7-95bb17245f96)
+
 - **Ironfish, Aleo, Shardeum node tsetnet**
 - **Chasm testnet node user**
 - **Arbitrum, Starknet, Avail, Espresso system node tsetnet**
