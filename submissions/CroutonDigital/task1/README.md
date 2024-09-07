@@ -1,39 +1,81 @@
-Crouton Digital : Validators, node operators, infrastructure and web services providers with EU license (VASP)
+# Crouton Digital: Comprehensive Validators, Node Operators, Infrastructure & Web Services Provider with EU License (VASP)
 
-🟢 First of all we can provide all web services for your chain
+**Crouton Digital** offers a wide range of services for blockchain infrastructure, with a licensed Virtual Asset Service Provider (VASP) in the EU. We are ready to fulfill your project’s needs from node operations to full infrastructure support.
 
-RPC
-REST
-gRPC
-Snapshot
-Genesis
-Addrbook
-Binary
-Guide
+## 🌐 Full Suite of Web Services for Your Chain
 
-We can provide archive node, full node, light node etc. ( depends on your needs )
+We provide a variety of web services for your blockchain, tailored to your project’s needs:
 
-🟢 We have rich infrastrcture in different parts of world ( so we can cover every project needs about decentralization ) all bare metal
+- **RPC**
+- **REST**
+- **gRPC**
+- **Snapshot**
+- **Genesis**
+- **Addrbook**
+- **Binary**
+- **Guides**
 
-🟢 We are full time in crypto and our team can cover most of the timezones ( as you know crypto has no days off )
+We can offer full nodes, archive nodes, and light nodes based on your requirements.
 
-🟢 We are developing tools suchs as Explorer ( not ping pub fork 😂) , discord and telegram bots (for governance, monitoring, proposals), we can write scripts
+## 🌍 Global Infrastructure & Decentralization
 
-🟢 We can check your code on possible vulnerability, we can test your network for sustainability
+- **Bare Metal Infrastructure**: Our rich infrastructure is distributed across multiple locations worldwide, ensuring high decentralization and reliability for your project.
+- **Full-Time Crypto Team**: Our team operates across time zones, ensuring no downtime in service because, as we all know, crypto never sleeps.
 
-🟢 We work with Kubernetes, Terraform, Ansible and TMKMS and our in-huose built monitoring tools
+## 🛠 Custom Tools & Services
 
-🟢 We are one of the biggest relayers in cosmos ecosystem ( opened dozen of channels, and supporting them ) We can do it fast and reliable. We had a request from Archway and Coreum to create multiple new paths for them, and we did it in no time 🫡 you can ask them a feedback about us.
+We develop specialized tools and scripts for your blockchain ecosystem:
 
-🟢 We provide RPC, and we provide canonical RPC with throughput for projetcts ( for example our RPC is integrated into Prax wallet in Penumbra network )
+- **Explorer** (not a Ping Pub fork! 😎)
+- **Discord & Telegram Bots** for governance, monitoring, and proposals
+- **Custom Scripts** to meet your technical needs
+- **Security Audits**: We can check your code for vulnerabilities and test your network for sustainability.
 
-🟢 We can support you in private testing on some features that you want to test. For example Namada ( Anoma ) asked us to participate in closed testing by providing infrastructure for it and help test new relayers channels, and governance mechanisms.
+## 🚀 Cutting-Edge DevOps Support
 
-🟢 We have EU license VASP. Our main services are fiat <=> crypto, we are able to withdraw/deposit EUR and USD - SEPA and SWIFT.
-in EUR we are able to achieve T+0 settlements. 
-We also can help to setup payment account in our partner payment provider, which would allow to reduce banking costs for such crypto-fiat flow.
-platfrom capabilities: exchange, withdrawals, deposits, digitally signed transactions reports.
+Our expertise spans the latest DevOps tools and practices:
 
-🟢 Latest achievements - Selected to Celestia Mainnet, Akash network, Namada, Penumbra with foundation delegations.
+- **Kubernetes**
+- **Terraform**
+- **Ansible**
+- **TMKMS**
+- **In-House Monitoring Tools**
 
-🟢 Basically we can be helpful in many ways, as you see 🫡 and it is also depending on your needs and requests. We can handle a lot of different tasks.
+## 🌌 Cosmos Ecosystem Expertise
+
+We are one of the largest relayers in the Cosmos ecosystem, having successfully opened and supported numerous IBC channels. Our past clients include **Archway** and **Coreum**, where we completed multi-path requests efficiently. Feel free to ask them for feedback!
+
+## 📡 RPC Services & Canonical Integration
+
+We provide reliable RPC services with high throughput. Our canonical RPC is integrated into the **Prax Wallet** on the **Penumbra Network**, demonstrating our commitment to reliability.
+
+## 🛠 Private Testing & Feature Support
+
+We can help you test new features in private networks. Recently, **Namada (Anoma)** asked us to provide infrastructure for their closed testing phase, where we assisted in testing new relayer channels and governance mechanisms.
+
+## 💳 Licensed VASP & Payment Solutions
+
+With our EU-licensed VASP, we offer:
+
+- **Fiat-to-Crypto & Crypto-to-Fiat** services
+- EUR & USD deposits/withdrawals via **SEPA** and **SWIFT**
+- **T+0** settlement for EUR transactions
+- Assistance with payment account setup via our partner provider to reduce banking costs.
+
+Our platform also supports exchange, withdrawals, deposits, and provides digitally signed transaction reports.
+
+## 🎯 Latest Achievements
+
+- **Celestia Mainnet**, **Akash Network**, **Namada**, and **Penumbra** foundation delegations.
+- We continue to contribute to some of the most innovative blockchain projects.
+
+## 👋 Get in Touch!
+
+We are here to help with any task you might have. Ready to collaborate? Explore more about us:
+
+- [Crouton Digital Website](https://crouton.digital/)
+- [Follow us on X (Twitter)](https://x.com/CroutonDigital)
+- [Read Our Articles on Medium](https://medium.com/@CroutonDigital)
+- [Check out Our GitHub](https://github.com/Crouton-Digital)
+
+Let’s build the future together!
