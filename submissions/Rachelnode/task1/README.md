@@ -1,7 +1,6 @@
-# My Story - An Ordinary Girl with a Blockchain Passion
+# My Story
 
-
-Hello, I'm Rachel, an independent blockchain enthusiast and node operator with almost 4 years of experience in the blockchain space. My journey began out of curiosity, and it has since evolved into a mission to contribute to the integrity and security of decentralized networks. With a strong focus on Proof of Stake (PoS) blockchains, I dedicate my time to running and managing nodes, ensuring that the networks I participate in are robust, secure, and decentralized.
+Hello, I'm Rachel - an Ordinary Girl with a Blockchain Passionan independent blockchain enthusiast and node operator with almost 4 years of experience in the blockchain space. My journey began out of curiosity, and it has since evolved into a mission to contribute to the integrity and security of decentralized networks. With a strong focus on Proof of Stake (PoS) blockchains, I dedicate my time to running and managing nodes, ensuring that the networks I participate in are robust, secure, and decentralized.
 
 
 # My Vision and Mission
