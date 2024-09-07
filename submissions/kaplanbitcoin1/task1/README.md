@@ -27,13 +27,13 @@ Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, H
 
 [Allora](https://testnet.allora.explorers.guru/validator/allovaloper1qvt3fpxnltcqaz3x5pg5t0e9e5gygv3pdstczt)
 
+[Initia](https://scan.initia.tech/initiation-1/validators/initvaloper1s659a3eup2etjk9ugy874h2cnd3kpvpj4yzg9c)
+
 [Empe](https://testnet.itrocket.net/empeiria/staking/empevaloper1zvf2kz4fqmmch8tzstwhjwe6jecytde25rxgxn)
 
 [Symphony](https://testnet.ping.pub/symphony/staking/symphonyvaloper1qvt3fpxnltcqaz3x5pg5t0e9e5gygv3psalsvg)
 
 [0G](https://testnet.0g.explorers.guru/validator/0gvaloper1wnv285xdevgnry92msgcpdrjkv87st9pzlt3qa)
- 
-[Initia](https://scan.initia.tech/initiation-1/validators/initvaloper1s659a3eup2etjk9ugy874h2cnd3kpvpj4yzg9c)
 
 [Warden](https://testnet.warden.explorers.guru/validator/wardenvaloper1f8ve8k6az4kv8jfhfhuwzgpuyxxpkh7nkdprzn)
 
