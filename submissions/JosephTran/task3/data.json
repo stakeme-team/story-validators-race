@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://rpc-story.josephtran.xyz",
+  "evm_json_rpc": "https://evm-rpc-story.josephtran.xyz",
+  "cosmos_rest": "https://api-story.josephtran.xyz",
+  "cosmos_ws": "wss://rpc-story.josephtran.xyz/websocket",
+  "evm_ws": "wss://wss-story.josephtran.xyz",
+  "tests": "ok",
+  "timestamp": 1725642674
+}
