@@ -18,7 +18,7 @@ Additionally, I have helped various projects during critical testnet phases by m
 Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, Humanode, AO, Ari-o, AlignedLayer, Gasp, Nubit, Archain Rollup, Farcaster, Analog, Waku, Sonaric, Nubit, Allora, Flock, Nillion, Empe, Symphony, 0G, Chainbase. 
 
 
-* Projects that I have in the active set on the testnet
+## Projects that I have in the active set on the testnet
 
 
 [Airchain](https://testnet.junction.explorers.guru/validator/airvaloper1wxv5y73r80pg9lguwhzvrp7qrzw88k9zqqx8q8)
@@ -37,7 +37,7 @@ Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, H
 
 
 
-* Over the past two years, I have made significant contributions to various blockchain projects, focusing on several key areas:
+## Over the past two years, I have made significant contributions to various blockchain projects, focusing on several key areas:
 
 
 Node Installation and Maintenance:
