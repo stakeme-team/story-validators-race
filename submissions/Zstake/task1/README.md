@@ -31,6 +31,5 @@ I currently operate validator nodes for multiple blockchain networks:
 
 ## Recent contribution
 <img src="https://github.com/z8000kr/test/blob/main/Notion.png?raw=true" style="width: 100%; fill: white" />
- > We are making it easier for many people to access the project by providing user-friendly guides.
 
  > We are making it easier for many people to access the project by providing user-friendly guides
