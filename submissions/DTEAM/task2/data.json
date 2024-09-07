@@ -1,0 +1,6 @@
+{
+    "cosmos_rpc": "https://rpc.story.testnet.dteam.tech",
+    "evm_json_rpc": "https://evm.story.testnet.dteam.tech:443",
+    "tests": "ok",
+    "timestamp": 1725632373
+}
