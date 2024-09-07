@@ -1,5 +1,5 @@
 About Me
-Hi, I'm Luka Tada, the person behind LukatadaNode. As a passionate Proof of Stake Validator, I’m deeply involved in securing decentralized networks. With a focus on trust and security, I’m dedicated to validating transactions and maintaining the integrity of the blockchain. Join me on this journey through the world of blockchain technology!
+Hi, I'm Luka Tada, the person behind LukatadaNode. As a passionate Proof of Stake Validator, I am deeply involved in securing decentralized networks. With a focus on trust and security, I am dedicated to validating transactions and maintaining the integrity of the blockchain. Join me on this journey through the world of blockchain technology!
 
 What I Do
 With a commitment to decentralization, I validate blocks, ensuring network security and resilience. In addition, I provide detailed documentation to help others set up and manage their own nodes.
@@ -13,6 +13,8 @@ I have been involved in various blockchain ecosystems, playing an active role in
 
 - NAMADA Testnet Validator
 - AVAIL Testnet Validator
+- NUBIT https://alpha.nubit.org/
+- STORY PROTOCOL https://testnet.story.explorers.guru/validator/BA22AA1AA9ECFB5FD888EC26712C0A51D8B74A8C
 All of which i can not provide details because it was Testnet.
 
 Let's Connect!
@@ -22,6 +24,4 @@ Love to  collaborate and push the boundaries of blockchain innovation. Together,
 - X (Twitter): https://x.com/jadadrex0200?t=yPnDGDZspsTkPobVxuPK9w&s=09
 - Discord:  956260151306887218
 
-Let’s build the future of blockchain together!
-
-You can customize this by inserting your details where indicated.
+Lets build the future of Blockchain today!
