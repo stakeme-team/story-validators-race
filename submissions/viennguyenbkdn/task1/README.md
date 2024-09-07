@@ -28,20 +28,20 @@
 - Currently I am working in IT network for building system with Docker and Kubernetes, provide product, solution to Telecomunication company
 
 ### 3.2 My contribution on passed testnet projects
-#### Guide how to setup HA server for Cosmos validator node
+#### A. Guide how to setup HA server for Cosmos validator node
 - https://medium.com/@viennguyenbkdn/deploy-high-availability-validator-node-on-celestia-network-820014653b75?source=friends_link&sk=bab2356f3b9e64a6a1ce868448b18c9b
 
-#### 1-hit script is to setup Grafana/Prometheus monitoring system to Avail Validator node and Avail Light node
+#### B. 1-hit script is to setup Grafana/Prometheus monitoring system to Avail Validator node and Avail Light node
 - Light node: https://github.com/viennguyenbkdn/Avail_Monitoring_Light
 - Validator node: https://github.com/viennguyenbkdn/Avail_Monitoring
 
-#### Guide to setup Grafana/Prometheus system to monitor Celestia DA node
+#### C. Guide to setup Grafana/Prometheus system to monitor Celestia DA node
 - https://github.com/viennguyenbkdn/Celestia_DAS_Monitoring_Setup
 
-#### Guide of security hardening is to Cosmos validator node, included TMKMS (Applied to Seinami testnet chain)
+#### D. Guide of security hardening is to Cosmos validator node, included TMKMS (Applied to Seinami testnet chain)
 - https://github.com/viennguyenbkdn/Sei/blob/main/Atlantic-1/ACT-3/Validator_Security_Hardening.md
 
-#### Guide to setup Hermes and Go Relayer on Cosmos SDK Appchains (applied on Strided testnet chain)
+#### E. Guide to setup Hermes and Go Relayer on Cosmos SDK Appchains (applied on Strided testnet chain)
 - https://github.com/viennguyenbkdn/Cosmos_Stride/tree/main/STRIDE-TESTNET-2
 
 ### 3.3 Story Service
