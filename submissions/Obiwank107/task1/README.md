@@ -15,3 +15,5 @@
 2. **0G DA and Storage**: Running a range of services such as RPC Endpoint, Storage, DA Client
 3. **Other Nodes**: Nubit Light Node, Rivalz Worker Node, Allora Worker Node, Farcaster Node, IO.net Worker Node, Fuel Node
 
+## Social
+https://x.com/obiwank107
