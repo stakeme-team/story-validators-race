@@ -1,7 +1,7 @@
-Meet Todorokisan, a dedicated participant in the exciting world of Web3 projects. 
-Todorokisan specialize in validator, node running, and staking services, playing a crucial role in the decentralization and security of blockchain networks. As a seasoned validator, we ensures the integrity and consensus of the network by validating transactions and blocks. 
-Additionally, we actively contribute to the infrastructure by running nodes, enhancing the overall robustness and reliability of the ecosystem. 
-Beyond that, we offers staking services, growth TVL, and providing users with the opportunity to participate in the network's governance and earn rewards. 
+Meet Todorokisan, a dedicated participant in the exciting world of Web3 projects.
+Todorokisan specialize in validator, node running, and staking services, playing a crucial role in the decentralization and security of blockchain networks. As a seasoned validator, we ensures the integrity and consensus of the network by validating transactions and blocks.
+Additionally, we actively contribute to the infrastructure by running nodes, enhancing the overall robustness and reliability of the ecosystem.
+Beyond that, we offers staking services, growth TVL, and providing users with the opportunity to participate in the network's governance and earn rewards.
 With a deep understanding of blockchain technology and a commitment to decentralization since 2022, Todorokisan is at the forefront of shaping the future of Web3.”
 
 Our Focus Vision and Mision :
