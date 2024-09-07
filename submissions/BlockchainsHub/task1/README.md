@@ -22,6 +22,10 @@ As an ambitious new validator, we are currently honing our skills on various blo
 - **Performance**: By partnering with trusted and reliable server providers, we strive to maintain high standards of performance across all networks we validate.
 - **Community Engagement**: Actively contributing to project ecosystems through [guides](https://github.com/BlockchainsHub/Testnet), support, and knowledge sharing.
 
+### Recent Contributions
+
+- Story Node Installation Guide ([English Version](https://github.com/BlockchainsHub/Testnet/blob/main/Story/guide_en.md))
+
 ## Get in Touch
 <div align="center">
   <a href="https://blockhub.super.site"><img src="https://github.com/user-attachments/assets/98654f4f-67d0-4e3d-9590-0d76f890d06a" alt="Website" width="60" /></a>
