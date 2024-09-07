@@ -16,7 +16,7 @@ As an ambitious new validator, we are currently honing our skills on various blo
   <a href="https://alpha.nubit.org/"><img src="https://github.com/user-attachments/assets/328aa4a5-32d9-4428-be15-0da86dd88da1" alt="Nubit" width="150" /></a>
 </div>
 
-### Our Approach
+## Our Approach
 
 - **Reliability**: We employ a robust 24/7 monitoring system using Prometheus and Grafana, ensuring uninterrupted service and rapid response to any potential issues.
 - **Performance**: By partnering with trusted and reliable server providers, we strive to maintain high standards of performance across all networks we validate.
