@@ -1,6 +1,6 @@
 ![Notion Banner 3000x1000](https://github.com/user-attachments/assets/b4d70c7d-6971-409d-bc24-8a4acded0294)
 ## Introduction
-Founded in late 2023 by @botxx15, a crypto enthusiast since 2017, BlockHub is an emerging force in Proof-of-Stake (PoS) validation services. We combine fresh perspectives with a deep-seated passion for blockchain technology, positioning us uniquely in the validator landscape.
+Founded in late 2023 by [@botxx15](https://github.com/botxx15), a crypto enthusiast since 2017, BlockHub is an emerging force in Proof-of-Stake (PoS) validation services. We combine fresh perspectives with a deep-seated passion for blockchain technology, positioning us uniquely in the validator landscape.
 
 As a newly established validator, BlockHub combines a passion for blockchain technology with a commitment to learning and growth. Our team's energy and dedication position us to adapt quickly in the ever-evolving blockchain ecosystem.
 
