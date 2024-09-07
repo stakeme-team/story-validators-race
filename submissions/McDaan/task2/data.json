@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "https://story-rpc.mandragora.io",
+  "evm_json_rpc": "https://story-rpc-evm.mandragora.io",
+  "tests": "ok",
+  "timestamp": 1725675475
+}

@@ -29,7 +29,7 @@ In this task, you will have to install and launch an archive node in Iliad Testn
 ### [Task 3: Provide public endpoints of the archive node](./tasks/task3/README.md)
 After successfully launching the archive node, you will need to provision public endpoints so that other users can interact with your node, starting from the first block.
 
-### Task 4: Launching the Validator Node
+### [Task 4: Launching the Validator Node](./tasks/task4/README.md)
 In the last step, you must prepare and launch a validator node. This will prove that your node is ready to perform the validation function and keep the network running.
 
 ## Rewards
