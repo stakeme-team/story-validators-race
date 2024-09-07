@@ -13,7 +13,7 @@ I have a passion for blockchain technology and am willing to spend time and effo
 
 # **My experience:**
 I currently operate validator nodes for multiple blockchain networks: 
-- 0gchain: One of 125 selected active validators
+- 0gchain: One of 125 selected active validators:
    https://testnet.explorer.liveraven.net/zero-gravity/staking/0gvaloper14m6clv038tyu5get77acp95wjjpvftk9s938d0
 - VOI Netwwork: https://voi-nodes.dev/node/0651f435-4f61
 
