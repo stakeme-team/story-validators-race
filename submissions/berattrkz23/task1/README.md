@@ -1,1 +1,1 @@
-a
+Hello. For about 5 years, I have been personally contributing to blockchain networks with high potential according to myself by running nodes and validators and doing the assigned tasks. Since I am now a professional in this, I meet the necessary system requirements and ensure the security and monitoring of my servers. I also help all those who are interested.
