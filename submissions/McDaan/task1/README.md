@@ -18,7 +18,8 @@ Hey there fam! This is Daniel, a blockchain passionate and founder of Mandragora
  - Story Protocol (actively participating on public testnet in the active set and contributing on technical support in a non-stop manner): https://testnet.story.explorers.guru/validator/storyvaloper1u0ujshue3jz4fl8yncqvc94uauusj7fg9tx47g
 
 In those networks we are out of the active set, whether being inactive or jailed, we decided to leave ourselves - even though there are special cases as Evmos, Stride, Osmosis, etc.
-
+# Story Protocol - Mandragora's infrastructure services
+- RPC, API, JSON-RPC, WSS (Cosmos), WSS (EVM), seed node, persistent peer, Geth enode, snapshots, etc.: https://hackmd.io/@bMLJfk-wRcus0zQNBavDTQ/r1Mc-eWhR#
 # Contributions
 
 We have mainly focused on Namada for almost 2 years, so I'll highlight some of our contributions as top contributors there.
