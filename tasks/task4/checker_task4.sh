@@ -24,9 +24,6 @@ created checker validator team @stakeme
     echo "> Please enter your signature"
     read -r SIGNATURE
 
-    echo "> Please enter your wallet Cosmos address"
-    read -r COSMOS_WALLET
-
     echo "> Please enter your wallet EVM address"
     read -r EVM_WALLET
 
@@ -35,7 +32,6 @@ created checker validator team @stakeme
     {
       \"moniker\": \"$MONIKER\",
       \"signature\": \"$SIGNATURE\",
-      \"cosmos_wallet\": \"$COSMOS_WALLET\",
       \"evm_wallet\": \"$EVM_WALLET\",
       \"timestamp\": $checked_timestamp
     }
