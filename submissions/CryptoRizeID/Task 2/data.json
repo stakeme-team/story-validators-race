@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "string",
+  "evm_json_rpc": "string",
+  "tests": "string",
+  "timestamp": number
+}
