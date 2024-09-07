@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://rpc-story.allnodes.one",
+  "evm_json_rpc": "https://evm-rpc-story.allnodes.one",
+  "cosmos_rest": "https://api-story.allnodes.one",
+  "cosmos_ws": "wss://rpc-story.allnodes.one/websocket",
+  "evm_ws": "wss://wss-story.allnodes.one",
+  "tests": "ok",
+  "timestamp": 1725700372
+}
