@@ -13,14 +13,14 @@ Elixir testnet
 Massa mainnet  
 
 **My past activities (not all of them):** <br/>
-HaQQ mainnet validator
-Dymension validator
-Mina genesis validator
-Forta mainnet validator
-Solana mainnet and testnets validator
-Stride testnet 
-Casper testnet
-Graph testnet
+HaQQ mainnet validator  
+Dymension validator  
+Mina genesis validator  
+Forta mainnet validator  
+Solana mainnet and testnets validator  
+Stride testnet  
+Casper testnet  
+Graph testnet  
 
 **Hardware (several servers):** <br/>
 Location - Hetzner, Germany
