@@ -1,0 +1,9 @@
+{
+    "cosmos_rpc": "https://story-rpc.krews.xyz",
+    "evm_json_rpc": "https://story-jsonrpc.krews.xyz",
+    "cosmos_rest": "https://story-api.krews.xyz",
+    "cosmos_ws": "wss://https://story-rpc.krews.xyz/websocket",
+    "evm_ws": "wss://story-jsonrpc.krews.xyz/websocket",
+    "tests": "ok",
+    "timestamp": 1725750849
+}
