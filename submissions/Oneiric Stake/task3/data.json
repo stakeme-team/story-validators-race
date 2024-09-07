@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://story-endpoint.oneiricts.com:8445",
+  "evm_json_rpc": "https://story-rpc.oneiricts.com:8445",
+  "cosmos_rest": "https://story-api.oneiricts.com:8445",
+  "cosmos_ws": "wss://story-endpoint.oneiricts.com:8445/websocket",
+  "evm_ws": "wss://story-wss.oneiricts.com:8445",
+  "tests": "ok",
+  "timestamp": 1725644034
+}
