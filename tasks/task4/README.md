@@ -7,6 +7,7 @@ In the last step, you have to prepare and launch the validator node. This will p
 - Create a validator wallet, if not already created
 - Provide the address of the wallet in Cosmos and EVM format
 - Sign this wallet with the message “story-validators-race task4” and send the signature
+- You must have a validator node running and synchronized with the blockchain
 
 
 You can use the web3 (Python) library to sign the message:
