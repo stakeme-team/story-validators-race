@@ -2,8 +2,8 @@
   "cosmos_rpc": "https://rpc.story.encipher88.tech",
   "evm_json_rpc": "https://rpc-evm.story.encipher88.tech",
   "cosmos_rest": "https://api.story.encipher88.tech",
-  "cosmos_ws": "wss://rpc.story.encipher88.tech/websocketet",
-  "evm_ws": "wss://rpc-evm.story.encipher88.tech/websocketet",
+  "cosmos_ws": "wss://rpc.story.encipher88.tech/websocket",
+  "evm_ws": "wss://rpc-evm.story.encipher88.tech/websocket",
   "tests": "ok",
   "timestamp": 1725732631
 }
