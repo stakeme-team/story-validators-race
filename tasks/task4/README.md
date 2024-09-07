@@ -41,8 +41,6 @@ else:
     print("Failed")
 ```
 
-
-
 ### Submission
 Continue working in your forked repository inside the submissions directory.
 In folder named after your GitHub username.
@@ -50,14 +48,15 @@ Create a subfolder named task4 inside this folder.
 Run the checker_task4.sh script and save the output into a data.json file.
 
 Paste the following format into the data.json file:
+```
 {
   "moniker": "string",
-  "validator_wallet_signature": "string",
+  "signature": "string",
   "cosmos_wallet": "string",
   "evm_wallet": "string",
-  "tests": "string",
   "timestamp": number
 }
+```
 
 Your folder structure should look like this:
 ```bash
