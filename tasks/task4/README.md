@@ -48,7 +48,7 @@ Create a subfolder named task4 inside this folder.
 Run the checker_task4.sh script and save the output into a data.json file.
 
 Paste the following format into the data.json file:
-```
+```bash
 {
   "moniker": "string",
   "signature": "string",
