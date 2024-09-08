@@ -14,6 +14,7 @@ Furthermore, I am the founder of Okan Group, a local community with over 300 mem
 - Story (Testnet): https://testnet.story.explorers.guru/validator/storyvaloper1ee044tvwerdrnkdppjm0q5crtshqhklyz3gq89
 - 0G Labs (Testnet): https://testnet.0g.explorers.guru/validator/0gvaloper15ffa4qaccrqxsm4kgqa82pwgtqnnq3l96yqkjf
 - Voi Network (Testnet and mainnet): https://voirewards.com/wallet/WSVG4R2HBJ66ZLD7QZ356QTWSISNUCRTARV7YEQFMHE4AHIIQD4FOUEGCI
+- Nubit (Testnet): https://www.explorer.nubit.org/address/nubit1dn9l9es5t2792kgzcxrvlzkrl77p7w35hatpfp
 
 ### STORY Services:
 - Peer
