@@ -13,8 +13,8 @@ I have a passion for blockchain technology and am willing to spend time and effo
 
 # **My experience:**
 I. currently operate validator nodes for multiple blockchain networks: 
-- 0g-Labs Validator: One of 125 selected active validators: https://testnet.explorer.liveraven.net/zero-gravity/staking/0gvaloper14m6clv038tyu5get77acp95wjjpvftk9s938d0
 - Story Validator: https://testnet.story.explorers.guru/validator/storyvaloper1vqmfv8lvwtf62vpkfmqp9v985xqfhpfgrkq4gf
+- 0g-Labs Validator: https://testnet.explorer.liveraven.net/zero-gravity/staking/0gvaloper14m6clv038tyu5get77acp95wjjpvftk9s938d0 (One of 125 selected active validators in all 4 rounds)
 - VOI Validator: https://voi-nodes.dev/node/0651f435-4f61
 - Nufflelabs Network: https://holesky.eigenlayer.xyz/operator/0xe7FF3F5127695838D932B3c74A8D10Cd5F20e0A2
 
