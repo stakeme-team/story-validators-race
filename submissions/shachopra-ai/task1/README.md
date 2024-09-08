@@ -52,9 +52,13 @@ Story RPC - https://story-testnet-rpc.shachopra.com
 Story json RPC - https://story-testnet-jsonrpc.shachopra.com
 
 Server Specifications: 2 servers of following specs
+
 CPU: AMD’s Ryzen™ 9 5950x, 16 cores / 32 threads @ 3.4 GHz
+
 RAM: 128GB of DDR4 ECC
+
 Disk: 2 x 3.84 TB NVMe SSD Datacenter (RAID 0)
+
 Bandwidth: 1 GBit/s
 
 
