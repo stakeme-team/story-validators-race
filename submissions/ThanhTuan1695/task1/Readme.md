@@ -1,16 +1,3 @@
-My Byte Points
--
--
-My BNB
--
-GPT to Earn
-Open and Sign In to ChatGPT
-Please open and log in to ChatGPT to continue using this feature.
-Go to ChatGPT
-Earnings History
-No Earnings History Yet
-Start uploading sessions to earn now!
-hello2
 # About Me
 My name is leiz, and I’m a seasoned security engineer with 5 years of experience, encompassing 4 years in Web2 and 1 year in Web3. Currently, I’m actively involved in the T4E community, where we at T4E Research, based in Vietnam, are dedicated to translating complex technical documentation into Vietnamese to support and empower local node runners. With my extensive knowledge in technical domains such as operating systems, networking, and infrastructure, I find it effortless to provide guidance and support to new community members, helping them navigate the intricacies of blockchain technology.
 
