@@ -11,6 +11,7 @@ In the first stage, you need to tell us about yourself and your activity as a va
 
 ## Submission
 To submit your solution, you need to fork this repository. Then, in the submissions directory, create a folder with your GitHub username and add a user.json file with the following content:
+> The github_username should be specified from where you forked the repository. This can be your account or organization
 ```json
 {
    "github_username": "string",
