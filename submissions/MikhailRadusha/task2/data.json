@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "https://story-testnet-rpc.stingray.plus",
+  "evm_json_rpc": "https://story-testnet-evm-rpc.stingray.plus",
+  "tests": "ok",
+  "timestamp": 1725658882
+}
