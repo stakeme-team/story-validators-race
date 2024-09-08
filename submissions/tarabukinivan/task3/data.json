@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "story.tarabukin.work:26657",
+  "evm_json_rpc": "167.235.39.5:8545",
+  "cosmos_rest": "167.235.39.5:1317",
+  "cosmos_ws": "167.235.39.5:8546",
+  "evm_ws": "story.tarabukin.work:8946",
+  "tests": "ok",
+  "timestamp": 1725764140
+}
