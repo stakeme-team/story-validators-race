@@ -33,10 +33,13 @@ Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, H
 
 [Symphony](https://testnet.ping.pub/symphony/staking/symphonyvaloper1qvt3fpxnltcqaz3x5pg5t0e9e5gygv3psalsvg)
 
+[Gasp](https://holesky.eigenlayer.xyz/operator/0x2B6B967A90985190822EdbbBB1A371Ad28F48bc2)
+
 [0G](https://testnet.0g.explorers.guru/validator/0gvaloper1wnv285xdevgnry92msgcpdrjkv87st9pzlt3qa)
 
 [Warden](https://testnet.warden.explorers.guru/validator/wardenvaloper1f8ve8k6az4kv8jfhfhuwzgpuyxxpkh7nkdprzn)
 
+[Chainbase](https://holesky.eigenlayer.xyz/operator/0x2B6B967A90985190822EdbbBB1A371Ad28F48bc2)
 
 
 ## Over the past two years, I have made significant contributions to various blockchain projects, focusing on several key areas:
