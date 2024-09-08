@@ -1,4 +1,4 @@
-My validator Story: (https://testnet.storyscan.app/validators/storyvaloper
+My validator Story: (https://testnet.storyscan.app/validators/storyvaloper12clnw7e7tqxtxrk9ju89txpwr99dr6cwph9qhq
 
 Hello, my name is Oleksii, and I'm a dedicated validator from Ukraine with a passion for cryptocurrencies, particularly since 2021.
 
