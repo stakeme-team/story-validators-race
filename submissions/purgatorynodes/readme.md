@@ -1,3 +1,5 @@
+![image (1)cf](https://github.com/user-attachments/assets/2a431f79-5123-4212-8fed-d603bcd9d6df)
+
  At PurgatoryDAO, we are committed to fostering the growth and sustainability of blockchain projects by providing robust node operation services. 
  Our platform serves as a convergence point for innovative minds, offering unparalleled support to blockchain ecosystems worldwide.
  Driven by a passion for decentralization and technological advancement, we specialize in deploying and maintaining nodes for a diverse range of blockchain networks. 
