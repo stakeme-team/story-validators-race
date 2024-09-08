@@ -15,7 +15,7 @@
   
 
 
-**- Validator assdress**: https://testnet.story.explorers.guru/validator/storyvaloper18pldxp785wuwd43ze43juu6tcyfuz8suvtfg7t
+**- Story Validator address build since 30.08.2024**: https://testnet.story.explorers.guru/validator/storyvaloper18pldxp785wuwd43ze43juu6tcyfuz8suvtfg7t
 
 
 **Thank you for visiting my profile!** Feel free to check out my repositories and get in touch if you’d like to collaborate on a project. 😊
