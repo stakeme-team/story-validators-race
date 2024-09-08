@@ -18,11 +18,11 @@ Snapshot, Statesync, Peer, Seed
 
 Networks in which we operate as validators
 
-crossfi :https://test.xfiscan.com/validator/mxvaloper10l34zhm3waad6drvhgx4c4kmjnkjmmej8rx3p6
-0gchain :https://testnet.0g.explorers.guru/validator/0gvaloper1nd8uzlrcelxur7n2z8lutk64l5nrkjelquekcs
-flock.io:https://sepolia.basescan.org/address/0x9b4fc17c78cfcdc1fa6a11ffc5db55fd263b4b3f
-nesa:https://node.nesa.ai/nodes/4Saf7v8Q9ojsaAnhyJyFKRK3SmhmBRFKMUh149knrEBd
-
+crossfi    :https://test.xfiscan.com/validator/mxvaloper10l34zhm3waad6drvhgx4c4kmjnkjmmej8rx3p6
+0gchain    :https://testnet.0g.explorers.guru/validator/0gvaloper1nd8uzlrcelxur7n2z8lutk64l5nrkjelquekcs
+flock.io   :https://sepolia.basescan.org/address/0x9b4fc17c78cfcdc1fa6a11ffc5db55fd263b4b3f
+nesa:https ://node.nesa.ai/nodes/4Saf7v8Q9ojsaAnhyJyFKRK3SmhmBRFKMUh149knrEBd
+initia     :initvaloper16a68a6azwu2lws69wkl7uw27zpu2e3pxlau9t5
 
 
 
