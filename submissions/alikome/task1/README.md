@@ -5,8 +5,11 @@ Hello all, I'm going to start by introducing myself, my name is Ali, I have been
 Here is some information about my validator:
 
 Location - Dusseldorf, Germany
+
 Processor - AMD EPYC 7282 16-Core Processor
+
 Memory - 24GB of RAM and 1.2TB of SSD
+
 Bandwidth - 600 Mbit/s
 
 Networks I'm validating on:
