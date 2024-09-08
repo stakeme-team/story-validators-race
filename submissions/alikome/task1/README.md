@@ -14,9 +14,12 @@ Bandwidth - 600 Mbit/s
 
 Networks I'm validating on:
 
-I have been validating on: 
+I have been validating on:
+
 Elixir testnet address "0x81fe4a6207Fe302B84393044911F2b610Ce2dAc0",
+
 Nesa ai network "https://node.nesa.ai/nodes/bYA3K91C9AVxXQMmrMTsYbuiNJYgPrY98xp9MLoS1sf",
+
 and Story Protocol as of late.
 
 I have been working on a tool for the Story node to facilitate its installation and updating with the addition of some "every day" needed functions.
