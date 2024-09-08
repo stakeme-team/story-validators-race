@@ -32,7 +32,7 @@ Here are the relevant links:
   - [Polymer Staking Gift Client](https://github.com/pot4e/polymer-staking-gift-client)  
   - [Community Demo DAPP](https://github.com/polymerdevs/community-demo-dapps/pull/24)  
   - [Official DAPP](https://polykemon.xyz/) - Phase 2 community testnet.
-- **Sahara AI Official**: Validator in private testnet.
+- **Sahara AI Official**: joining in private testnet and report the security bug for team as contributor.
 - **Viper Network**: International moderator, testnet, node validator.  
   - [Discord Server](https://discord.gg/eBDYH4Zxek)
 - **Nubit Project**: International super moderator for technical support.  
