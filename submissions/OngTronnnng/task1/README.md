@@ -21,8 +21,13 @@ I currently operate validator nodes for multiple blockchain networks:
 My focus is on maintaining high uptime, ensuring optimal performance, and contributing to network security and decentralization.
 
 
-My Server:
-OS: Window - Linux, CPU: AMD EPYC™ 9684(max. 3.7 GHz per core), Card: Asus ROG Strix RTX® 4080 OC 16GB 2655 MHz, RAM: 256GB DDR5 ECC 5600MHz, SSD: Silicon Power US70 M.2 NVME 8TB, Brand internet: 2.5 Gbps
+- My Server:
+- OS: Window - Linux
+- CPU: AMD EPYC™ 9684(max. 3.7 GHz per core)
+- Card: Asus ROG Strix RTX® 4080 OC 16GB 2655 MHz
+- RAM: 256GB DDR5 ECC 5600MHz
+- SSD: Silicon Power US70 M.2 NVME 8TB
+- Brand internet: 2.5 Gbps
 
 
 # For more information about my work and experience, please visit:*
