@@ -19,7 +19,7 @@ Furthermore, I am the founder of Okan Group, a local community with over 300 mem
 ### STORY Services:
 - Peer
   ```
-  71c980c816bf33019ca04f8031bbbe8dd75cf1fe@2a01:4f8:211:e4c::2:27656
+  71c980c816bf33019ca04f8031bbbe8dd75cf1fe@148.251.192.242:27656
   ```
 - Story Guideline
   ```
