@@ -31,8 +31,13 @@ Here are the relevant links:
 - **Polymer Labs**: Building DAPP in Polymers  
   - [Polymer Staking Gift Client](https://github.com/pot4e/polymer-staking-gift-client)  
   - [Community Demo DAPP](https://github.com/polymerdevs/community-demo-dapps/pull/24)  
+<<<<<<< HEAD
   - [Official DAPP](https://polykemon.xyz/) - Phase 2 community testnet. our DAPP have been chosen to run for community testnet
 - **Sahara AI Official**: Validator in private testnet.
+=======
+  - [Official DAPP](https://polykemon.xyz/) - Phase 2 community testnet.
+- **Sahara AI Official**: joining in private testnet and report the security bug for team as contributor.
+>>>>>>> b4968e8b6b1725821dc33fbd0156bed1746de5de
 - **Viper Network**: International moderator, testnet, node validator.  
   - [Discord Server](https://discord.gg/eBDYH4Zxek)
 - **Nubit Project**: International super moderator for technical support.  
