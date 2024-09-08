@@ -16,6 +16,7 @@ I. currently operate validator nodes for multiple blockchain networks:
 - 0g-Labs Validator: One of 125 selected active validators: https://testnet.explorer.liveraven.net/zero-gravity/staking/0gvaloper14m6clv038tyu5get77acp95wjjpvftk9s938d0
 - Story Validator: https://testnet.story.explorers.guru/validator/storyvaloper1vqmfv8lvwtf62vpkfmqp9v985xqfhpfgrkq4gf
 - VOI Validator: https://voi-nodes.dev/node/0651f435-4f61
+- Nufflelabs Network: https://holesky.eigenlayer.xyz/operator/0xe7FF3F5127695838D932B3c74A8D10Cd5F20e0A2
 
 II. In addition, I have installed testnet nodes for some projects such as Sui, Lava, Dymension, Avail. But because the testnet has ended, I currently only have some evidence as follows. (Please take a look): 
 - Dymension: https://github.com/Taybew1/rollapp-registry
