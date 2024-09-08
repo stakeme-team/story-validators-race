@@ -1,6 +1,6 @@
 
 
-## I have been involved in the testnet and node installation stages of dozens of blockchain projects for the past 2 years. During this time, I have set up nodes across multiple networks, ensuring that these nodes were configured optimally to support the development and decentralization of each project.
+I have been involved in the testnet and node installation stages of dozens of blockchain projects for the past 2 years. During this time, I have set up nodes across multiple networks, ensuring that these nodes were configured optimally to support the development and decentralization of each project.
 
 My experience spans a wide range of consensus mechanisms and blockchain architectures, allowing me to adapt quickly to the unique requirements of each project. From permissionless blockchains to permissioned networks, I have worked with various node configurations, validators, and governance models.
 
