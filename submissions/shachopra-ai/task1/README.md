@@ -11,8 +11,6 @@ Contriution made to zero-gravity
 
 zero-gravity Cosmos RPC - http://0g-testnet-rpc.shachopra.com
 
-zero-gravity json RPC - http://0g-testnet-jsonrpc.shachopra.com
-
 zero-gravity API - http://0g-testnet-api.shachopra.com
 
 
