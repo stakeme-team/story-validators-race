@@ -2,11 +2,11 @@
 <img width="226" alt="My logo" src="https://github.com/potaeisme/lattenode/blob/main/optipunk.png">
 
 ## Introduction
-Node runner by [@0xLatte](https://github.com/potaeisme) founded in early 2024, an emerging force in Proof-of-Stake (PoS) validation services. Combining fresh perspectives with a deep-seated passion for blockchain technology, I'm uniquely positioned in the validator landscape.
+Hello, I’m Latte, a Computer Science graduate from Rajamangala University of Technology Thanyaburi and the founder of Node runner by [@0xLatte](https://github.com/potaeisme) launched in early 2024. While I am new to the world of Proof-of-Stake (PoS) validation, my background in technology combined with a strong passion for blockchain positions me well for this rapidly growing field.
 
-As a newly established validator, I blend passion for blockchain with a commitment to learning and growth. Our team's dedication and energy enable us to quickly adapt to the ever-evolving blockchain ecosystem.
+As I embark on this journey, I’m channeling my academic knowledge into hands-on learning, focusing on mastering node operation. My approach is rooted in hard work, curiosity, and a commitment to continuous improvement. Together with my team, we’re gaining experience by working with various testnets to sharpen our skills, with the ultimate goal of participating in mainnet environments.
 
-Currently, I'm honing our skills across various testnets, preparing for future mainnet participation. While I focus on refining our operations, our ultimate goal is to secure and support production networks. I'm committed to operational excellence, ensuring consistent performance and reliability in all environments. This forward-looking approach positions us as a trusted partner in the ongoing development and security of decentralized networks.
+Though still in the early stages, I am dedicated to operational excellence, aiming to ensure reliability and security in all of our validation processes. This mindset not only drives my personal growth but also helps us prepare to become a trusted partner in the future of decentralized networks.
 
 ## About Me
 - **Experience**: 1+ years in PoS blockchains
