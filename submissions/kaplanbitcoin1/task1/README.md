@@ -45,35 +45,16 @@ Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, H
 ## Over the past two years, I have made significant contributions to various blockchain projects, focusing on several key areas:
 
 
-Node Installation and Maintenance:
-Successfully set up and maintained nodes across multiple blockchain networks, ensuring their optimal performance and reliability.
-Regularly updated node software to the latest versions, incorporating security patches and performance improvements.
-Monitored node uptime and performance metrics, addressing any issues promptly to ensure continuous operation.
+Node Installation and Maintenance: I have successfully set up and maintained nodes across multiple blockchain networks, ensuring their optimal performance and reliability. I have regularly updated node software to the latest versions, incorporating security patches and performance improvements. I have monitored node uptime and performance metrics, addressing any issues promptly to ensure continuous operation.
 
+Testnet Participation: I have actively participated in testnets, providing valuable feedback on network stability, security, and performance. I have assisted development teams in identifying and resolving bugs and inefficiencies within the testnet environment. I have conducted thorough testing of new features and upgrades, ensuring that they met the project’s requirements before full deployment.
 
-Testnet Participation:
-Actively participated in testnets, providing valuable feedback on network stability, security, and performance.
-Assisted development teams in identifying and resolving bugs and inefficiencies within the testnet environment.
-Conducted thorough testing of new features and upgrades, ensuring that they met the project’s requirements before full deployment.
+Community Engagement and Support: I have engaged with the blockchain community through forums, social media, and direct interactions to provide support and share insights. I have contributed to discussions on governance proposals and network improvements, helping to shape the direction of the projects. I have offered technical support to other validators and community members, sharing best practices and troubleshooting issues.
 
+Performance Optimization: I have worked on optimizing node configurations to enhance performance and reduce latency, contributing to a more robust network. I have analyzed performance data to identify bottlenecks and implemented solutions to improve efficiency and scalability.
 
-Community Engagement and Support:
-Engaged with the blockchain community through forums, social media, and direct interactions to provide support and share insights.
-Contributed to discussions on governance proposals and network improvements, helping to shape the direction of the projects.
-Offered technical support to other validators and community members, sharing best practices and troubleshooting issues.
+Security Enhancements: I have conducted security audits and assessments of node setups to identify potential vulnerabilities. I have implemented security measures and best practices to protect nodes from attacks and unauthorized access.
 
+Documentation and Knowledge Sharing: I have created and maintained detailed documentation for node setup processes, troubleshooting guides, and best practices. I have shared knowledge and experiences with other validators through written guides, tutorials, and workshops, fostering a collaborative environment.
 
-Performance Optimization:
-Worked on optimizing node configurations to enhance performance and reduce latency, contributing to a more robust network.
-Analyzed performance data to identify bottlenecks and implemented solutions to improve efficiency and scalability.
-
-
-Security Enhancements:
-Conducted security audits and assessments of node setups to identify potential vulnerabilities.
-Implemented security measures and best practices to protect nodes from attacks and unauthorized access.
-
-
-Documentation and Knowledge Sharing:
-Created and maintained detailed documentation for node setup processes, troubleshooting guides, and best practices.
-Shared knowledge and experiences with other validators through written guides, tutorials, and workshops, fostering a collaborative environment. These contributions have helped improve the stability, security, and efficiency of the blockchain networks I have worked with, and have furthered my expertise in the field. My ongoing commitment to supporting and advancing blockchain technology drives me to continually seek ways to enhance my contributions.
-
+These contributions have helped improve the stability, security, and efficiency of the blockchain networks I have worked with, and have furthered my expertise in the field. My ongoing commitment to supporting and advancing blockchain technology drives me to continually seek ways to enhance my contributions.
