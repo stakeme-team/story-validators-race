@@ -1,8 +1,6 @@
 ## **Hello Story team**
 I am HAXM
-Here is my Story validator
-
- https://testnet.story.explorers.guru/validator/storyvaloper17226552aqmszwy8fkdsfl2jdz8c8dxw4s58e93
+Here is my Story validator: https://testnet.story.explorers.guru/validator/storyvaloper17226552aqmszwy8fkdsfl2jdz8c8dxw4s58e93
 I am a professional and independent validator with over 3 years of experience in PoS blockchains such as Cosmos and Polkadot. I have run many testnets and most recently the Vaidator of my mainnet Entangle network which was trusted by the project and delegated 1000000 NGL. For both mainnet and testnet, I use dedicated servers from extremely reliable providers across multiple geographical locations: Austria, Germany, Finland, Poland. Here are my projects and active validators
 
 ## My experience:
