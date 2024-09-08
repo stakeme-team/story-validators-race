@@ -8,15 +8,21 @@ Zero-gravity validator address - 0gvaloper1pklk8kjncjkpjlx8zdttspv50ffdzw2sx6k6q
 https://testnet.itrocket.net/og/staking/0gvaloper1pklk8kjncjkpjlx8zdttspv50ffdzw2sx6k6qf
 
 Contriution made to zero-gravity
+
 zero-gravity Cosmos RPC - http://0g-testnet-rpc.shachopra.com
+
 zero-gravity json RPC - http://0g-testnet-jsonrpc.shachopra.com
+
 zero-gravity API - http://0g-testnet-api.shachopra.com
+
 
 Empeiria validator address - empevaloper1uweqlk3nzey4ju3s5sn3zymf4vsvg856t4p6cw, Moniker – shachopra
 https://testnet.itrocket.net/empeiria/staking/empevaloper1uweqlk3nzey4ju3s5sn3zymf4vsvg856t4p6cw
 
 Contribution made to Empeiria:
+
 Empeiria RPC - https://empeiria-testnet-rpc.shachopra.com
+
 Empeiria API - https://empeiria-testnet-api.shachopra.com
 
 I am also running fiamma testnet validator but that chain is halted currently and new version is not released yet. 
@@ -25,7 +31,9 @@ Fiamma validator address - fiammavaloper1nu8jk07sduuh9c9zvdp9p2e6n42u0z6jsvuyem,
 https://testnet.itrocket.net/fiamma/staking/fiammavaloper1nu8jk07sduuh9c9zvdp9p2e6n42u0z6jsvuyem
 
 Contribution made to Fiamma:
+
 Fiamma RPC - http://fiamma-testnet-rpc.shachopra.com
+
 Fiamma API - http://fiamma-testnet-api.shachopra.com
 
 I am also running chainbase operator node.
@@ -42,6 +50,7 @@ Story validator address - storyvaloper1hvqz86s760kvan5urt6gnjyjx0vjh8d6z4w54w, M
 https://testnet.story.explorers.guru/validator/storyvaloper1hvqz86s760kvan5urt6gnjyjx0vjh8d6z4w54w
 
 Story RPC - https://story-testnet-rpc.shachopra.com
+
 Story json RPC - https://story-testnet-jsonrpc.shachopra.com
 
 Server Specifications: 2 servers of following specs
