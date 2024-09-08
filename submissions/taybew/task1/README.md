@@ -21,3 +21,6 @@ I. currently operate validator nodes for multiple blockchain networks:
 II. In addition, I have installed testnet nodes for some projects such as Sui, Lava, Dymension, Avail. But because the testnet has ended, I currently only have some evidence as follows. (Please take a look): 
 - Dymension: https://github.com/Taybew1/rollapp-registry
 - Avail: https://github.com/Taybew1/avail-campaign-listing
+
+# PEER
+901f7c763100f36b21d3d5110b56dd6806991847@45.90.123.229:26656
