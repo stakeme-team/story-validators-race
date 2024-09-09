@@ -3,7 +3,6 @@ No big team behind me, just a strong commitment to each project I work with. Onc
 STARGAZE: https://www.mintscan.io/stargaze/validators/starsvaloper15h93mze4d7uzls97pzy58rf9fplxmzyaw8gd4u
 
 JUNO: https://www.mintscan.io/juno/validators/junovaloper1aevx3gfvvdce60ql75fp6j4fzj42lru9h0vhqq
-
 OMNIFLIX: https://www.mintscan.io/omniflix/validators/omniflixvaloper14d48scv8w6rurhcd5dyeezgszmj0ucl5d5hgmq
 SHENTU: https://www.mintscan.io/shentu/validators/shentuvaloper1422gjxp0c343u0lypp728c48txuas8d2pknm82
 COMPOSABLE: https://explorer.stavr.tech/Composable-Mainnet/staking/centaurivaloper1s46x6fn803hper37cghc87dsuw7fyhddtqr7se
