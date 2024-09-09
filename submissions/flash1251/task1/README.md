@@ -13,10 +13,21 @@ Furthermore, I am the founder of Okan Group, a local community with over 300 mem
 ### Experience:
 - Story (Testnet): https://testnet.story.explorers.guru/validator/storyvaloper1ee044tvwerdrnkdppjm0q5crtshqhklyz3gq89
 - 0G Labs (Testnet): https://testnet.0g.explorers.guru/validator/0gvaloper15ffa4qaccrqxsm4kgqa82pwgtqnnq3l96yqkjf
+- Celestia (Testnet): https://testnet.celestia.explorers.guru/account/celestia1an2hdum5fjpjz7v0tqpunc44kw39jun5ms754f
+- Avail (Testnet): https://avail-goldberg.subscan.io/account/5DknsmNnmkDE3HSMY65EpzgwsURMT5ty4vVHDnqv2pH35CVs
 - Voi Network (Testnet and mainnet): https://voirewards.com/wallet/WSVG4R2HBJ66ZLD7QZ356QTWSISNUCRTARV7YEQFMHE4AHIIQD4FOUEGCI
 - Nubit (Testnet): https://www.explorer.nubit.org/address/nubit1dn9l9es5t2792kgzcxrvlzkrl77p7w35hatpfp
+- Airchain (Testnet): https://testnet.junction.explorers.guru/account/air1ppsmmlkztytkhztm2rpy2lvcqrrsr0xygkjygq
 
 ### STORY Services:
+- Cosmos RPC
+  ```
+  https://rpc-story.flash125.com
+  ```
+ - EVM JSON RPC
+  ```
+  https://evm-rpc-story.flash125.com
+  ```   
 - Peer
   ```
   71c980c816bf33019ca04f8031bbbe8dd75cf1fe@148.251.192.242:27656
