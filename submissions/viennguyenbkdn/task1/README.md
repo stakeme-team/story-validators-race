@@ -29,29 +29,34 @@
 
 ### 3.2 These projects i have joined
 #### 3.2.1 Celestia testnet
-- Role: Fullnode
+- Role in ITN testnet: DA Fullnode 
+- Mocha testnet: https://testnet.celestia.explorers.guru/validator/celestiavaloper1j3pzhu2400f4ntv6kznlvramxv62w2d2sydg7x
 - Guide:
-  + [how to setup HA server for Cosmos validator node](https://medium.com/@viennguyenbkdn/deploy-high-availability-validator-node-on-celestia-network-820014653b75?source=friends_link&sk=bab2356f3b9e64a6a1ce868448b18c9b)
+  + [How to setup HA server for Cosmos validator node](https://medium.com/@viennguyenbkdn/deploy-high-availability-validator-node-on-celestia-network-820014653b75?source=friends_link&sk=bab2356f3b9e64a6a1ce868448b18c9b)
+  + [Guide to setup Grafana/Prometheus system to monitor Celestia DA node](https://github.com/viennguyenbkdn/Celestia_DAS_Monitoring_Setup)
 
-#### B. 1-hit script is to setup Grafana/Prometheus monitoring system to Avail Validator node and Avail Light node
-- Light node: https://github.com/viennguyenbkdn/Avail_Monitoring_Light
-- Validator node: https://github.com/viennguyenbkdn/Avail_Monitoring
 
-#### C. Guide to setup Grafana/Prometheus system to monitor Celestia DA node
-- https://github.com/viennguyenbkdn/Celestia_DAS_Monitoring_Setup
+#### 3.2.2 Avail testnet
+- Create Madara Appchain (Starknet SDK) on Avail DA network: https://github.com/karnotxyz/avail-campaign-listing/pull/2376
+- Guide
+  + [Auto setup Grafana/Prometheus monitoring system to Avail Validator node](https://github.com/viennguyenbkdn/Avail_Monitoring)
+  + [Auto setup Grafana/Prometheus monitoring system to Avail Light node](https://github.com/viennguyenbkdn/Avail_Monitoring_Light)
 
-#### D. Guide of security hardening is to Cosmos validator node, included TMKMS (Applied to Seinami testnet chain)
-- https://github.com/viennguyenbkdn/Sei/blob/main/Atlantic-1/ACT-3/Validator_Security_Hardening.md
+#### 3.2.3 Seinami testnet
+- Validator node: https://github.com/sei-protocol/testnet/pull/1694
+- Guide:
+  + [Security hardening is to Cosmos validator node, included TMKMS](https://github.com/viennguyenbkdn/Sei/blob/main/Atlantic-1/ACT-3/Validator_Security_Hardening.md)
 
-#### E. Guide to setup Hermes and Go Relayer on Cosmos SDK Appchains (applied on Strided testnet chain)
-- https://github.com/viennguyenbkdn/Cosmos_Stride/tree/main/STRIDE-TESTNET-2
-
+#### 3.2.4 Stride testnet
+- Guide
+  + [Setup Hermes and Go Relayer on Cosmos SDK Appchains](https://github.com/viennguyenbkdn/Cosmos_Stride/tree/main/STRIDE-TESTNET-2)
 
 ### 3.3 Story Service
 - Cosmos RPC: https://story-cosmos-rpc.node101.online/
 - EVM RPC: https://story-evm-rpc.node101.online/
 - Peer: be7e0404387aeed65d174ffd7093561349f772a7@node101.online:26656
 - Snapshot every 4hours: https://viennguyenbkdns-noderunner.gitbook.io/introduction/cosmos-sdk-appchain/story/snapshot
+- Validator: https://testnet.story.explorers.guru/validator/5169AFF4D9F428F7F8998F85E72DACF5DF6DD101
 
 
 
