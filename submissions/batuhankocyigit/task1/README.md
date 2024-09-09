@@ -8,6 +8,7 @@ I highly value collaboration within the community, knowledge sharing, and contri
 
 # **Networks I Validate**
 
+- **[Story](https://testnet.story.explorers.guru/validator/AABBA56CEBF2AD2D7AC2D8815356654DAD2F7ADC)**
 - **[Chainbase](https://holesky.eigenlayer.xyz/operator/0xcc1b8259DdC1dA223c28eDC1911F91C6125bA63A)**
 - **[Nesa](https://node.nesa.ai/nodes/AYza39KSi7y29b36ThWnyRM7YWDRg3LePadRdCtpHmbc)**
 - **[Humanode](https://humanode.subscan.io/account/5G9GY7RTrAo9d93wPhptPGqaTpVBYEbBRDUv7qEkzGMQiqBt)**
