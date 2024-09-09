@@ -30,7 +30,6 @@ Scanner link: https://testnet.story.explorers.guru/validator/493624E567C130398FD
 - Location: Karlsruhe, Germany
 - OS: Ubuntu 22.04
 
-
 ## ✅ **My Validators Network**
 
 - Story:  https://testnet.story.explorers.guru/validator/493624E567C130398FDB7688F3DC9F95FAF3B62B - (Running in Testnet)
