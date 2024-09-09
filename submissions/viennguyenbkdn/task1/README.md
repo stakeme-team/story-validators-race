@@ -27,8 +27,10 @@
 
 - Currently I am working in IT network for building system with Docker and Kubernetes, provide product, solution to Telecomunication company
 
-### 3.2 My contribution on passed testnet projects
-#### A. Guide how to setup HA server for Cosmos validator node
+### 3.2 These projects i have joined
+#### 3.2.1 Celestia testnet
+- Role: > Fullnode
+- Guide how to setup HA server for Cosmos validator node
 - https://medium.com/@viennguyenbkdn/deploy-high-availability-validator-node-on-celestia-network-820014653b75?source=friends_link&sk=bab2356f3b9e64a6a1ce868448b18c9b
 
 #### B. 1-hit script is to setup Grafana/Prometheus monitoring system to Avail Validator node and Avail Light node
@@ -43,6 +45,7 @@
 
 #### E. Guide to setup Hermes and Go Relayer on Cosmos SDK Appchains (applied on Strided testnet chain)
 - https://github.com/viennguyenbkdn/Cosmos_Stride/tree/main/STRIDE-TESTNET-2
+
 
 ### 3.3 Story Service
 - Cosmos RPC: https://story-cosmos-rpc.node101.online/
