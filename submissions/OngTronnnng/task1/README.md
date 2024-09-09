@@ -1,9 +1,10 @@
 # **About me:**
 My name is TrongNguyen, currently I am the leader of a team of 10 members with experience in the IT and developer fields. We have been operating for 3 years and this is the group where we share and run nodes!
-We are currently working at Straive, Straive is a company specializing in providing data and content solutions, with the goal of helping organizations leverage data and content to create value. In the artificial intelligence (AI) segment, Straive focuses on developing and deploying AI solutions to help businesses improve workflows, enhance performance and achieve innovation in many fields. different areas. Here are some highlights of Straive's AI segment: Process Automation, Data Analysis and Prediction, Personalize User Experience, Improve Content Quality, New Product Development. Straive's AI solutions help improve performance, reduce costs, and drive innovation across many business sectors. Please visit our company website, I think it will be helpful as we are in the same field of traditional corporate AI and blockchain AI. Thank you for reading.
-
-- My group: https://t.me/VNBnodegroup
-- Website : https://www.straive.com/
+We are currently working at Straive, Straive is a company specializing in providing data and content solutions, with the goal of helping organizations leverage data and content to create value. In the artificial intelligence (AI) segment, Straive focuses on developing and deploying AI solutions to help businesses improve workflows, enhance performance and achieve innovation in many fields. different areas. Here are some highlights of Straive's AI segment: Process Automation, Data Analysis and Prediction, Personalize User Experience, Improve Content Quality, New Product Development. Straive's AI solutions help improve performance, reduce costs, and drive innovation across many business sectors. Please visit our company website, I think it will be helpful as we are in the same field of traditional corporate AI and blockchain AI.
+We have been participating in the cryptocurrency industry in general for 5 years and participating in operating test project nodes for 3 years. Currently we are operating nodes for many projects both mainet and testnet: Mina, Sei, Sui, NYM, Celestia, Aptos, Base, Nulink, pactus, Avail, Dymension, UMEE, mantra, Xai, Overnode, FleekNetwork, Subsquid, Quai, Cess, Babylon, Airchains, Galactica, Hedge-Testnet, Alignedlayer, Initia, Juneo, 0gLabs. We have a total of 10 members on duty 24/7 to operate and handle errors encountered during node running. Please rest assured, we have enough experience and infrastructure to help you have the best quality buttons.
+Some nodes I am currently operating very well!
+Thank you for reading.
+** Website ** : https://www.straive.com/
 
 # **My experience:**
 I currently operate validator nodes for multiple blockchain networks: 
@@ -20,8 +21,7 @@ I currently operate validator nodes for multiple blockchain networks:
 
 My focus is on maintaining high uptime, ensuring optimal performance, and contributing to network security and decentralization.
 
-
-- My Server:
+** My Server **
 - OS: Window - Linux
 - CPU: AMD EPYC™ 9684(max. 3.7 GHz per core)
 - Card: Asus ROG Strix RTX® 4080 OC 16GB 2655 MHz
@@ -29,8 +29,8 @@ My focus is on maintaining high uptime, ensuring optimal performance, and contri
 - SSD: Silicon Power US70 M.2 NVME 8TB
 - Brand internet: 2.5 Gbps
 
-
 # For more information about my work and experience, please visit:*
 - Website: https://www.straive.com/
 - GitHub: https://github.com/OngTronnnng
 - Twitter: https://x.com/Trongbtc
+- Mail: TrongNguyenBTC@gmail.com
