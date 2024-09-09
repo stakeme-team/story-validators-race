@@ -34,5 +34,3 @@ My focus is on maintaining high uptime, ensuring optimal performance, and contri
 - Website: https://www.straive.com/
 - GitHub: https://github.com/OngTronnnng
 - Twitter: https://x.com/Trongbtc
-- Explorer: https://explorer.stavr.tech
-- Documentation: https://stavr-team.gitbook.io/nodes-guides
