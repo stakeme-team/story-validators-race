@@ -2,3 +2,4 @@ Hello, I'm mehmetxh. I've been working as a validator for a long time. I've cont
 https://github.com/mehmetxh/inery-testnet-faucet-tasks
 https://github.com/mehmetxh/availnftdapp
 https://github.com/mehmetxh/taikodapp1
+I also employ workers in artificial intelligence-based projects (like allora nesa). My past activities are also available on my website
