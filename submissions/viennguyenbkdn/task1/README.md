@@ -29,9 +29,9 @@
 
 ### 3.2 These projects i have joined
 #### 3.2.1 Celestia testnet
-- Role: > Fullnode
-- Guide how to setup HA server for Cosmos validator node
-- https://medium.com/@viennguyenbkdn/deploy-high-availability-validator-node-on-celestia-network-820014653b75?source=friends_link&sk=bab2356f3b9e64a6a1ce868448b18c9b
+- Role: Fullnode
+- Guide:
+  + [how to setup HA server for Cosmos validator node](https://medium.com/@viennguyenbkdn/deploy-high-availability-validator-node-on-celestia-network-820014653b75?source=friends_link&sk=bab2356f3b9e64a6a1ce868448b18c9b)
 
 #### B. 1-hit script is to setup Grafana/Prometheus monitoring system to Avail Validator node and Avail Light node
 - Light node: https://github.com/viennguyenbkdn/Avail_Monitoring_Light
