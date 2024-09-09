@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://t-story.archive.rpc.utsa.tech:443",
+  "evm_json_rpc": "https://t-story.archive.evm.utsa.tech:443",
+  "cosmos_rest": "https://t-story.archive.api.utsa.tech:443",
+  "cosmos_ws": "wss://t-story.archive.rpc.utsa.tech:443/websocket",
+  "evm_ws": "wss://t-story.archive.wss.utsa.tech:443",
+  "tests": "ok",
+  "timestamp": 1725716242
+}
