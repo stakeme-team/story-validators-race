@@ -1,7 +1,3 @@
-- Information about your validator
-- The networks in which you validate
-- Recent contributions you have made to blockchain projects
-
 # **Hi, my name is Andrii ✌️**
 
 I am the founder of [**IT&Science Consulting**](https://www.biznes.gov.pl/en/wyszukiwarka-firm/wpis/ceidg/C4857ECA-BEE9-4DA7-AF01-AADDFC1A684D), a Poland-based IT services firm specializing in innovative and secure technology solutions. My expertise spans across building robust test automation frameworks and performance testing strategies, with a recent focus on Web3 technologies, blockchain infrastructure, and decentralized applications (dApps).
@@ -25,13 +21,15 @@ Leveraging my background in DevOps and modern software engineering practices, I 
 
 > ℹ️ Server configuration is adjustable and can be scaled if needed.
 
+Scanner link: https://testnet.story.explorers.guru/validator/493624E567C130398FDB7688F3DC9F95FAF3B62B
+
 - CPU: 6 cores
 - Ram: 16 GB
 - Bandwidth: 1 Gbit/s
 - Disk: 200 GB (100% NVMe)
 - Location: Karlsruhe, Germany
 - OS: Ubuntu 22.04
-- https://testnet.story.explorers.guru/validator/493624E567C130398FDB7688F3DC9F95FAF3B62B
+
 
 ## ✅ **My Validators Network**
 
