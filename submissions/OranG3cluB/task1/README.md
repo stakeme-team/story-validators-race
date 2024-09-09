@@ -15,8 +15,10 @@ UPTICK: https://uptick.explorers.guru/validator/uptickvaloper12492wecaw9g66a3drm
 PYLONS: https://pylons.explorers.guru/validator/pylovaloper1n8cfltv5y85jhtkv62rxuhzllc7vzr4fd6cf7x  
 
  In addition to these, I've got experience in networks like   
+
 SOLANA - https://stakewiz.com/validator/AY271jdvcyo5VzBiWsMGLEjpZFFrarq8FDydJHLmYgCG)  
 MINA - https://minascan.io/mainnet/validator/B62qjwAoLA1iT82EQQidZDDovQND5PeJtmcZXq7USbNDGEqgYnBbKam/delegations    
+
 By the way, I'm part of some exciting collaborations like LIDO x Obol Network and LIDO x SSV Network.
 
 You can check all the other info about testnets OranG3cluB participated in here: https://orang3.club/
