@@ -1,5 +1,5 @@
 # BlockPro
-<img src="https://img2.teletype.in/files/90/21/902166a4-dd3b-44ae-8303-dbd0ec91ca32.png" width="300" height="300">
+<img src="https://s3.amazonaws.com/keybase_processed_uploads/24e54db75ac85621802ff033a66fec05_360_360.jpg" width="300" height="300">
 
 > BlockPro - Reliable nodes, reliable staking - we're your trusted Proof of Stake validator
 
