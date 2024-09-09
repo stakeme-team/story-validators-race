@@ -1,6 +1,5 @@
-
+![LucasiNode Logo](https://i.postimg.cc/3J6VN6py/Banner-2.png)
 # LucasiNode
-![LucasiNode Logo](https://i.postimg.cc/FsbnZRJ4/Banner.png)
 **"Powering Decentralization, One Node at a Time."**
 
 LucasiNode is a blockchain infrastructure project focused on providing reliable and secure validation services for decentralized networks. We specialize in running nodes and ensuring the integrity of blockchain ecosystems through active participation in network validation processes. Established in 2022, LucasiNode’s mission is to support the growth and decentralization of Web3 and blockchain technology by offering top-tier validation services.
@@ -39,4 +38,4 @@ LucasiNode’s recent contributions to the blockchain ecosystem include:
 - **Discord User Id** : 827067579712405526 
 
 ---
-## 🎯 This is just the beginning
+## 🎯 This is just the beginning - Lets Grow Together!
