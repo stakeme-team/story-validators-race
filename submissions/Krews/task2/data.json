@@ -1,0 +1,6 @@
+{
+    "cosmos_rpc": "https://story-rpc.krews.xyz",
+    "evm_json_rpc": "https://story-jsonrpc.krews.xyz:443",
+    "tests": "ok",
+    "timestamp": 1725675361
+}

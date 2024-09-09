@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "https://rpc.story.posthuman.digital:443",
+  "evm_json_rpc": "https://evm.story.posthuman.digital:443",
+  "tests": "ok",
+  "timestamp": 1725710592
+}
