@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://story-testnet-rpc.validator247.com",
+  "evm_json_rpc": "https://story-testnet-evm.validator247.com",
+  "cosmos_rest": "https://story-testnet-api.validator247.com",
+  "cosmos_ws": "wss://story-testnet-rpc.validator247.com/websocket",
+  "evm_ws": "wss://story-testnet-ws-evm.validator247.com",
+  "tests": "ok",
+  "timestamp": 1725867470
+}
