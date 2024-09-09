@@ -85,5 +85,3 @@ For all the servers we implement the following security measures:
 5. SSH login only allowed from 1 main IP, and allow temporary access to an other IP during travel.
 6. Fully synced Backup server and we can switch to backup server within 5 mins if main sever is down.
 7. PagerDuty alerts using Tenderduty with phone calls and email alerts which we have setup in an other independent server. This will notify us through phone call and email anytime if we miss 3 pre-commits.
-
-
