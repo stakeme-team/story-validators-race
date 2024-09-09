@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://rpc-story.grandvalleys.com",
+  "evm_json_rpc": "https://json-rpc-story.grandvalleys.com",
+  "cosmos_rest": "https://api-story.grandvalleys.com",
+  "cosmos_ws": "wss://rpc-story.grandvalleys.com/websocket",
+  "evm_ws": "wss://wss-story.grandvalleys.com",
+  "tests": "ok",
+  "timestamp": 1725770943
+}

@@ -1,0 +1,9 @@
+{ 
+  "cosmos_rpc": "https://story-rpc.node9x.com", 
+  "evm_json_rpc": "https://story-evm-rpc.node9x.com", 
+  "cosmos_rest": "https://story-api.node9x.com", 
+  "cosmos_ws": "wss://story-rpc.node9x.com/websocket", 
+  "evm_ws": "wss://story-evm-ws.node9x.com", 
+  "tests": "ok", 
+  "timestamp": 1725809177 
+} 
