@@ -15,13 +15,13 @@ Although we're relatively new in this field, we have over 2+ years of experience
 We offer public goods and build tools for delegators, validators and developers. These tools include validator performance analytics, daily full/pruned snapshots, state-sync, peering services, RPC/REST endpoints and more.<br> Explore all our technical contributions at https://service.zulnaaa.com/
 
 ## Contribute Validator
-Crossfi-M: https://xfiscan.com/validators/mxvaloper1nlj0ky3gvhtsph29spac9j9mexnz48lgp38lt9
+- Crossfi-M: https://xfiscan.com/validators/mxvaloper1nlj0ky3gvhtsph29spac9j9mexnz48lgp38lt9
 
-Empeiria: https://explorer.zulnaaa.com/empeiria/staking/empevaloper1ypvf74ynr678efvc8sv0grvdylr6f5r6eqlgtq
-Airchain: https://explorer.zulnaaa.com/airchains/staking/airvaloper1wtqx8l5euvm44582t95350ydt57mw9w7l7sl2c
-Crossfi-t: https://explorer.zulnaaa.com/crossfi/staking/mxvaloper19tjf5ldy5juc7pyxmswtan84aexnxaxs5040u6
-Artela: https://testnet.artela.explorers.guru/validator/artvaloper1mx0kucq9hec0f0cwt27zkd9s7m5hra4fvp37tt
-Warden: https://testnet.warden.explorers.guru/validator/wardenvaloper13w9fnqnfw69ffhfassrkw97wmul77p24l94xpl
+- Empeiria: https://explorer.zulnaaa.com/empeiria/staking/empevaloper1ypvf74ynr678efvc8sv0grvdylr6f5r6eqlgtq
+- Airchain: https://explorer.zulnaaa.com/airchains/staking/airvaloper1wtqx8l5euvm44582t95350ydt57mw9w7l7sl2c
+- Crossfi-t: https://explorer.zulnaaa.com/crossfi/staking/mxvaloper19tjf5ldy5juc7pyxmswtan84aexnxaxs5040u6
+- Artela: https://testnet.artela.explorers.guru/validator/artvaloper1mx0kucq9hec0f0cwt27zkd9s7m5hra4fvp37tt
+- Warden: https://testnet.warden.explorers.guru/validator/wardenvaloper13w9fnqnfw69ffhfassrkw97wmul77p24l94xpl
 
 **Other Chains:**
 - Gaia
