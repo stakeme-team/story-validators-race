@@ -1,7 +1,7 @@
 # ZULNA
 
 <p align="center">
-  <img src="https://service.zulnaaa.com/logo-fav-back.png"><br>
+  <img src="https://service.zulnaaa.com/Baaner-web.png"><br>
 </p>
 
 ## Introduction
@@ -17,6 +17,7 @@ We offer public goods and build tools for delegators, validators and developers.
 ## Contribute Validator
 - Crossfi-M: https://xfiscan.com/validators/mxvaloper1nlj0ky3gvhtsph29spac9j9mexnz48lgp38lt9
 
+- initia: https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1dhnjy5c9rd5auaeqjdxamgg962n4rmlrqvxu32
 - Empeiria: https://explorer.zulnaaa.com/empeiria/staking/empevaloper1ypvf74ynr678efvc8sv0grvdylr6f5r6eqlgtq
 - Airchain: https://explorer.zulnaaa.com/airchains/staking/airvaloper1wtqx8l5euvm44582t95350ydt57mw9w7l7sl2c
 - Crossfi-t: https://explorer.zulnaaa.com/crossfi/staking/mxvaloper19tjf5ldy5juc7pyxmswtan84aexnxaxs5040u6
