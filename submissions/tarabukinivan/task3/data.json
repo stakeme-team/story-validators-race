@@ -3,7 +3,7 @@
   "evm_json_rpc": "https://story-evm.tarabukin.work",
   "cosmos_rest": "https://story-api.tarabukin.work",
   "cosmos_ws": "https://story-rpc.tarabukin.work/websocket",
-  "evm_ws": "http://167.235.39.5:8945",
+  "evm_ws": "https://story-testnet-wss.tarabukin.work",
   "tests": "ok",
-  "timestamp": 1725967935
+  "timestamp": 1725969847
 }
