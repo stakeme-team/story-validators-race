@@ -2,8 +2,8 @@
   "cosmos_rpc": "https://story-testnet-rpc.chainad.org",
   "evm_json_rpc": "https://story-testnet-evm.chainad.org",
   "cosmos_rest": "https://story-testnet-api.chainad.org",
-  "cosmos_ws": "wss://story-testnet-wss.chainad.org",
-  "evm_ws": "wss://story-testnet-evm.chainad.org",
+  "cosmos_ws": "wss://story-testnet-rpc.chainad.org/websocket",
+  "evm_ws": "wss://story-testnet-wss.chainad.org",
   "tests": "ok",
-  "timestamp": 1725959380
+  "timestamp": 1725962057
 }
