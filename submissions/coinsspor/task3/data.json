@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://story-testnet-rpc.coinsspor.com",
+  "evm_json_rpc": "https://story-testnet-evm.coinsspor.com",
+  "cosmos_rest": "https://story-testnet-api.coinsspor.com",
+  "cosmos_ws": "wss://story-testnet-rpc.coinsspor.com/websocket",
+  "evm_ws": "wss://story-testnet-wss.coinsspor.com",
+  "tests": "ok",
+  "timestamp": 1725960687
+}

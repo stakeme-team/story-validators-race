@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://story-rpc.tarabukin.work",
+  "evm_json_rpc": "https://story-evm.tarabukin.work",
+  "cosmos_rest": "https://story-api.tarabukin.work",
+  "cosmos_ws": "https://story-rpc.tarabukin.work/websocket",
+  "evm_ws": "https://story-testnet-wss.tarabukin.work",
+  "tests": "ok",
+  "timestamp": 1725969847
+}

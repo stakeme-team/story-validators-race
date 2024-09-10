@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "http://176.9.90.222:10057",
+  "evm_json_rpc": "http://176.9.90.222:8555",
+  "tests": "ok",
+  "timestamp": 1725806330
+}
