@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "https://rpc-story.rawakinode.tech",
+  "evm_json_rpc": "https://rpc-evm-story.rawakinode.tech",
+  "tests": "ok",
+  "timestamp": 1725944381
+}
