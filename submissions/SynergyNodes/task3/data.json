@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://story-testnet-rpc.synergynodes.com",
+  "evm_json_rpc": "https://story-testnet-evm.synergynodes.com",
+  "cosmos_rest": "https://story-testnet-api.synergynodes.com",
+  "cosmos_ws": "https://story-testnet-rpc.synergynodes.com/websocket",
+  "evm_ws": "https://story-testnet-wss.synergynodes.com",
+  "tests": "ok",
+  "timestamp": 1725886375
+}

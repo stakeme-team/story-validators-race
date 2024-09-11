@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://rpc-story.oowl.black",
+  "evm_json_rpc": "https://json-rpc-story.oowl.black",
+  "cosmos_rest": "https://api-story.oowl.black",
+  "cosmos_ws": "wss://rpc-story.oowl.black/websocket",
+  "evm_ws": "wss://wss-story.oowl.black",
+  "tests": "ok",
+  "timestamp": 1725810779
+}

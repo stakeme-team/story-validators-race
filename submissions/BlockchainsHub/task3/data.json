@@ -1,0 +1,9 @@
+{
+    "cosmos_rpc": "https://story-testnet-rpc.blockhub.id",
+    "evm_json_rpc": "https://story-testnet-jsonrpc.blockhub.id",
+    "cosmos_rest": "https://story-testnet-api.blockhub.id",
+    "cosmos_ws": "wss://story-testnet-rpc.blockhub.id/websocket",
+    "evm_ws": "wss://story-testnet-wss.blockhub.id",
+    "tests": "ok",
+    "timestamp": 1725821181
+}

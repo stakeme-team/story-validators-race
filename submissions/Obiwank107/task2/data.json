@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "http://rpc-story.obiwank107.xyz:26657",
+  "evm_json_rpc": "http://rpc-story.obiwank107.xyz:8545",
+  "tests": "ok",
+  "timestamp": 1725854412
+}
