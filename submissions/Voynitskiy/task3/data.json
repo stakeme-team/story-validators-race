@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://story.rpc.t.anode.team",
+  "evm_json_rpc": "https://story.evm-rpc.t.anode.team",
+  "cosmos_rest": "https://story.api.t.anode.team",
+  "cosmos_ws": "https://story.rpc.t.anode.team/websocket",
+  "evm_ws": "wss://https://story.evm-rpc.t.anode.team",
+  "tests": "ok",
+  "timestamp": 1726084947
+}
