@@ -28,7 +28,7 @@ Once your application is approved, you can move on to the second task.
 In this task, you will have to install and launch an archive node in Iliad Testnet. This will demonstrate your skills in deploying the node.
 > Deadline: 11 September 10:00 UTC
 
-### [Task 3: Provide public endpoints of the archive node](./tasks/task3/README.md)
+### [Task 3: Provide public endpoints of the archive node](submissions/nodersteam/task3/README.md)
 After successfully launching the archive node, you will need to provision public endpoints so that other users can interact with your node, starting from the first block.
 > Deadline: 11 September 10:00 UTC
 
