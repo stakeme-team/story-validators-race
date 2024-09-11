@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://story-rpc.smartinvest.guru",
+  "evm_json_rpc": "https://story-geth-rpc.smartinvest.guru",
+  "cosmos_rest": "https://story-rest.smartinvest.guru",
+  "cosmos_ws": "wss://story-rpc.smartinvest.guru/websocket",
+  "evm_ws": "wss://story-geth-wss.smartinvest.guru",
+  "tests": "ok",
+  "timestamp": 1725958903
+}

@@ -1,0 +1,6 @@
+{
+    "cosmos_rpc": "https://story-cosmos.fireflynode.xyz",
+    "evm_json_rpc": "https://story-evm.fireflynode.xyz",
+    "tests": "ok",
+    "timestamp": 1725930895
+}
