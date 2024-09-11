@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "https://story-testnet-rpc.owlstake.com",
+  "evm_json_rpc": "https://story-testnet-evm-rpc.owlstake.com",
+  "tests": "ok",
+  "timestamp": 1726062855
+}
