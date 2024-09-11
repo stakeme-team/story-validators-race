@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://story-testnet-rpc.testnetnodes.info",
+  "evm_json_rpc": "https://story-testnet-evm.testnetnodes.info",
+  "cosmos_rest": "https://story-testnet-api.testnetnodes.info",
+  "cosmos_ws": "wss://story-testnet-wss.testnetnodes.info",
+  "evm_ws": "wss://story-testnet-wss.testnetnodes.info/websocket",
+  "tests": "ok",
+  "timestamp": 1726060349
+}
