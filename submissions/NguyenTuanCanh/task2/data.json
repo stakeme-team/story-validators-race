@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "http://story-cosmos-rpc.xxxigm.xyz",
+  "evm_json_rpc": "http://story-evm-rpc.xxxigm.xyz",
+  "tests": "ok",
+  "timestamp": 1726018695
+}
