@@ -2,7 +2,7 @@
   "cosmos_rpc": "https://story-testnet-rpc.owlstake.com",
   "evm_json_rpc": "https://story-testnet-evm-rpc.owlstake.com",
   "cosmos_rest": "https://story-testnet-api.owlstake.com",
-  "cosmos_ws": "wss://story-testnet-api.owlstake.com/wss",
+  "cosmos_ws": "wss://story-testnet-rpc.owlstake.com/websocket",
   "evm_ws": "wss://story-testnet-evm-rpc.owlstake.com/wss",
   "tests": "ok",
   "timestamp": 1726065866
