@@ -1,0 +1,9 @@
+{
+    "cosmos_rpc": "https://story-rpc-testnet.zulnaaa.com",
+    "evm_json_rpc": "https://story-jsonrpc-testnet.zulnaaa.com",
+    "cosmos_rest": "https://story-api-testnet.zulnaaa.com",
+    "cosmos_ws": "wss://story-rpc-testnet.zulnaaa.com/websocket",
+    "evm_ws": "wss://story-jsonrpc-testnet.zulnaaa.com",
+    "tests": "ok",
+    "timestamp": 1726042473
+}
