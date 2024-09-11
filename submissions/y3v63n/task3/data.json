@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://story-rpc.moonli.me",
+  "evm_json_rpc": "https://story-evm-rpc.moonli.me",
+  "cosmos_rest": "https://story-api.moonli.me",
+  "cosmos_ws": "wss://story-rpc.moonli.me/websocket",
+  "evm_ws": "wss://story-evm-wss.moonli.me",
+  "tests": "ok",
+  "timestamp": 1725961902
+}
