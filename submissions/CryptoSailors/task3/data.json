@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "http://213.239.201.202:12657",
+  "evm_json_rpc": "http://213.239.201.202:9532",
+  "cosmos_rest": "http://213.239.201.202:1323",
+  "cosmos_ws": "ws://213.239.201.202:12657/websocket",
+  "evm_ws": "http://213.239.201.202:9533",
+  "tests": "ok",
+  "timestamp": 1726072414
+}

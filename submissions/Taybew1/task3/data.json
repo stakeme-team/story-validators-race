@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://rpc-story.taybew.xyz",
+  "evm_json_rpc": "https://evm-rpc-story.taybew.xyz",
+  "cosmos_rest": "https://api-story.taybew.xyz",
+  "cosmos_ws": "wss://rpc-story.taybew.xyz/websocket",
+  "evm_ws": "wss://wss-story.taybew.xyz",
+  "tests": "ok",
+  "timestamp": 1725959907
+}
