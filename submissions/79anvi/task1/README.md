@@ -1,5 +1,5 @@
 **My Validator Information**<br>
-I am a professional and independent validator with 3+ years of experience in PoS blockchains such as Cosmos and Polkadot. I have successfully completed the [Validator School](https://github.com/Distributed-Validators-Synctems/Validator-School) three years ago, equipping me with a solid foundation in validator operations. 
+I am a professional and independent validator with 3+ years of experience in PoS blockchains such as Cosmos and Polkadot. I have successfully completed the [Validator School](https://github.com/Distributed-Validators-Synctems/Validator-School) three years ago, equipping me with a solid foundation in validator operations.
 For both mainnets and testnets, I utilize dedicated servers from highly reliable providers across multiple geolocations: Austria, Germany, Finland, Poland, Norway.
 For more details on my validators and ongoing projects, visit my website at [79anvi.com](https://79anvi.com/).
 

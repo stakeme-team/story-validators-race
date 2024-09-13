@@ -1,6 +1,5 @@
 # Hello, I'm **Coha**! 👋
 
-
 ---
 
 ## 🎨 About Me
@@ -19,7 +18,8 @@
 
 ---
 
-## Story Service 
+## Story Service
+
 **- Cosmos RPC**: https://story-cosmos-testnet-rpc.tech-coha05.xyz
 
 **- Metamask RPC:** https://story-evm-testnet-rpc.tech-coha05.xyz
@@ -64,4 +64,3 @@
 ---
 
 **Thank you for visiting my profile!** Feel free to check out my repositories and get in touch if you’d like to collaborate on a project. 😊
-

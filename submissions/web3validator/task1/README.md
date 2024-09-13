@@ -1,18 +1,21 @@
 <img src="https://user-images.githubusercontent.com/59205554/217953492-bdb6892e-918b-4981-8968-cf8b6f263ddd.png" alt="web34ever" width="250" height="250">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&lines=web34ever+is+a+staking+service+that+is+online+all+the+time!)](https://git.io/typing-svg)
-## [web3validator.info](https://web3validator.info/)
-Passionate experts with over five years of expertise in decentralized technologies. Professional validator and full time enthusiast from 2018 with powerful knowledge and exhaustive experience in crypto industry.
-Co-founder of the rapidly developing [Distributed Validator Synctems](https://validators.network/). 
-Co-founder and mentor in [validator school](https://github.com/Distributed-Validators-Synctems/Validator-School). 
 
+## [web3validator.info](https://web3validator.info/)
+
+Passionate experts with over five years of expertise in decentralized technologies. Professional validator and full time enthusiast from 2018 with powerful knowledge and exhaustive experience in crypto industry.
+Co-founder of the rapidly developing [Distributed Validator Synctems](https://validators.network/).
+Co-founder and mentor in [validator school](https://github.com/Distributed-Validators-Synctems/Validator-School).
 
 Please feel free to familiarize with the list of projects below to which I contributed my knowledge, skills and invaluable experience:
 
-##                                web3validator validate 26 main networks
+## web3validator validate 26 main networks
+
                                                         Main-Networks
-								 	
-				
+
+
+
 - [Solana](https://stage.validators.app/validators/7MTjmteQHhthwwTZhUzsc2dP4NBvGNRqj8jzdqNxHFGE?locale=en&network=mainnet)
 
 - [Moonriver Orbiter](https://moonriver.subscan.io/extrinsic/0x48bbd6a6ac37db20ffabf8a33e737c5fbaab26cc5272e5186690b8ccfa379e22)
@@ -25,22 +28,21 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Nym-mixnode](https://explorer.nymtech.net/network-components/mixnode/1376)
 
-- [TheGraph Indexer](https://thegraph.com/explorer/profile/0x047739cb42c227489cccd11aa5f28aa4eb46d2cf?view=Indexing&chain=arbitrum-one)	
+- [TheGraph Indexer](https://thegraph.com/explorer/profile/0x047739cb42c227489cccd11aa5f28aa4eb46d2cf?view=Indexing&chain=arbitrum-one)
 
 - [XX-Network](https://explorer.xx.network/accounts/6VaJ35ts5timzFThyYYyFAcswZ2zs73hzS2RsADPWyXcNwnM)
 
 - [Moonbeam Orbiter](https://moonbeam.subscan.io/waiting/0x47dd026c7e6c80c78b53811bf17c2cada73bf0d4)
 
-
 #Cosmos Networks
 
-- [Juno](https://www.mintscan.io/juno/validators/junovaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pcpxm5yx)	
+- [Juno](https://www.mintscan.io/juno/validators/junovaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pcpxm5yx)
 
-- [Omniflix](https://www.mintscan.io/omniflix/validators/omniflixvaloper147l6zgkn7af5d2rgxktt5wavct2l4hf5hf79hm)	
+- [Omniflix](https://www.mintscan.io/omniflix/validators/omniflixvaloper147l6zgkn7af5d2rgxktt5wavct2l4hf5hf79hm)
 
-- [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1jg39wazpukeqcytuuad7tsn3end22spg2m4u0x)	
+- [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1jg39wazpukeqcytuuad7tsn3end22spg2m4u0x)
 
-- [Certik](https://www.mintscan.io/certik/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq)	
+- [Certik](https://www.mintscan.io/certik/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq)
 
 - [AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1mzqxq685qd0gvhjelgn0mu58scp9v0v4n80hcy)
 
@@ -78,11 +80,11 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Althea](https://www.mintscan.io/althea/validators/altheavaloper1tk89wswv7h0ptsqfkgqgr9l6tq4vn7wm6mpecx)
 
-						        Test-Networks 
-							Blockchains grow here
-							
-							Recent		
-				         
+      				        Test-Networks
+      					Blockchains grow here
+
+      					Recent
+
 
 <table>
   <tr>
@@ -119,13 +121,11 @@ Please feel free to familiarize with the list of projects below to which I contr
         <li><a href="https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pc9jh75t">Chronic</a></li>
         </tr>
 </table>
-		
 
 
                                                    Not  Active
 
 Cosmos SDK projects:
-
 
 <table>
   <tr>
@@ -173,12 +173,7 @@ Cosmos SDK projects:
     <td><a href="https://explorer.augusta-1.archway.tech/validator/archwayvaloper1nqkwjumz6s2n6zk9fv5jhldupatzup67uawf96">Archway</a></td>
     <td><a href="https://ping.pub/chronic-token/staking/chronicvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxv0r7khh">Chronic-Token</a></td>
   </tr>
-</table> 
-
-
-
-
-
+</table>
 
 Others projects
 
@@ -193,19 +188,18 @@ Others projects
 - [Nucypher](https://blog.nucypher.com/the-final-countdown/)
 - [Swarm]()
 - [Covalent]()
-- [NYM]()	
-- [Spacemesh]()	
-- [Radicle]()		
-- [Aleo]()	
+- [NYM]()
+- [Spacemesh]()
+- [Radicle]()
+- [Aleo]()
 - [Gateway]()
 - [Iron Fish]()
 - [Blockstack]()
 - [Humanode]()
 
+                                                     AMBASSADOR CAMPAIGNS
 
-
-                                                   AMBASSADOR CAMPAIGNS
-My ambassador portfolio -> [here](https://docs.google.com/document/d/1oxpMh1xUdl2tv-KxstnPIuO8ujJ2GmI_q5mD5gsSfQU/edit)
+  My ambassador portfolio -> [here](https://docs.google.com/document/d/1oxpMh1xUdl2tv-KxstnPIuO8ujJ2GmI_q5mD5gsSfQU/edit)
 
 - [Covalent]
 - [Polygon]
@@ -223,17 +217,13 @@ My ambassador portfolio -> [here](https://docs.google.com/document/d/1oxpMh1xUdl
 - Cosmos Network - [YouTube link](https://www.youtube.com/watch?v=cIxdLwKAYYQ&t=6s&ab_channel=PapsanLysenko)
 - FreeTON Network - [YouTube link](https://www.youtube.com/watch?v=gi47M7hE1yg&t=11s&ab_channel=PapsanLysenko)
 
-
-                                                      Contacts	
-
+                                                      Contacts
 
 [<img src='https://user-images.githubusercontent.com/83868103/227937841-6e05b933-9534-49f1-808a-efe087a4f7cd.png' alt='Twitter'  width='16.5%'>](https://twitter.com/web34ever)[<img src='https://user-images.githubusercontent.com/83868103/227935592-ea64badd-ceb4-4945-8dfc-f25c787fb29d.png' alt='TELEGRAM'  width='16.5%'>](https://t.me/web34ever)[<img src='https://user-images.githubusercontent.com/59205554/229010780-8381c300-1eda-45c4-9d47-17d3abd32c98.png' alt='WEBSITE'  width='16.5%'>](https://web3validator.info)[<img src='https://user-images.githubusercontent.com/83868103/227936479-a48e814b-3ec1-4dcb-bd44-96b02d8f55da.png' alt='MAIL'  width='16.5%'>](mailto:web34ever@gmail.com)[<img src='https://user-images.githubusercontent.com/83868103/227948915-65731f97-c406-4d2c-996c-e5440ff67584.png' alt='GITHUB'  width='16.5%'>](https://github.com/web3validator)[<img src='https://user-images.githubusercontent.com/59205554/229010265-a3782434-0f41-4736-89c0-e50143da2abe.png' alt='Keybase'  width='16.5%'>](https://keybase.io/web34ever)
 
-						   
-						  
-						           Infrastructure
-            	
- We have used enterprise-level hardware to run nodes for the most popular PoS blockchains since 2018. We use advanced data centers: [Equinix](https://www.equinix.com/data-centers), [StackPath](https://www.stackpath.com/), [Edgevanna](https://edgevana.com/), [OVH](https://www.ovhcloud.com/en/)
+    					           Infrastructure
 
+
+We have used enterprise-level hardware to run nodes for the most popular PoS blockchains since 2018. We use advanced data centers: [Equinix](https://www.equinix.com/data-centers), [StackPath](https://www.stackpath.com/), [Edgevanna](https://edgevana.com/), [OVH](https://www.ovhcloud.com/en/)
 
 Our team validates a huge number of mainnets and participates in various testnet programs. We are very interested in projects in which we can contribute and gain/give additional knowledge.

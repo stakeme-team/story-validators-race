@@ -1,4 +1,4 @@
-# Stake-Take: 
+# Stake-Take:
 
 We are **Stake-Take**, a team with over 4 years of experience as validators across various blockchain networks. Our primary focus is on projects within the **Cosmos** ecosystem, where we specialize in supporting and advancing **IBC** (Inter-Blockchain Communication) transactions, ensuring seamless interaction between networks.
 

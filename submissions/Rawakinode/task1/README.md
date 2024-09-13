@@ -1,10 +1,11 @@
 # Rawakinode
 
-Rawakinode is an independent validator propelled by an unwavering passion for blockchain, accompanied by a steadfast commitment to professionalism throughout my journey. Since 2020, Rawakinode has been dedicated to serving the community, offering a range of services and public goods. We have pacticiping for many IBC project. We experience of 4 years in both backend and frontend development on the blockchain. With a solid foundation in blockchain technology, we have been successfully running block validators for the past 3 years. 
+Rawakinode is an independent validator propelled by an unwavering passion for blockchain, accompanied by a steadfast commitment to professionalism throughout my journey. Since 2020, Rawakinode has been dedicated to serving the community, offering a range of services and public goods. We have pacticiping for many IBC project. We experience of 4 years in both backend and frontend development on the blockchain. With a solid foundation in blockchain technology, we have been successfully running block validators for the past 3 years.
 
 Based in Indonesia, our team of three is passionate about pushing the boundaries of blockchain innovation. We are committed to providing secure and efficient node validation services, leveraging our extensive experience in the field.
 
 ## Contribute
+
 Below List of testnet & mainnet project has we contribute:
 
 **Cosmos Based Project:**

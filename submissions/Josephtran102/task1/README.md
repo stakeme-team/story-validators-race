@@ -1,4 +1,5 @@
 # **About me:**
+
 Welcome to Joseph Tran Node Operator Services, your comprehensive guide to setting up and managing blockchain nodes. Running a node is essential for maintaining the integrity, security, and decentralization of blockchain networks. Whether you are an individual enthusiast, a developer, or a business looking to leverage blockchain technology, our services provide the necessary knowledge and tools to help you succeed.
 
 Our guides are designed to be clear and accessible, covering a wide range of blockchain platforms including Ethereum, Polkadot, and Cosmos. We provide step-by-step instructions, best practices for security and performance, and troubleshooting tips to ensure your nodes run smoothly and efficiently.
@@ -18,7 +19,8 @@ By following our guides, you will learn how to:
 Our mission is to empower you with the knowledge and skills to effectively run blockchain nodes, contributing to the robustness and resilience of decentralized networks. Explore our detailed guides and start your journey towards becoming a proficient node operator today.
 
 # **My experience:**
-I currently operate validator nodes for multiple blockchain networks: 
+
+I currently operate validator nodes for multiple blockchain networks:
 
 - 0gchain: https://testnet.ping.pub/0g/staking/0gvaloper1arf2rfrsx4pu9kpzxj06ydces6ptn8jwvth73n
 - Airchain: https://testnet.itrocket.net/airchains/staking/airvaloper1rr2zsalccnqa86ndvc0l90kdwhxw9hxg8jjejc
@@ -54,12 +56,13 @@ enode://b2624137cc602dcb1db9913a7cbe0a2ba134723038ebabdda4df7b2cef7ddc3ffa7ee856
 ```
 
 ## Snapshot node
+
 ```
 https://service.josephtran.xyz/testnet/story/snapshot
 ```
 
+# For more information about my work and experience, please visit:\*
 
-# For more information about my work and experience, please visit:*
 - Services: https://service.josephtran.xyz/
 - Website: https://www.josephtran.xyz
 - GitHub: https://github.com/Josephtran102

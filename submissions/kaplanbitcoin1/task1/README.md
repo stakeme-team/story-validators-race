@@ -1,5 +1,3 @@
-
-
 I have been involved in the testnet and node installation stages of dozens of blockchain projects for the past 2 years. During this time, I have set up nodes across multiple networks, ensuring that these nodes were configured optimally to support the development and decentralization of each project.
 
 My experience spans a wide range of consensus mechanisms and blockchain architectures, allowing me to adapt quickly to the unique requirements of each project. From permissionless blockchains to permissioned networks, I have worked with various node configurations, validators, and governance models.
@@ -10,16 +8,11 @@ I pride myself on staying up-to-date with the latest blockchain technologies and
 
 Additionally, I have helped various projects during critical testnet phases by monitoring performance, identifying bugs, and providing solutions to network challenges. This has given me a deep understanding of the importance of validator roles in maintaining network stability and security.
 
-
-
 ## Projects where I participated in the node setup process
 
-
-Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, Humanode, AO, Ari-o, AlignedLayer, Gasp, Nubit, Archain Rollup, Farcaster, Analog, Waku, Sonaric, Nubit, Allora, Flock, Nillion, Empe, Symphony, 0G, Chainbase. 
-
+Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, Humanode, AO, Ari-o, AlignedLayer, Gasp, Nubit, Archain Rollup, Farcaster, Analog, Waku, Sonaric, Nubit, Allora, Flock, Nillion, Empe, Symphony, 0G, Chainbase.
 
 ## Projects in the active cluster on Testnet and a few other projects
-
 
 [Airchain](https://testnet.junction.explorers.guru/validator/airvaloper1wxv5y73r80pg9lguwhzvrp7qrzw88k9zqqx8q8)
 
@@ -41,9 +34,7 @@ Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, H
 
 [Chainbase](https://holesky.eigenlayer.xyz/operator/0x2B6B967A90985190822EdbbBB1A371Ad28F48bc2)
 
-
 ## Over the past two years, I have made significant contributions to various blockchain projects, focusing on several key areas:
-
 
 Node Installation and Maintenance: I have successfully set up and maintained nodes across multiple blockchain networks, ensuring their optimal performance and reliability. I have regularly updated node software to the latest versions, incorporating security patches and performance improvements. I have monitored node uptime and performance metrics, addressing any issues promptly to ensure continuous operation.
 

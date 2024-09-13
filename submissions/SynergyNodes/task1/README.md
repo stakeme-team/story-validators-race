@@ -1,4 +1,5 @@
 # Synergy Nodes
+
 <img src="https://raw.githubusercontent.com/SynergyNodes/SynergyNodes_Logo/main/Synergy_Nodes.png" style="width: 50%; fill: white" />
 
 Synergy Nodes was established in 2019 and brings five years of experience in validating various blockchain projects. Our team is comprised of four members: Aries (Founder and Technical Lead), Capri (Technical Support), Scrop (Technical Support), and Callisto (Business Development Manager).
@@ -21,7 +22,7 @@ Synergy Nodes is operating validator nodes for 26 Mainnets and provide various c
 
 All information available on our website - https://synergynodes.com
 
-### Blockchain Explorer 
+### Blockchain Explorer
 
 We are operating a Cosmos blockchains explorer at CosmosRun.info for both mainnets and testnets. This is forked from ping.pub
 
@@ -34,14 +35,17 @@ Our Youtube channel is focused on providing technical tutorials on installing an
 URL: https://www.youtube.com/channel/UCFOFPbgP0wLTQ007NtNl_oQ
 
 ### Our X (Twitter) Account:
+
 https://x.com/SynergyNodes
 
 ### Our Zetachain Cross chain bridge:
+
 https://zetabridge.synergynodes.com/
 
 ## Our Core-Infra Services
 
 We actively engage with team members, other Validators and also with the community. We provide the following Core-Infra support and services for all the blockchains where we validate:
+
 - Daily Automated snaphsots
 - Public Endpoints: RPC, API, JSON RPC, gRPC
 - State-sync
@@ -58,14 +62,15 @@ For mainnets, we operate high end dedicated servers:
 
 ```
 AMD Ryzen Threadripper 3970X 32-Core Processor (or)
-AMD Ryzen 9 7950X3D 16-Core Processor 
+AMD Ryzen 9 7950X3D 16-Core Processor
 128 GB DDR4 RAM
 2x 2 TB NVMe SSDs
 1 Gbits/S
 ```
 
 ### Provider:
-``LeaseWeb, OVH``
+
+`LeaseWeb, OVH`
 
 For each chain where we operate Validator nodes, we run 3 servers.
 
@@ -78,6 +83,7 @@ For each chain where we operate Validator nodes, we run 3 servers.
 ### Security for our Nodes:
 
 For all the servers we implement the following security measures:
+
 1. Deny all incoming traffic except for few important ports, such as 26656.
 2. Hardware tied SSH Key Authentication to login to server. Without these keys, no one can login.
 3. Removed SSH login using root password.

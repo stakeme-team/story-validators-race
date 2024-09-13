@@ -1,21 +1,24 @@
 # Introduction
+
 Hello, I am Dhozil, an independent node validator, I've been running a validator node since 2022, I have experience in various projects in running Validators and Nodes. I can contribute to your project and develop your project with my abilities.
 
 # My Commitment
+
 Contribute with my ability and hard work to help develop the project I run. Guarantee high uptime up to 99% to be a great contribution. And always be fast in updating when the node has the latest update.
 
 # infrastructure setup
+
 Processor
-AMD Ryzen 9 5900x, 
+AMD Ryzen 9 5900x,
 Memory
-128GB DDR4 ECC , 
+128GB DDR4 ECC ,
 Storage
-2× 960GB SSD NVMe, 
+2× 960GB SSD NVMe,
 Public bandwidth
-1Gbit/s, 
+1Gbit/s,
 Datacenter Location
 Canada (Beauharnois - BHS)
-Ubuntu 22 
+Ubuntu 22
 
 If you want to contact me via email: dhozilgooners98@gmail.com
 
@@ -29,7 +32,7 @@ Medium : [dhozilgooners](https://medium.com/@dhozil)
 
 -OG Labs : https://explorer.dhozil.xyz/0g/staking/0gvaloper1h9t4rte2vghjgq8xxywwwca7dhpalpndxhr06a
 
--Warden Protocol:  https://warden-explorer.paranorm.pro/warden/staking/wardenvaloper1jnzmgch2xpd0emf80veaqj0kmw360xdu0yacmz
+-Warden Protocol: https://warden-explorer.paranorm.pro/warden/staking/wardenvaloper1jnzmgch2xpd0emf80veaqj0kmw360xdu0yacmz
 
 -Artela : https://testnet.itrocket.net/artela/staking/artvaloper1cd3uaayy86mgnp25leuu3pzz6aq83ceg6xg8x3
 
@@ -47,7 +50,6 @@ Medium : [dhozilgooners](https://medium.com/@dhozil)
 
 -Sonaric : https://tracker.sonaric.xyz/ (dhozil)
 
-
 # Past Network Activities
 
 -Dymension rollapp : https://devnet.dymension.xyz/rollapp/dhozil_7538454-1/metrics
@@ -56,12 +58,12 @@ Medium : [dhozilgooners](https://medium.com/@dhozil)
 
 -Juneo](https://socotra.mcnscan.io/validator/NodeID-AqYCeygpbAJnRwZyspWpaJ41ZjW4Hd7KE
 
--Cosmos SDK Chain ( Sei Network , Stride , Dymension ,Namada ,  Coreum , Empower, Side Protocol) 
+-Cosmos SDK Chain ( Sei Network , Stride , Dymension ,Namada , Coreum , Empower, Side Protocol)
 
 -Substrate/Polkadot ( Creditcoin , Avail Project )
 
--Aptos 
+-Aptos
 
 -EVM (Fleek Network , Chainflip, QBlockchain )
 
--Nulink 
+-Nulink

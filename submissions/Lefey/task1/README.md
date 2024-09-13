@@ -13,9 +13,10 @@ https://explorer.muon.net/pion/nodes/0xC8D7Ad60b9a55e389CC7a22fAA469Bf82aEdEcc7
 https://app.goracle.io/validators/v2?validator=Lefey
 
 **Recent contributions i have made to blockchain projects**<br>
+
 1. Create decentralization maps of testnets and mainnet for Aptos community https://www.google.com/maps/d/u/0/viewer?mid=1SYfJMUktVq3ilLOHWuEytJiYxTbf1EH1&ll=14.419855292047215%2C157.90237993075542&z=2
 2. Zabbix monitoring templates for Cosmos networks, Near, Autonity https://github.com/Lefey/node_monitoring
 3. Monitoring and decentralization map dashboard for Autonity project https://autonity.lefey.tech/index.php?enter=guest
 4. Provide services for community: https://services.lefey.tech
-5. All networks uptime >99% (explorer links) 
+5. All networks uptime >99% (explorer links)
 6. Vote on 100% of governance proposals, participate in proposal discussions.
