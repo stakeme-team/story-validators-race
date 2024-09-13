@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "https://story-testnet-rpc.daaps-j4ran.cloud",
+  "evm_json_rpc": "https://story-testnet-jsonrpc.daaps-j4ran.cloud",
+  "tests": "ok",
+  "timestamp": 1726234381
+}
