@@ -32,8 +32,8 @@ By combining my experience, technical skills, and robust infrastructure, I aim t
 Hopefully I will be chosen to participate in the project in the current and future stages, contributing my part to the overall success of the project.
 My contact
 
-Email	: dungdang.c3.rno@gmail.com
-X	: https://x.com/danggia
-Discord	: .dudad
+Email : dungdang.c3.rno@gmail.com
+X : https://x.com/danggia
+Discord : .dudad
 Telegram: dadiofer
-Github	: https://github.com/dadidung
+Github : https://github.com/dadidung

@@ -27,7 +27,9 @@ Our nodes (including all test networks) are hosted only on trusted providers - A
 We have participated in more than 100+ test networks and are currently validating several mainnets.
 
 ## Mainnet chains
+
 ### Links to validators (G - genesis validator, D - delegation from the project)
+
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper139mu0a0ucz0gmrkavm5wjar2lpx7yvxq3e25e5) (G,D)
 - [Iotex](https://stake.iotex.io/delegate/noders) (D)
 - [Sui](https://suiscan.xyz/mainnet/validator/0xee6e1f8e2726e6bc2bf36ab7dd5736afff076704b12271a332f49f8e7d0bf756/info) (G,D)
@@ -56,6 +58,7 @@ We have participated in more than 100+ test networks and are currently validatin
 - [Eigenlayer](https://app.eigenlayer.xyz/operator/0xb42CcE7682cE9Bc9A013eD0C54533545879C5087)
 
 ### Without links
+
 - Aether
 - XAI
 - Tangle
@@ -63,14 +66,15 @@ We have participated in more than 100+ test networks and are currently validatin
 - 5ire
 
 ## Services
+
 - [Validator services](https://noders.services)
-  
+
 A platform for validators and blockchain projects. It provides documentation for node setup and maintenance, snapshots for faster synchronization, and addresses of various endpoints (RPC, gRPC, API) essential for chain interaction.
 
 - [Cosmos List](https://cosmoslist.co/)
-  
+
 A parser of public endpoints for nearly all Cosmos chains. The list is updated every 3 hours, providing up-to-date information on available endpoints for seamless chain connectivity.
 
 - [Faucet list](https://faucet.noders.services/)
-  
+
 A list of faucets where you can request test tokens. Soon, faucets for most Cosmos testnet chains will also be available on the platform.

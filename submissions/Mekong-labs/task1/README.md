@@ -4,8 +4,7 @@ Hi guys,
 
 My name is Nobita Nguyen, and I represent Mekong Labs. We are excited to inform you that we have successfully set up our validator node for the Story Protocol testnet, named Mekong Labs. Following the Story Network's documentation, the node is running smoothly and fully operational.
 
-About Mekong Labs: Mekong Labs is a team of experienced professionals in IT and blockchain technology, specializing in running nodes for multiple high-profile projects like APT, Mina, Celestia, ALEO, Mantra, Namada SE, DYM, Airchains, Dill, Nubit, and Allora. 
-
+About Mekong Labs: Mekong Labs is a team of experienced professionals in IT and blockchain technology, specializing in running nodes for multiple high-profile projects like APT, Mina, Celestia, ALEO, Mantra, Namada SE, DYM, Airchains, Dill, Nubit, and Allora.
 
 ## Our capabilities include:
 

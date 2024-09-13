@@ -2,8 +2,8 @@
 
 I am an individual validator and blockchain enthusiast.
 
-I have 4yrs experience in running a nodes, have taken a part in more than a hundred testnets and  currently validate Sei, Dymension, Near, 
-Gitopia, Althea, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, Provenance, Pylons, Haqq, Source, Massa on mainnets and participate 
+I have 4yrs experience in running a nodes, have taken a part in more than a hundred testnets and currently validate Sei, Dymension, Near,
+Gitopia, Althea, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, Provenance, Pylons, Haqq, Source, Massa on mainnets and participate
 in many testnets for a different blockchains.
 
 I also run an IBC Relayer for Cosmos ecosystem, provide infrastructure such as RPC, API and snapshots.
@@ -12,7 +12,7 @@ I'm paying a close attention to my every validator, node or relayer - 24hr manag
 
 My motto: Reliable Proof-of-Stake Validator. You can always count on me!
 
-## 🔸My current Mainnet validators 
+## 🔸My current Mainnet validators
 
 Sei https://www.mintscan.io/sei/validators/seivaloper1fpvjye4rcqmds6vvrjvf4pl8jfsv5vkn0llaxs
 
@@ -50,9 +50,9 @@ Realio https://explorer.stavr.tech/Realio-Mainnet/staking/realiovaloper1v7ss667a
 
 ## 🔸My current and previous Testnet validators and nodes
 
-Initia, Side protocol, Airchains, Dymension, Near, Territori, Quicksilver, CrowdControl, Nomic, Source protocol, Haqq, 
-Aura, Kyve, BlockPi, Sei, Massa, Nois, Hypersign, Anoma, Lava, Nolus, Aleo, Humans.AI, SGE, Meme, Powerchain, Exorde, Lambda, 
-Neutron, Nibiru, Mande, Realio, Andromachain, Uptick, Terp, Blast, Ironfish, Aleo, Aptos, Sui, Konstellation, Vidulum, Althea, OKP4, 
+Initia, Side protocol, Airchains, Dymension, Near, Territori, Quicksilver, CrowdControl, Nomic, Source protocol, Haqq,
+Aura, Kyve, BlockPi, Sei, Massa, Nois, Hypersign, Anoma, Lava, Nolus, Aleo, Humans.AI, SGE, Meme, Powerchain, Exorde, Lambda,
+Neutron, Nibiru, Mande, Realio, Andromachain, Uptick, Terp, Blast, Ironfish, Aleo, Aptos, Sui, Konstellation, Vidulum, Althea, OKP4,
 Nillion, Elixir, Galactica, Emperia, Sidechain etc.
 
 ## 🔸Hardware:

@@ -22,6 +22,7 @@ Information on how a decentralized validator works can be found [here](https://m
 
 The core team is responsible for developing the validator and contributing to the development of networks and communities <br />
 At the moment, the POSTHUMAN core team consists of 13 people: <br />
+
 - Initially, there was only one person behind the POSTHUMAN validator - [Vladi](https://github.com/Antropocosmist) <br />
 - After the number of validated main networks reached 13, [Albert](https://github.com/albertandrejev) joined Vladi, taking on the technical side of validation <br />
 - The third member of the team was [Vova](https://twitter.com/vova_synthetic), taking on the responsibility of creating video content <br />
@@ -37,6 +38,7 @@ At the moment, the POSTHUMAN core team consists of 13 people: <br />
 
 Throughout its history, the POSTHUMAN validator has been actively involved in the development of networks and communities, making its contribution both in technical and humanitarian terms. <br />
 The POSTHUMAN team creates educational video content in English and Russian, organizes events, creates and develops communities, and provides information and technical support for projects at all levels. From the numerous list of contributions, we would like to highlight the following: <br />
+
 - Support and development of [Twitter Ecosystem Cosmos](https://twitter.com/CosmosEcosystem) <br />
 - Support and development of the [Russian-speaking community of the Cosmos Ecosystem](https://t.me/CosmosEcosystem_ru) <br />
 - Hosting weekly community video meetings that have been running for over 80 weeks! All recordings can be found [here](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G&si=mYej3AHwTx6460dt) <br />
@@ -53,6 +55,7 @@ You can watch POSTHUMAN's speech at the Validator Commons meeting [here](https:/
 You can watch POSTHUMAN's speech on the evolution of decentralized governance [here](https://youtu.be/delHKrRYZJA?si=vbCD0rpaHBHUI5G-) <br />
 
 Also, the POSTHUMAN validator is actively involved in developing its own community: <br />
+
 - [English-speaking community in Telegram](https://t.me/posthumanchat)
 - [Russian-speaking community in Telegram](https://t.me/Crypto_Base_Chat)
 - [Twitter](https://twitter.com/POSTHUMAN_DVS)
@@ -61,4 +64,4 @@ Also, the POSTHUMAN validator is actively involved in developing its own communi
 - [English YouTube channel](https://www.youtube.com/@POSTHUMANDVS)
 - [Russian YouTube channel](https://www.youtube.com/@CRYPTOBASED)
 - [Information about the community on the website](https://posthuman.digital/community) <br />
-More information can be found on [GitHub](https://github.com/Validator-POSTHUMAN)
+  More information can be found on [GitHub](https://github.com/Validator-POSTHUMAN)

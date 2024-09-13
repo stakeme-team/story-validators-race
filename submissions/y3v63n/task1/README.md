@@ -1,27 +1,27 @@
 ## Validator Info:
 
-*Validator name:* moonli.me
-*Operator:* moonli Inc.
-*Website:* https://moonli.me
-*X:* https://x.com/moonli_me
+_Validator name:_ moonli.me
+_Operator:_ moonli Inc.
+_Website:_ https://moonli.me
+_X:_ https://x.com/moonli_me
 
 ## Supported Networks:
 
- - Eigen Layer,
- - Automata,
- - Brevis,
- - Mina,
- - Celo,
- - The Graph,
- - Oasis Protocol,
- - Centrifuge,
- - Moonriver,
- - Moonbeam,
- - Aligned Layer,
- - Zero Gravity,
- - Olas,
- - Tableland,
- - Diva 
+- Eigen Layer,
+- Automata,
+- Brevis,
+- Mina,
+- Celo,
+- The Graph,
+- Oasis Protocol,
+- Centrifuge,
+- Moonriver,
+- Moonbeam,
+- Aligned Layer,
+- Zero Gravity,
+- Olas,
+- Tableland,
+- Diva
 
 ## Introduction and Experience:
 

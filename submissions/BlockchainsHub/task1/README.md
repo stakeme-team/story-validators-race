@@ -1,5 +1,7 @@
 ![Notion Banner 3000x1000](https://github.com/user-attachments/assets/b4d70c7d-6971-409d-bc24-8a4acded0294)
+
 ## Introduction
+
 Founded in late 2023 by [@botxx15](https://github.com/botxx15), a crypto enthusiast since 2017, BlockHub is an emerging force in Proof-of-Stake (PoS) validation services. We combine fresh perspectives with a deep-seated passion for blockchain technology, positioning us uniquely in the validator landscape.
 
 As a newly established validator, BlockHub combines a passion for blockchain technology with a commitment to learning and growth. Our team's energy and dedication position us to adapt quickly in the ever-evolving blockchain ecosystem.
@@ -7,6 +9,7 @@ As a newly established validator, BlockHub combines a passion for blockchain tec
 As an ambitious new validator, we are currently honing our skills on various blockchain testnets, with a clear trajectory towards mainnet participation. While our present focus allows us to refine our operations, our ultimate goal is to secure and support production networks. We maintain an unwavering commitment to operational excellence, ensuring our servers consistently deliver optimal performance and reliability across all environments. Our long-term vision extends beyond testnet contributions; we are actively preparing to make significant impacts on mainnets, evolving alongside the projects we support and contributing meaningfully to the broader blockchain ecosystem. This forward-looking approach not only demonstrates our dedication as a validator but also positions us as a committed partner in the ongoing development and security of decentralized networks.
 
 ## Networks We Validate
+
 <div align="center">
   <a href="https://testnet.story.explorers.guru/validator/53211F09F9CFB6534E07158109A0A09A681B3313"><img src="https://github.com/user-attachments/assets/a9b15589-d3d5-42d8-9b0d-db8dc4b81d41" alt="Story" width="150" /></a>
   <a href="https://testnet.blockhub.id/0gchain/staking/0gvaloper182y566d8rgdzepxgk90syru8n3f7tglrxd76n4"><img src="https://github.com/user-attachments/assets/72f0bc21-c1a4-4feb-8934-d858c324e52c" alt="0G" width="150" /></a>
@@ -27,6 +30,7 @@ As an ambitious new validator, we are currently honing our skills on various blo
 - Story Node Installation Guide ([English Version](https://github.com/BlockchainsHub/Testnet/blob/main/Story/guide_en.md))
 
 ## Get in Touch
+
 <div align="center">
   <a href="https://blockhub.super.site"><img src="https://github.com/user-attachments/assets/98654f4f-67d0-4e3d-9590-0d76f890d06a" alt="Website" width="60" /></a>
   <a href="https://github.com/BlockchainsHub"><img src="https://github.com/user-attachments/assets/f3e59abe-01b8-4838-a71a-c90ff0f376f0" alt="GitHub" width="60" /></a>

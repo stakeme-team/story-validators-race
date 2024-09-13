@@ -32,10 +32,10 @@ Scanner link: <https://testnet.story.explorers.guru/validator/493624E567C130398F
 
 ## ✅ **My Validators Network**
 
-- Story:  <https://testnet.story.explorers.guru/validator/493624E567C130398FDB7688F3DC9F95FAF3B62B> - (Running in Testnet)
-- Elixir validator: <https://api.testnet-3.elixirdev.xyz/validators/0x052444531a14e2ddE73714BC4805469894b66068>  - (Running in Testnet)
+- Story: <https://testnet.story.explorers.guru/validator/493624E567C130398FDB7688F3DC9F95FAF3B62B> - (Running in Testnet)
+- Elixir validator: <https://api.testnet-3.elixirdev.xyz/validators/0x052444531a14e2ddE73714BC4805469894b66068> - (Running in Testnet)
 - Gaia AI node (Qwen2-0.5B-Instruct-Q5_K_M.gguf model ): <https://0x1dc779a3fe48a325674541ef8394c16c8647486d.us.gaianet.network>
-- Nillion Validator  - <https://testnet.nillion.explorers.guru/account/nillion1wzn0c6pu6w40j6ttgew49c6ssmllyeaz3au52e> (Pending to start in Testnet)
+- Nillion Validator - <https://testnet.nillion.explorers.guru/account/nillion1wzn0c6pu6w40j6ttgew49c6ssmllyeaz3au52e> (Pending to start in Testnet)
 - Puffer Validator - <https://beaconcha.in/validator/1506164>
 - Farcater: [grafana](http://158.220.105.69:3000/d/af04c037-bd8f-484a-b93e-0cb4b7d3b026/hubble-dashboard?orgId=1&refresh=30s&from=now-30d&to=now)
 

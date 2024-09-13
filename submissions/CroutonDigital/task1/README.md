@@ -68,6 +68,7 @@ Our platform also supports exchange, withdrawals, deposits, and provides digital
 
 - **Celestia Mainnet**, **Akash Network**, **Namada**, and **Penumbra** foundation delegations.
 - We continue to contribute to some of the most innovative blockchain projects.
+
 # Projects and Validator Nodes
 
 Below is a list of various validator nodes and projects with their corresponding links. You will find information about validators for different blockchain projects and services.

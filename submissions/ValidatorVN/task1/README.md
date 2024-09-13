@@ -50,17 +50,17 @@ Hedge: https://explorer.validatorvn.com/Hedge-Testnet/staking/hedgevaloper1uz5lh
 
 Galactica Network: https://explorer.validatorvn.com/Galactica-Testnet/staking/galavaloper14dswhk2ntg2dfu2m29vtjf37rl8ynz9u0e62l0
 
-***Tools & Monitoring***
+**_Tools & Monitoring_**
 
 We adopt Grafana, Prometheus, Tenderduty, Horcrux, Tmkms as our main monitoring systems and secure signing mechanisms
 
-***Public goods***
+**_Public goods_**
 
 We offer various services such as installation guides, public endpoints, snapshots, essential files, live peers & seeds. More at https://services.validatorvn.com/
 
-We also actively help the community by taking a role as technical mod in Autonity & 0g(Zero-Gravity). Spreading the news about projects on our Telegram group with 2500 members http://t.me/ValidatorVN 
+We also actively help the community by taking a role as technical mod in Autonity & 0g(Zero-Gravity). Spreading the news about projects on our Telegram group with 2500 members http://t.me/ValidatorVN
 
-***Recent contribution***
+**_Recent contribution_**
 
 Services for Story Protocol: https://services.validatorvn.com/story-protocol
 
