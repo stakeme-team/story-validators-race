@@ -3,6 +3,11 @@
 
 This is a unique opportunity to complete a series of tasks and receive test tokens. The race is designed for validators looking to make useful contributions to the Story blockchain network.
 
+![disclaimer2](https://github.com/user-attachments/assets/d6e15067-d9d0-480b-a46e-df438d6a5ecc)
+## Disclaimer
+> The Story Validator Race is organized by the Stekeme team with the support of the Story team. Participation in this contest does not guarantee entry into the mainnet or any airdrop. The race is designed as an opportunity for validators to earn test tokens and demonstrate their skills. Our goal is to give validators a platform to showcase their abilities and connect with the community, while mitigating the risk of multi-account participation. For the Story team, this contest is a valuable opportunity to compile a list of experienced validators, though any further actions with this list are at the discretion of the Story team.
+
+
 ## Purpose of the Race
 
 The main goal of the race is to distribute test tokens to validators who actively participate in the network and make meaningful contributions to the project.
