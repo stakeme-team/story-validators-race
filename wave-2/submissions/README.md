@@ -9,9 +9,9 @@
 In `data.json`, fill in the contents:
 ```
 {
-   validator_address: “valoper” //storyvaloper..,
-   discord_id: "number" //your discord id,
-   discord_username: "username" //your discord username
+  "validator_address": "string",
+  "discord_id": "number",
+  "discord_username": "string"
 }
 ```
 After that, create a PR with the name: `Information file <validator_moniker>`
