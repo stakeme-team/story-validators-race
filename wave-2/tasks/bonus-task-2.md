@@ -1,5 +1,5 @@
 # Wave-2: story-validators-race
-![#2](https://github.com/user-attachments/assets/00d861d3-b06c-477f-bd44-38dc84bd9166)
+![bonus-task-2](https://github.com/user-attachments/assets/c5cbf695-3072-470d-a503-993b2cee7649)
 
 ## Bonus task 2: Articte about Story project
 - Write an article about the Story project, e.g. on Medium or Teletype, the article should be informative at least 5000 characters, contain technical data indicating the specifics of the Story technology
