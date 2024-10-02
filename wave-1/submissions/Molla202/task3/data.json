@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://story-molla202-rpc.strangled.net",
+  "evm_json_rpc": "https://story-molla202-evm.strangled.net",
+  "cosmos_rest": "https://story-molla202-api.strangled.net",
+  "cosmos_ws": "wss://story-molla202-rpc.strangled.net:443/websocket",
+  "evm_ws": "wss://story-molla202-wss.strangled.net",
+  "tests": "ok",
+  "timestamp": 1725958904
+}

@@ -1,44 +1,64 @@
-# Welcome to the validators race!
-![welcome-story-validators-race](https://github.com/user-attachments/assets/bc7e324f-b66b-493d-92ae-11ff30dbba30)
+# Welcome to the Story Validators Race wave-2!
+![Wave-2](https://github.com/user-attachments/assets/b314b25e-8b80-4a55-8b41-1010b5de688b)
 
-This is a unique opportunity to complete a series of tasks and receive test tokens. The race is designed for validators looking to make useful contributions to the Story blockchain network.
+We are excited to announce the launch of the second wave-2 of the Story validator race! This is a great opportunity to not only showcase your validator performance, but also make a great contribution to the Story blockchain. Your participation will help to build a stronger network, as well as make useful monitoring tools, write interesting articles about Story, or make useful videos. Don't miss your chance to be part of this exciting challenge!
+
+> Deadline for all tasks: 20 October 10:00 UTC<br>
+Bonus tasks can close at any moment
+
+![Disclaimer](https://github.com/user-attachments/assets/04cf6335-8e5d-4e2d-8be9-c4a509ba72e1)
+## Disclaimer
+> The Story Validator Race is organized by the Stekeme team with the support of the Story team. Participation in this contest does not guarantee entry into the mainnet or any airdrop. The race is designed as an opportunity for validators to earn test tokens and demonstrate their skills. Our goal is to give validators a platform to showcase their abilities and connect with the community, while mitigating the risk of multi-account participation. For the Story team, this contest is a valuable opportunity to compile a list of experienced validators, though any further actions with this list are at the discretion of the Story team.
 
 ## Purpose of the Race
-
 The main goal of the race is to distribute test tokens to validators who actively participate in the network and make meaningful contributions to the project.
 
-## Conditions of Participation
-To start the race, you need to complete the first task. After its successful completion and approval via pull request, you will be able to move on to the next stage. Important: the tasks must be completed sequentially. The next step will only be available after the previous step is completed.
+## Conditions of participation in wave-2
+To start the race, you can start by doing any task you want. Read carefully the terms and conditions for submitting a particular task. If you have any questions about the your application or specifically the task, you can ask us a question in Story discord (#validator-support)
 
-> Please note that the STAKEME team may reject your PR if they believe you are a multi-accuser or have not completed the tasks properly. The first task is not subject to appeal.
+‼️ Important! Before you start doing tasks, create a data.json file at the path `wave-2/submissions/validator_moniker/data.json`, where `validator_moniker` is the name of your validator.</br>
+</br>
+`validator_address` - your validator address (valoper)</br>
+`discord_id` - your discord id</br>
+`discord_username` - your discord username</br>
+In `data.json`, fill in the contents:
+```
+{
+  "validator_address": "string",
+  "discord_id": "number",
+  "discord_username": "string"
+}
+```
+After that, create a PR with the name: `Information file <validator_moniker>`
+After successful completion of the task, test tokens will be sent to your EVM validator address.
 
-![tasks-validators-race](https://github.com/user-attachments/assets/7b8ea004-e4df-4907-abcf-75b0521b3284)
+> During the second race, changes may be made to the task descriptions. Please follow on the repository for changes
 
-## Tasks
 
-### [Task 1: Introduce yourself](./tasks/task1/README.md)
-The first step requires you to introduce yourself and your activities as a validator. Your submission should include:
-- Information about your validator.
-- The networks in which you validate.
-- Recent contributions you have made to blockchain projects.
-Once your application is approved, you can move on to the second task.
-> Task acceptance is over
+## General tasks
+![General tasks](https://github.com/user-attachments/assets/9d2bd1c6-265f-4159-8bbc-92a368b3dd59)
 
-### [Task 2: Launch Archived Node](./tasks/task2/README.md)
-In this task, you will have to install and launch an archive node in Iliad Testnet. This will demonstrate your skills in deploying the node.
-> Deadline: 11 September 10:00 UTC
+### [Task 1: Automatic installer for the Story node](./wave-2/tasks/general-task-1.md)
+Develop one-liner for story node installation, updates, status view and more
 
-### [Task 3: Provide public endpoints of the archive node](./tasks/task3/README.md)
-After successfully launching the archive node, you will need to provision public endpoints so that other users can interact with your node, starting from the first block.
-> Deadline: 11 September 10:00 UTC
+### [Task 2: Service for providing archive & prunned snapshots](./wave-2/tasks/general-task-2.md)
+Development of a web application or automated script for downloading snapshots (prunned and archive)
 
-### [Task 4: Launching the Validator Node](./tasks/task4/README.md)
-In the last step, you must prepare and launch a validator node. This will prove that your node is ready to perform the validation function and keep the network running.
-> Deadline: 11 September 10:00 UTC
+### [Task 3: Provide Grafana dashboard](./wave-2/tasks/general-task-3.md)
+Develop Grafana dashboard which will contain essential statistics for Story validator
 
-## Rewards
-![story-testnet](https://github.com/user-attachments/assets/98aac9f0-ae10-4f51-8f97-60f9bf3ca8ba)
-After successfully completing all four tasks you will receive:
-- 1300 IP test tokens for participation.
-- A special STAKEME role in our Discord community.
-Holders of this role will receive 3 IP test tokens daily.
+### [Task 4: Useful utility for validators](./wave-2/tasks/general-task-4.md)
+Development of a useful utility for Story blockchain validators
+
+## Bonus tasks
+![Bonus tasks](https://github.com/user-attachments/assets/8b902a01-4fb0-4f71-8f7e-86b5524af002)
+
+### [Task 1: Edit validator description testnet.storyscan.app](./wave-2/tasks/bonus-task-1.md)
+Change the description of your validator in explorer testnet.storyscan.app</br>
+<b>‼️ This task only for those who created their validator before October 2</b>
+
+### [Task 2: Articte about Story project](./wave-2/tasks/bonus-task-2.md)
+Write an article about the Story project, e.g. on Medium or Teletype, the article should be informative at least 5000 characters, contain technical data indicating the specifics of the Story technology
+
+### [Task 3: Video about Story project](./wave-2/tasks/bonus-task-3.md)
+Make a video review of the Story project on Youtube, it can also be a video guide to install Story node, Explorer review, faucet review, ecosystem Story review. The video should be at least 5 minutes long
