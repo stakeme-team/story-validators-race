@@ -1,5 +1,5 @@
 # Wave-2: story-validators-race
-![One-liner](https://github.com/user-attachments/assets/42b77382-55ce-4ad9-a384-59be6276248a)
+![general-task-1](https://github.com/user-attachments/assets/56a5aa8d-f290-496c-be5a-f079101b5835)
 
 ## Task 1: Automatic installer for the Story node
 - Develop one-liner for story node installation, updates, status view and more
