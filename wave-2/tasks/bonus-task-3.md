@@ -1,5 +1,5 @@
 # Wave-2: story-validators-race
-![#3](https://github.com/user-attachments/assets/49a17570-eb54-4d66-b4e6-0715dfcb1b40)
+![bonus-task-3](https://github.com/user-attachments/assets/879a3632-1fff-4e5e-9322-84829815dbe4)
 
 ## Bonus task 3: Video about Story project
 - Make a video review of the Story project on Youtube, it can also be a video guide to install Story node, Explorer review, faucet review, ecosystem Story review. The video should be at least 5 minutes long
