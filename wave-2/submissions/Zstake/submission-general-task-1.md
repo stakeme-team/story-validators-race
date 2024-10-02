@@ -1,4 +1,4 @@
-This is an automatic installer for Zstake's Story Protocol.
+# This is an automatic installer for Zstake's Story Protocol.
 
 # Download & run script
 
@@ -6,12 +6,13 @@ This is an automatic installer for Zstake's Story Protocol.
 
 Please select an option:
 1. Install Story automatically
- <img src="https://github.com/zstake-xyz/story/blob/9c7bc5e16fd6a378540436f40f0856f0c09485ea/install.png" style="width: 100%; fill: white" />
+<img src="https://github.com/zstake-xyz/story/blob/9c7bc5e16fd6a378540436f40f0856f0c09485ea/install.png" style="width: 100%; fill: white" />
+ 
 2. Check Story node synchronization status
-  <img src="https://github.com/zstake-xyz/story/blob/9c7bc5e16fd6a378540436f40f0856f0c09485ea/status.png" style="width: 100%; fill: white" />
+<img src="https://github.com/zstake-xyz/story/blob/9c7bc5e16fd6a378540436f40f0856f0c09485ea/status.png" style="width: 100%; fill: white" />
 
 3. Update Story to the latest version
-6 <img src="https://github.com/zstake-xyz/story/blob/9c7bc5e16fd6a378540436f40f0856f0c09485ea/update.png" style="width: 100%; fill: white" />
+<img src="https://github.com/zstake-xyz/story/blob/9c7bc5e16fd6a378540436f40f0856f0c09485ea/update.png" style="width: 100%; fill: white" />
 
 # Function description for each menu
 1. During installation, moniker is installed with user input.
