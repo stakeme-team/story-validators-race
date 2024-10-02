@@ -2,10 +2,15 @@
 
 I have created a stake to help quick setup grafana + prometheus + influxdb to monitoring validator and geth .
 Demo link ( use user `dev` and password `123456` for login ) : 
-Geth dashboard : http://story-grafana.kzvn.xyz:3000/d/QC1Arp5Wk/geth-dashboard?orgId=1
-Validator Dashboard : http://story-grafana.kzvn.xyz:3000/d/validator-network-dashboard/validator-network-dashboard-prometheus?orgId=1
 
-#Step for setup : 
+Geth dashboard : http://story-grafana.kzvn.xyz:3000/d/QC1Arp5Wk/geth-dashboard?orgId=1
+![Screenshot 2024-10-02 at 17 29 01](https://github.com/user-attachments/assets/4c34a8ba-e0f2-4caf-b3c7-472d05ebcd0d)
+
+Validator Dashboard : http://story-grafana.kzvn.xyz:3000/d/validator-network-dashboard/validator-network-dashboard-prometheus?orgId=1
+![Screenshot 2024-10-02 at 17 29 54](https://github.com/user-attachments/assets/9eacb18c-ce33-42dc-ba05-5647fdbfec22)
+
+##Step for setup : 
+
 
 1. Setup grafana + prometheus + influxdb : 
  - Clone the repo : 
@@ -28,7 +33,7 @@ Validator Dashboard : http://story-grafana.kzvn.xyz:3000/d/validator-network-das
   ```
   Example : 
   ```bash
-  /root/story/geth --iliad --syncmode full --metrics --metrics.influxdb --metrics.influxdb.endpoint "http://14.224.155.2:8086" --metrics.influxdb.username "geth" --metrics.influxdb.password "nimda321"
+  /root/story/geth --iliad --syncmode full --metrics --metrics.influxdb --metrics.influxdb.endpoint "http://127.0.0.1:8086" --metrics.influxdb.username "geth" --metrics.influxdb.password "nimda321"
   ```
   - Restart geth service ( change service name you use for setup your geth node): 
   ```bash
@@ -60,13 +65,13 @@ Validator Dashboard : http://story-grafana.kzvn.xyz:3000/d/validator-network-das
     # Instrumentation namespace
     namespace = "cometbft"
     ```
-    you can change port `prometheus_listen_addr` to anyport you want.
+    you can change port `prometheus_listen_addr` to any port you want.
 
    - Restart service : 
     ```bash
     systemctl restart story && journalctl -u story -f -o cat
     ```
-   - Verify that metrics enpoint is working : 
+   - Verify that metrics endpoint is working : 
    ```
     curl localhost:46760
    ```
@@ -85,8 +90,8 @@ Validator Dashboard : http://story-grafana.kzvn.xyz:3000/d/validator-network-das
   ```
 
 5. Access grafana and import dashboard : 
- - Try access grafana dashboard use `ip:3000` and use user + password you set in `.env` .
- - Go to Home->dashboards on the right menu click on Import button and use json dashboard at the folder  `$HOME/prometheus/grafana/dashboards` to import
+ - Try accessing grafana dashboard use `ip:3000` and use user + password you set in `.env` .
+ - Go to Home->dashboards on the right menu click on Import button and use json dashboard in the folder  `$HOME/prometheus/grafana/dashboards` to import
  - If you have issue with geth dashboard try go to Home->connections > datasources and click on `InfluxDB` and set password in `InfluxDB Details` and save and go back to dashboard.
 
 
