@@ -2,7 +2,7 @@
 ![bonus-task-1](https://github.com/user-attachments/assets/47d5a85d-b816-4dbb-956f-a3028478d99a)
 
 ## Bonus task 1: Edit validator description testnet.storyscan.app
-<b>‼️ This task for those who created their validator before October 1</b></br>
+<b>‼️ This task for those who created their validator before October 2</b></br>
 Change the description of your validator in explorer: https://testnet.storyscan.app
 
 Important criterion for the task all fields must be filled in details: Moniker, Details, Banner, Avatar, Twitter/X url, Github url, Website url, Identity(keybase), Address for contact (email, telegram)

@@ -49,7 +49,7 @@ Development of a useful utility for Story blockchain validators
 
 ### [Task 1: Edit validator description testnet.storyscan.app](./wave-2/tasks/bonus-task-1.md)
 Change the description of your validator in explorer testnet.storyscan.app</br>
-<b>‼️ This task only for those who created their validator before October 1</b>
+<b>‼️ This task only for those who created their validator before October 2</b>
 
 ### [Task 2: Articte about Story project](./wave-2/tasks/bonus-task-2.md)
 Write an article about the Story project, e.g. on Medium or Teletype, the article should be informative at least 5000 characters, contain technical data indicating the specifics of the Story technology
