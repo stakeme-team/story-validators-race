@@ -44,7 +44,7 @@ Develop one-liner for story node installation, updates, status view and more
 ### [Task 2: Service for providing archive & prunned snapshots](./wave-2/tasks/general-task-2.md)
 Development of a web application or automated script for downloading snapshots (prunned and archive)
 
-### [Task 2: Provide Grafana dashboard](./wave-2/tasks/general-task-3.md)
+### [Task 3: Provide Grafana dashboard](./wave-2/tasks/general-task-3.md)
 Develop Grafana dashboard which will contain essential statistics for Story validator
 
 ### [Task 4: Useful utility for validators](./wave-2/tasks/general-task-4.md)
