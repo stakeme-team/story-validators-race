@@ -1,5 +1,5 @@
 # Wave-2: story-validators-race
-![Grafana](https://github.com/user-attachments/assets/0396491c-38cf-464c-8702-2d37a0f6bce2)
+![general-task-3](https://github.com/user-attachments/assets/417b511d-1b02-4cda-b55b-28faeb52f238)
 
 ## Task 3: Provide Grafana dashboard
 - Develop Grafana dashboard which will contain essential statistics for Story validtor.
