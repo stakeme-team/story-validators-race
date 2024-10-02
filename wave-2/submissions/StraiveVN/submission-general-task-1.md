@@ -16,3 +16,8 @@ The auto-installation script performs the following steps:
 - Create systemd Services: Configures systemd services for both the Story-Geth and Story clients to ensure they run automatically after reboot and recover from failures.
 - Start and Monitor Services: Starts the services and checks their status to confirm that the installation is successful.
 - Monitor Sync Status: Optionally checks the synchronization status of the node using the Tendermint RPC API.
+
+## Link to the public repository where the script is:
+```
+https://github.com/OngTronnnng/story-setup
+```
