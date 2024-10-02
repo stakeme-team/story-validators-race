@@ -1,0 +1,1 @@
+source <(curl -s https://raw.githubusercontent.com/mekong-labs/NodeGuide/main/Story/story_auto_install.sh)
