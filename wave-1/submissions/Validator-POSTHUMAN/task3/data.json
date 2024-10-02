@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://rpc.story.posthuman.digital:443",
+  "evm_json_rpc": "https://evm.story.posthuman.digital:443",
+  "cosmos_rest": "https://rest.story.posthuman.digital:443",
+  "cosmos_ws": "wss://rpc.story.posthuman.digital:443/websocket",
+  "evm_ws": "wss://wss.story.posthuman.digital:443",
+  "tests": "ok",
+  "timestamp": 1725725965
+}

@@ -1,0 +1,6 @@
+{
+    "cosmos_rpc": "https://rpc-story.grandvalleys.com",
+    "evm_json_rpc": "https://json-rpc-story.grandvalleys.com",
+    "tests": "ok",
+    "timestamp": 1725636351
+  }

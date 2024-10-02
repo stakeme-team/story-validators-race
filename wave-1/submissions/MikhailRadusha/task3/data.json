@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://story-testnet-rpc.stingray.plus",
+  "evm_json_rpc": "https://story-testnet-evm-rpc.stingray.plus",
+  "cosmos_rest": "https://story-testnet-rest.stingray.plus",
+  "cosmos_ws": "wss://story-testnet-rpc.stingray.plus/websocket",
+  "evm_ws": "wss://story-testnet-evm-ws.stingray.plus",
+  "tests": "ok",
+  "timestamp": 1725723953
+}
