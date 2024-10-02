@@ -1,0 +1,9 @@
+{
+    "cosmos_rpc": "https://rpc.story.dhozil.xyz",
+    "evm_json_rpc": "https://evm.story.dhozil.xyz",
+    "cosmos_rest": "https://api.story.dhozil.xyz",
+    "cosmos_ws": "wss://rpc.story.dhozil.xyz/websocket",
+    "evm_ws": "wss://wss.story.dhozil.xyz",
+    "tests": "ok",
+    "timestamp": 1725967323
+  }
