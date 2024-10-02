@@ -1,12 +1,12 @@
 # Welcome to the Story Validators Race wave-2!
-![Wave-2](https://github.com/user-attachments/assets/180716d9-32e7-4e8f-98e8-fa683745683d)
+![Wave-2](https://github.com/user-attachments/assets/b314b25e-8b80-4a55-8b41-1010b5de688b)
 
 We are excited to announce the launch of the second wave-2 of the Story validator race! This is a great opportunity to not only showcase your validator performance, but also make a great contribution to the Story blockchain. Your participation will help to build a stronger network, as well as make useful monitoring tools, write interesting articles about Story, or make useful videos. Don't miss your chance to be part of this exciting challenge!
 
 > Deadline for all tasks: 20 October 10:00 UTC<br>
 Bonus tasks can close at any moment
 
-![disclaimer2](https://github.com/user-attachments/assets/cf1ab4cc-de20-4382-bcbe-b10d382f8451)
+![Disclaimer](https://github.com/user-attachments/assets/04cf6335-8e5d-4e2d-8be9-c4a509ba72e1)
 ## Disclaimer
 > The Story Validator Race is organized by the Stekeme team with the support of the Story team. Participation in this contest does not guarantee entry into the mainnet or any airdrop. The race is designed as an opportunity for validators to earn test tokens and demonstrate their skills. Our goal is to give validators a platform to showcase their abilities and connect with the community, while mitigating the risk of multi-account participation. For the Story team, this contest is a valuable opportunity to compile a list of experienced validators, though any further actions with this list are at the discretion of the Story team.
 
@@ -30,7 +30,7 @@ After successful completion of the task, test tokens will be sent to your EVM va
 
 
 ## General tasks
-![3rd](https://github.com/user-attachments/assets/2f821c5b-3db8-484b-94ac-e9987225e974)
+![General tasks](https://github.com/user-attachments/assets/9d2bd1c6-265f-4159-8bbc-92a368b3dd59)
 
 ### [Task 1: Automatic installer for the Story node](./wave-2/tasks/general-task-1.md)
 Develop one-liner for story node installation, updates, status view and more
@@ -45,7 +45,7 @@ Develop Grafana dashboard which will contain essential statistics for Story vali
 Development of a useful utility for Story blockchain validators
 
 ## Bonus tasks
-![Bonus tasks](https://github.com/user-attachments/assets/3d5f8614-cfd9-4430-858b-4a214152d350)
+![Bonus tasks](https://github.com/user-attachments/assets/8b902a01-4fb0-4f71-8f7e-86b5524af002)
 
 ### [Task 1: Edit validator description testnet.storyscan.app](./wave-2/tasks/bonus-task-1.md)
 Change the description of your validator in explorer testnet.storyscan.app</br>
