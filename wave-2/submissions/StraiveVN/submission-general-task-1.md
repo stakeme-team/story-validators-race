@@ -19,5 +19,5 @@ The auto-installation script performs the following steps:
 
 ## Link to the public repository where the script is:
 ```
-https://github.com/OngTronnnng/story-setup
+https://github.com/OngTronnnng/story-setup/blob/main/README.md
 ```
