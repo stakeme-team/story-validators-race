@@ -1,5 +1,5 @@
 # Wave-2: story-validators-race
-![utilitiy](https://github.com/user-attachments/assets/adc6de39-198d-4bfd-b03d-ed8df660f41e)
+![general-task-4](https://github.com/user-attachments/assets/8700e4b9-86f0-4ccd-b8dc-5fea9999451b)
 
 ## Task 4: Useful utility for validators
 - Development of a useful utility for Story blockchain validators
