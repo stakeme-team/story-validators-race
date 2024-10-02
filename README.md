@@ -14,7 +14,7 @@ Bonus tasks can close at any moment
 The main goal of the race is to distribute test tokens to validators who actively participate in the network and make meaningful contributions to the project.
 
 ## Conditions of participation in wave-2
-To start the race, you can start by doing any task you want. Read carefully the terms and conditions for submitting a particular task. If you have any questions about the your application or specifically the task, you can ask us a question in Story discord (#validator-suport)
+To start the race, you can start by doing any task you want. Read carefully the terms and conditions for submitting a particular task. If you have any questions about the your application or specifically the task, you can ask us a question in Story discord (#validator-support)
 
 ‼️ Important! Before you start doing tasks, create a data.json file at the path `wave-2/submissions/validator_moniker/data.json`, where `validator_moniker` is the name of your validator.</br>
 </br>
@@ -24,9 +24,9 @@ To start the race, you can start by doing any task you want. Read carefully the 
 In `data.json`, fill in the contents:
 ```
 {
-   validator_address: “valoper” //storyvaloper..,
-   discord_id: "number" //your discord id,
-   discord_username: "username" //your discord username
+  "validator_address": "string",
+  "discord_id": "number",
+  "discord_username": "string"
 }
 ```
 After that, create a PR with the name: `Information file <validator_moniker>`
@@ -44,7 +44,7 @@ Develop one-liner for story node installation, updates, status view and more
 ### [Task 2: Service for providing archive & prunned snapshots](./wave-2/tasks/general-task-2.md)
 Development of a web application or automated script for downloading snapshots (prunned and archive)
 
-### [Task 2: Provide Grafana dashboard](./wave-2/tasks/general-task-3.md)
+### [Task 3: Provide Grafana dashboard](./wave-2/tasks/general-task-3.md)
 Develop Grafana dashboard which will contain essential statistics for Story validator
 
 ### [Task 4: Useful utility for validators](./wave-2/tasks/general-task-4.md)
