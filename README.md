@@ -24,9 +24,9 @@ To start the race, you can start by doing any task you want. Read carefully the 
 In `data.json`, fill in the contents:
 ```
 {
-   validator_address: “valoper” //storyvaloper..,
-   discord_id: "number" //your discord id,
-   discord_username: "username" //your discord username
+   validator_address: “valoper”,
+   discord_id: "number",
+   discord_username: "username"
 }
 ```
 After that, create a PR with the name: `Information file <validator_moniker>`
