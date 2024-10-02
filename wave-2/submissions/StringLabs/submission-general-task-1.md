@@ -24,4 +24,8 @@ Note : enter moniker with your validator name
 - **To view logs:** Use the command `sudo journalctl -u story-geth -f -o cat`and  `sudo journalctl -u story -f -o cat`.
 
 - **To check sync status:** Execute `curl localhost:26657/status | jq` .
-- **After your node sync, you can create your validator. 
+- **After your node sync, you can create your validator.
+
+  ## Credits
+
+This script was created by slaranium. You can also check out the [GitHub repository](https://github.com/slaranium/Story-Installer).
