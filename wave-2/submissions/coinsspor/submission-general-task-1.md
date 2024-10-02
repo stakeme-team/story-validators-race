@@ -15,7 +15,7 @@ Story is the World’s IP Blockchain, onramping Programmable IP to power the nex
 
 ### Step-1 Auto Install ( u must select port and moniker name)
 
-*Auto Install scrpit include latest story v0.10.1 and Storty-geth Story-Geth v0.9.3.
+*Auto Install scrpit include latest **story v0.10.1** and **Story-Geth v0.9.3.**
 *Additionally, if you already have the latest versions, you can proceed from step 7 only if you are going to perform an update
 ```
 source <(curl -s https://raw.githubusercontent.com/coinsspor/story/main/story.sh)
