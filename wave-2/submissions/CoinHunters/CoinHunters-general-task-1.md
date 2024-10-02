@@ -41,7 +41,7 @@ curl localhost:<portnumber>657/status | jq
 story validator export --export-evm-key
 ```
 
-Get wallet key and import to Metamask wallet&#x20;
+#### Get wallet key and import to Metamask wallet&#x20;
 
 ```
 sudo nano ~/.story/story/config/private_key.txt
