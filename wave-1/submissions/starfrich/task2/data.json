@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "https://rpc-cosmos.starfrich.me",
+  "evm_json_rpc": "https://rpc-evm.starfrich.me",
+  "tests": "ok",
+  "timestamp": 1725895863
+}
