@@ -1,5 +1,5 @@
 # Wave-2: story-validators-race
-![#1](https://github.com/user-attachments/assets/54710c01-b656-4c3a-ae67-626379477c7e)
+![bonus-task-1](https://github.com/user-attachments/assets/47d5a85d-b816-4dbb-956f-a3028478d99a)
 
 ## Bonus task 1: Edit validator description testnet.storyscan.app
 <b>‼️ This task for those who created their validator before October 1</b></br>
