@@ -1,5 +1,5 @@
 # Wave-2: story-validators-race
-![Snapshots](https://github.com/user-attachments/assets/ef00f54f-b61f-408d-b19c-d3dd31aad2f3)
+![general-task-2](https://github.com/user-attachments/assets/8cedf96d-c0b1-46f6-b3be-e7e0c3753f25)
 
 ## Task 2: Service for providing archive & prunned snapshots
 - Development of a web application or automated script for downloading snapshots (prunned and archive).
