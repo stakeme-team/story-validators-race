@@ -17,10 +17,14 @@ The main goal of the race is to distribute test tokens to validators who activel
 To start the race, you can start by doing any task you want. Read carefully the terms and conditions for submitting a particular task. If you have any questions about the your application or specifically the task, you can ask us a question in Story discord (#validator-suport)
 
 ‼️ Important! Before you start doing tasks, create a data.json file at the path `wave-2/submissions/validator_moniker/data.json`, where `validator_moniker` is the name of your validator.</br>
+`discord_id` - your discord id</br>
+`discord_username` - your discord username</br>
 In `data.json`, fill in the contents:
 ```
 {
-   validator_address: “valoper” //storyvaloper..
+   validator_address: “valoper” //storyvaloper..,
+   discord_id: "number" //your discord id,
+   discord_username: "username" //your discord username
 }
 ```
 After that, create a PR with the name: `Information file <validator_moniker>`
