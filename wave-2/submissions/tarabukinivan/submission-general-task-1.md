@@ -17,7 +17,7 @@ curl -s http://localhost:26657/status | jq .result.sync_info
 source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/story_upgrade.sh)
 ```
   
-## Installation from height 0. Version 0.10.1 from snapshot:
+## Installation from height 0. Version 0.10.1 from archive snapshot:
 ```
 source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/auto_story_statesynced.sh)
 ```
