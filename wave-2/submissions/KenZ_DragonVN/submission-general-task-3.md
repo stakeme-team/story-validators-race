@@ -96,6 +96,18 @@ Validator Dashboard : http://story-grafana.kzvn.xyz:3000/d/validator-network-das
 
 
 
+## I have write my own custom node exporter you can check step install at my github repo : https://github.com/quangtuyen88/story-exporter
 
+After start node exporter you can edit config prometheus and add another job collect metric .
+
+Example : 
+
+```bash
+- job_name: validator-exporter
+  static_configs:
+  - targets:
+    - 10.10.10.39:8000
+```
+And import my dashboard at ` `$HOME/prometheus/grafana/dashboards` use file name `validator-custom-node-export.json`
 
 
