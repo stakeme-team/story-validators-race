@@ -1,1 +1,38 @@
+
 wget -O auto_story.sh https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/auto_story.sh && chmod a+x auto_story.sh && ./auto_story.sh
+
+## Installation from height 0. Version 0.9.3 is installed. On version v0.10.1 we get the apphash.
+Autoinstallation with custom ports:
+wget -O auto_story.sh https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/auto_story.sh && chmod a+x auto_story.sh && ./auto_story.sh
+
+#updating the binary at 626575 to v0.10.1
+check node height: (If you have changed the port, replace the ‘26’ number at the beginning with the port you are using and try.)
+curl -s http://localhost:26657/status | jq .result.sync_info
+
+source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/story_upgrade.sh)
+
+## Installation from height 0. Version 0.10.1 from snapshot:
+source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/auto_story_statesynced.sh)
+
+snapshot info: [https://ivans-organization-17.gitbook.io/story](https://ivans-organization-17.gitbook.io/story)
+
+##### If you have changed the port, replace the ‘26’ number at the beginning with the port you are using and try. Port ‘26’ is the default port number.
+```console
+curl localhost:26657/status | jq
+```
+# We export the wallet you created and add the private key to the Matemask Wallet. Then we request Token via Faucet and apply the following codes to create Validator.
+
+## [Faucet 1](https://faucet.story.foundation/) - [Faucet 2](https://thirdweb.com/story-iliad-testnet) - [Faucet 3](https://faucet.quicknode.com/story)
+
+```console
+# Wallet Export
+story validator export --export-evm-key
+```
+```console
+# Copy the Private key here
+sudo nano ~/.story/story/config/private_key.txt
+```
+```console
+# Create Validator
+story validator create --stake 1000000000000000000 --private-key "your_private_key"
+```
