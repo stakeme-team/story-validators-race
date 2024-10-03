@@ -27,7 +27,7 @@ snapshot info: [https://ivans-organization-17.gitbook.io/story](https://ivans-or
 ```console
 curl localhost:26657/status | jq
 ```
-# We export the wallet you created and add the private key to the Matemask Wallet. Then we request Token via Faucet and apply the following codes to create Validator.
+### We export the wallet you created and add the private key to the Matemask Wallet. Then we request Token via Faucet and apply the following codes to create Validator.
 
 ## [Faucet 1](https://faucet.story.foundation/) - [Faucet 2](https://thirdweb.com/story-iliad-testnet) - [Faucet 3](https://faucet.quicknode.com/story)
 
