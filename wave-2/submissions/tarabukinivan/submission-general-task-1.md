@@ -1,16 +1,23 @@
 ## Installation from height 0. Version 0.9.3 is installed. On version v0.10.1 we get the apphash.
 Autoinstallation with custom ports:
+```
 wget -O auto_story.sh https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/auto_story.sh && chmod a+x auto_story.sh && ./auto_story.sh
+```
 
 #updating the binary at 626575 to v0.10.1
-check node height: (If you have changed the port, replace the ‘26’ number at the beginning with the port you are using and try.)
+<p>check node height: (If you have changed the port, replace the ‘26’ number at the beginning with the port you are using and try.)</p>
+```
 curl -s http://localhost:26657/status | jq .result.sync_info
-
+```
+<p>autoupdate</p>
+```
 source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/story_upgrade.sh)
-
+```
+  
 ## Installation from height 0. Version 0.10.1 from snapshot:
+```
 source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/auto_story_statesynced.sh)
-
+```
 snapshot info: [https://ivans-organization-17.gitbook.io/story](https://ivans-organization-17.gitbook.io/story)
 
 ##### If you have changed the port, replace the ‘26’ number at the beginning with the port you are using and try. Port ‘26’ is the default port number.
