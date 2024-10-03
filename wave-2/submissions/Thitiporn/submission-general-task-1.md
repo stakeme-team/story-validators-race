@@ -19,25 +19,32 @@ Before creating a Validator, you should export important keys like the EVM key a
 Export Validator Key and EVM Key
 
 # Export Validator key and EVM key to a file named .env
-story validator export --export-evm-key --evm-key-path .env
+
+command :     story validator export --export-evm-key --evm-key-path .env
+
 This command will generate and export the necessary keys for your validator. Make sure to store the Compressed Public Key (base64) for later use.
 
 Export Public Key
 
 # Export Public Key
-story validator export
+command :      story validator export
+
 Save the Compressed Public Key (base64) for later use when creating your validator.
 
 Export Private Key for Wallet Import (Optional)
 If you need to import the private key into other wallets, you can use the following command:
 
 # Export the EVM private key
-story validator export --export-evm-key
+command :    story validator export --export-evm-key
+
+
 2. Create a Validator
 Once you have exported and backed up the necessary keys, you can proceed to create your validator:
 
 # Create Validator with 1 stake (denoted in wei for 1 $IP token)
-story validator create --stake 1000000000000000000
+command :    story validator create --stake 1000000000000000000
+
+
 This will create your validator with 1 $IP staked. You can adjust the stake amount as needed.
 
 Make sure the node is running and synced before executing these commands to successfully create your validator.
