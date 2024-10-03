@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "https://story-testnet-rpc.husonode.xyz",
+  "evm_json_rpc": "https://story-testnet-evm.husonode.xyz",
+  "tests": "ok",
+  "timestamp": 1725886887
+}

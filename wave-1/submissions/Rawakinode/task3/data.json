@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://rpc-story.rawakinode.tech",
+  "evm_json_rpc": "https://rpc-evm-story.rawakinode.tech",
+  "cosmos_rest": "https://api-story.rawakinode.tech",
+  "cosmos_ws": "wss://rpc-story.rawakinode.tech/websocket",
+  "evm_ws": "wss://evm-ws-story.rawakinode.tech",
+  "tests": "ok",
+  "timestamp": 1725981004
+}
