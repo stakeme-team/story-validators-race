@@ -10,6 +10,7 @@ wget -O auto_story.sh https://raw.githubusercontent.com/tarabukinivan/story_file
 ```
 curl -s http://localhost:26657/status | jq .result.sync_info
 ```
+Make sure latest_block_height = 626575
 
 <p>autoupdate</p>
 
@@ -27,6 +28,9 @@ snapshot info: [https://ivans-organization-17.gitbook.io/story](https://ivans-or
 ```console
 curl localhost:26657/status | jq
 ```
+
+Make sure catching_up = false
+
 ### We export the wallet you created and add the private key to the Matemask Wallet. Then we request Token via Faucet and apply the following codes to create Validator.
 
 ## [Faucet 1](https://faucet.story.foundation/) - [Faucet 2](https://thirdweb.com/story-iliad-testnet) - [Faucet 3](https://faucet.quicknode.com/story)
