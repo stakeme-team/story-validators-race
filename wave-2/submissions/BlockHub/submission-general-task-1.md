@@ -40,7 +40,7 @@ Welcome to the Story Node Dashboard, a comprehensive tool for managing and monit
 1. Clone this repository:
    ```
    cd $HOME
-   git clone https://gist.githubusercontent.com/botxx15/36f51945f2f92e666afeb15ec7a97f95/raw/story.sh
+   wget https://gist.githubusercontent.com/botxx15/36f51945f2f92e666afeb15ec7a97f95/raw/story.sh
    ```
 
 2. Make the script executable:
