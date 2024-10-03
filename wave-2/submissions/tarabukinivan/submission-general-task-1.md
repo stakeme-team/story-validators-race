@@ -32,6 +32,11 @@ source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/ref
 ```
 snapshot info: [https://ivans-organization-17.gitbook.io/story](https://ivans-organization-17.gitbook.io/story)
 
+## Installation from Story Statesync Version 0.10.1. Geth archive snapshot https://snapshots.tarabukin.work/storygeth/snap_info.txt:
+```
+source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/story_statesynf_etharch.sh)
+```
+
 ##### If you have changed the port, replace the ‘26’ number at the beginning with the port you are using and try. Port ‘26’ is the default port number.
 ```console
 curl localhost:26657/status | jq
