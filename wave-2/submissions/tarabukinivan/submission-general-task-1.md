@@ -17,6 +17,14 @@ Make sure latest_block_height = 626575
 ```
 source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/story_upgrade.sh)
 ```
+
+### Automatic update when block 626575 is reached. Run in tmux
+
+```
+apt install tmux -y
+tmux new-session -s storyupd
+source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/story_autoupgrade)
+```
   
 ## Installation from height 0. Version 0.10.1 from archive snapshot:
 ```
