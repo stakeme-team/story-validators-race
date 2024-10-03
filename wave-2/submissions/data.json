@@ -1,5 +1,0 @@
-{
-  "validator_address": "string",
-  "discord_id": "number",
-  "discord_username": "string"
-}
