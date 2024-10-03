@@ -14,7 +14,7 @@ File structure should look like this:
 ```
 wave-2
 ├── submissions
-    └── validator_moniker
+    └── validator_hungstory
         └──submission-bonus-task-1.md
         └──data.json
 ```
