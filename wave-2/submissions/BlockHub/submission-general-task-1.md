@@ -1,3 +1,4 @@
+![Story Protocol Github Banner](https://github.com/user-attachments/assets/51fe2eef-9e7d-4550-9b85-870c4e98117c)
 # Story Node Dashboard
 
 Welcome to the Story Node Dashboard, a comprehensive tool for managing and monitoring your Story Node. This dashboard provides an easy-to-use interface for various node management tasks.
