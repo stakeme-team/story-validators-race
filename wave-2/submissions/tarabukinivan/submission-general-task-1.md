@@ -1,6 +1,3 @@
-
-wget -O auto_story.sh https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/auto_story.sh && chmod a+x auto_story.sh && ./auto_story.sh
-
 ## Installation from height 0. Version 0.9.3 is installed. On version v0.10.1 we get the apphash.
 Autoinstallation with custom ports:
 wget -O auto_story.sh https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/auto_story.sh && chmod a+x auto_story.sh && ./auto_story.sh
