@@ -21,7 +21,7 @@ wget https://raw.githubusercontent.com/crdpool/Story-Node-Manager/refs/heads/mai
 ## Hardware Requiremets
 - CPU: 4 Cores
 - RAM: 16GB
-- DISK: 500GB
+- Disk: 500GB
 - Bandwith: 25 MBit/s
 
 ## Repository Link
