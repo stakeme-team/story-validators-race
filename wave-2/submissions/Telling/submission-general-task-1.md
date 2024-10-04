@@ -12,6 +12,8 @@ A Bash script to automate the installation, management, and maintenance of a Sto
 
 ## Usage
 
+Simply execute the commande bellow in your Ubuntu terminal:
+
 ```
 wget https://raw.githubusercontent.com/crdpool/Story-Node-Manager/main/story_node_manager.sh && chmod +x story_node_manager.sh && bash -i story_node_manager.sh
 ```
