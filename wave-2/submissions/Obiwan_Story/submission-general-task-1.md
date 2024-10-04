@@ -2,7 +2,7 @@
 # 2.Story Node Automatic Remove in 1 liner
 
 ## Overview
-This script provides a one-liner solution to install, update, and check the status of the Story node. The aim is to simplify the node management process for validators.
+This script provides a one-liner solution to install, update, check the status and remove Story node. The aim is to simplify the node management process for validators.
 
 ## Prerequisites
 - A Unix-based operating system
