@@ -15,6 +15,22 @@ bash <(curl -s https://raw.githubusercontent.com/phamnhungoctuan/story-tools/mai
   
 # Menu Options:
 
+### Story Validator Tools
+```
+- 0. Check system hardware requirements
+- 1. Install Story Node
+- 2. Update Story Consensus
+- 3. Update Story Geth
+- 4. Create validator
+- 5. Get latest block height
+- 6. Get Validator dashboard link
+- 7. Get Validator Public and Private Key
+- 8. Get faucet
+- 9. Check gETH logs
+- 10. Check Story logs
+- 11. Restart your node
+```
+
 ### Install Story Node:
 
 - Allows you to install Story node from the latest or second-latest available version.
@@ -48,6 +64,8 @@ Exports your validator's private key for EVM usage and prints it.
 - Provides a link to the Story testnet faucet where you can get test tokens.
 ### Additional Feature:
 - System Resource Check:
+- Check logs
+- Restart node
 - The script verifies if the system meets minimum hardware requirements:
 
 ```
