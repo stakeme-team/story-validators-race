@@ -22,9 +22,9 @@ Welcome to the Story Node Dashboard, a comprehensive tool for managing and monit
    - The network's current block height
    - The number of blocks left to sync
 
-4. **Schedule a Story Client Upgrade**: Facilitates upgrading your Story client by:
-   - Downloading and extracting the new client
-   - Scheduling the upgrade using Cosmovisor
+4. **Upgrade**: Offers two options to upgrade the Story client:
+   - **Schedule Upgrade**: Downloads and extracts the new client and schedules the upgrade using Cosmovisor for a specific block height.
+   - **Instant Upgrade**: Allows for immediate upgrade by downloading the latest client and applying it right away, useful for urgent upgrades that need immediate action.
 
 5. **Check Version**: Allows you to check the version of:
    - Story client
