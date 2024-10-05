@@ -131,3 +131,6 @@ And
   sudo systemctl start story && \
   sudo systemctl enable story && \
   sudo systemctl status story
+  
+  Link to public repo
+My script is hosted at the public repo: https://github.com/huydt88/story-node-installer
