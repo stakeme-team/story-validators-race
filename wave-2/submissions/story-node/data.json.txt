@@ -1,0 +1,5 @@
+{
+  "validator_address": "0xDc5012c20AdE69e39F9748D741F480cd38944818",
+  "discord_id": "466949424594026506",
+  "discord_username": "minhnhat5589"
+}
