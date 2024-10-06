@@ -1,6 +1,7 @@
 # ProjectStory
 Hi am Khoonme Samee
-1 .Install Node using command
+(Update geth & Story Last version)
+1 .Install Node using command  
 bash <(curl -s https://raw.githubusercontent.com/KhoonmeeZa/ProjectStory/main/install_story.sh)
 
 When running for a while, input the desired Node or Moniker name.
