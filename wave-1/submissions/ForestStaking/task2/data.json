@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "https://story-testnet-rpc.foreststaking.com",
+  "evm_json_rpc": "https://story-testnet-evm.foreststaking.com",
+  "tests": "ok",
+  "timestamp": 1725955291
+}

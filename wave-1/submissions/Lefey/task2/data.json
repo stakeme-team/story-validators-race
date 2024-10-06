@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "http://story.lefey.tech:28657",
+  "evm_json_rpc": "http://story.lefey.tech:8545",
+  "tests": "ok",
+  "timestamp": 1725964259
+}
