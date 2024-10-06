@@ -1,7 +1,10 @@
 ### Archival & Pruned Snapshot by shachopra
 **- Website**: https://services.shachopra.com/story-testnet/snapshot
+
 **- Archival Snapshot height**: [click here](https://story-snapshot.shachopra.com:8443/downloads/height.txt)
+
 **- Pruned Snapshot height**: [click here](https://story-snapshot2.shachopra.com:8443/downloads/height.txt)
+
 **- Archival & Pruned Snapshot will auto update every 8 hours & 5 hours respectively**
 
 
