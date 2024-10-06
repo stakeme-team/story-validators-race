@@ -7,8 +7,7 @@ This Grafana dashboard, created by **Grand Valley**, provides essential real-tim
 - **Chain Statistics**: Track overall blockchain performance metrics such as block height, block production, and network participation.
 - **Validator Insights**: View crucial data for Story validators, including missed blocks and peer connections to help assess network health.
 - **Upgrade Alerts**: Keep track of upcoming mandatory version upgrades:
-  - **v0.10.0** will be applied automatically at block height **626575**.
-  - A reminder will notify when the node should be upgraded to **v0.10.1** at block height **990454**.
+  - `v0.11.0` update at block height `1,325,860`
 
 ### How to Use:
 
