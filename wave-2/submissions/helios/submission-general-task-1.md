@@ -3,14 +3,15 @@
 This is an installation script for Story testnet which helps user get the node ready with just 1 command. This script also add story and geth peer so the node can quikcly cacth up with the chain.
 
 ## Overview
-You can run this script directly in the command line, or create a file like this: nano install.sh:
+You can run this script directly in the command line, or create a file like this: `nano install.sh`:
+```bash
 #!/bin/bash
 MONIKER=<your-moniker>
 
 # Check go
 if ! which go > /dev/null; then
-echo "Go is not installed"
-exit 1
+    echo "Go is not installed"
+    exit 1
 fi
 
 # Install binaries
@@ -25,7 +26,7 @@ echo -e "\e[32mDone!\e[0m"
 
 # Init
 echo -e "\033[1;33mInitializing...\033[0m"
-story init --moniker $MONIKER --network iliad
+story init --moniker $MONIKER --network iliad 
 
 
 # Create services
@@ -72,10 +73,12 @@ geth --exec 'admin.addPeer("enode://a86b76eb7171eb68c4495e1fbad292715eee9b77a34f
 systemctl restart geth story
 echo -e "\e[32mAll services started!\e[0m"
 
+```
 
-**Note**: If you want custom moniker for your node, please set the variable `MONIKER`.
-
+> **Note**: If you want custom moniker for your node, please set the variable `MONIKER`.
 
 To check the logs of the node, you can run these commands:
+```bash
 journalctl -fu story # get log for story
 journalctl -fu geth # get log for geth
+```
