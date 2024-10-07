@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "https://story-testnet.rpc.kjnodes.com",
+  "evm_json_rpc": "https://story-testnet.jsonrpc.kjnodes.com",
+  "tests": "ok",
+  "timestamp": 1725819014
+}
