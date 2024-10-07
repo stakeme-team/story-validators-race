@@ -1,4 +1,4 @@
-# Guide to sync a Story Node from Snapshot
+# Guide to sync a Story Node from Snapshot (prunned + archive)
 
 After you add a new node to the network, it can synchronize rapidly by applying a snapshot, which is a compact archive of the blockchain’s current data. Using a snapshot helps avoid the lengthy process of downloading and checking every single transaction from scratch.
 
@@ -21,7 +21,7 @@ sudo systemctl stop story && sudo systemctl stop geth
 cp $HOME/.story/story/data/priv_validator_state.json $HOME/.story/priv_validator_state.json.backup
 ```
 
-## 2. Snapshots Download
+## 2. Snapshots Download: Prunned
 
 #### 2.1. Remove existing data directories
 ```bash
@@ -66,4 +66,22 @@ sudo systemctl start story && sudo systemctl start geth
 ```bash
 rm -rf $HOME/${story_snapshot_url}
 rm -rf $HOME/${geth_snapshot_url}
+```
+
+# Archive Snapshots
+
+- Snapshots are automatically updated every 2 days
+
+#### Check the latest network snapshot URL
+```bash
+story_snapshot_url=$(curl -sL 'https://story-testnet-snapshots-archive.go2pro.xyz/' | grep -Eo '>iliad_story.*\.tar\.lz4' | sed 's/^>//' | head -n1)
+geth_snapshot_url=$(curl -sL 'https://story-testnet-snapshots-archive.go2pro.xyz/' | grep -Eo '>iliad_geth.*\.tar\.lz4' | sed 's/^>//' | head -n1)
+```
+#### Download Story snapshot
+```bash
+aria2c -x5 -s4 -d $HOME "https://story-testnet-snapshots-archive.go2pro.xyz/${story_snapshot_url}"
+```
+#### Download Geth snapshot
+```bash
+aria2c -x5 -s4 -d $HOME "https://story-testnet-snapshots-archive.go2pro.xyz/${geth_snapshot_url}"
 ```
