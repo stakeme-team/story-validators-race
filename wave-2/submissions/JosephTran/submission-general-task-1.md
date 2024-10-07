@@ -7,6 +7,8 @@
 
 Story Node Manager is a comprehensive tool designed to simplify the process of managing a Story node. With its user-friendly command-line interface, it allows users to easily install, manage, upgrade, and monitor their Story nodes.
 
+- Repository link: [https://github.com/Josephtran102/story-wave2-task1-Automatic-installer](https://github.com/Josephtran102/story-wave2-task1-Automatic-installer)
+
 # Installation
 To start using the Story Node Manager, run the following command in your terminal:
 ```
