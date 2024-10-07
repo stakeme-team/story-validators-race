@@ -1,5 +1,5 @@
 # Wave-2: story-validators-race
-<img src="https://raw.githubusercontent.com/Josephtran102/story-wave2-task2-Snapshot/refs/heads/main/assets/06-snapshot.png" style="width: 100%; height: 100%; object-fit: cover;" />
+<img src="https://raw.githubusercontent.com/Josephtran102/story-wave2-task2-Snapshot/refs/heads/main/assets/story-wave2-banner-04.png" style="width: 100%; height: 100%; object-fit: cover;" />
 
 # Task 2: Service for providing archive & prunned snapshots
 
