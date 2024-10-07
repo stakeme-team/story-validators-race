@@ -5,7 +5,7 @@ Automatically set up a Story node. This script with just one command will instal
 Simply execute the commande bellow in your Ubuntu terminal:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/Poezdec/story/main/install_story_node_CDsnap.sh)
+bash <(curl -s https://raw.githubusercontent.com/Poezdec/story-oneclick/main/story_node_oneclick.sh)
 ```
 
 
