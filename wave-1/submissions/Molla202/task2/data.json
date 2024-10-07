@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "https://story-molla202-rpc.strangled.net",
+  "evm_json_rpc": "https://story-molla202-evm.strangled.net",
+  "tests": "ok",
+  "timestamp": 1725888965
+}

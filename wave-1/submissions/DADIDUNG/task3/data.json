@@ -1,0 +1,9 @@
+{
+    "cosmos_rpc": "https://rpc-story.danggia.xyz",
+    "evm_json_rpc": "https://evmrpc-story.danggia.xyz",
+    "cosmos_rest": "https://api-story.danggia.xyz",
+    "cosmos_ws": "wss://wss-story.danggia.xyz",
+    "evm_ws": "wss://evmwss-story.danggia.xyz",
+    "tests": "ok",
+    "timestamp": 1725725917
+  }
