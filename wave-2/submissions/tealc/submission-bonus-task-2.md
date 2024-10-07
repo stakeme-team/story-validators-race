@@ -3,7 +3,6 @@
 Le protocole Story est une blockchain innovante spécifiquement conçue pour la création, la gestion et la monétisation d'histoires interactives. En utilisant la technologie des tokens non fongibles (NFT), des smart contracts, et une architecture décentralisée, Story transforme la manière dont les récits sont produits et consommés. Cet article technique examine les spécificités de la technologie Story, fournit des exemples concrets, et explore son potentiel à transformer le paysage du storytelling numérique.
 
 ## Architecture Technique de Story
-
 ### 1. Structure de la Blockchain
 
 La blockchain Story est construite sur une architecture de type Proof of Stake (PoS), offrant des avantages significatifs en termes de durabilité et d'évolutivité. Contrairement aux systèmes Proof of Work (PoW), qui nécessitent des ressources énergétiques considérables, le PoS permet aux utilisateurs de valider les transactions en fonction du nombre de tokens qu'ils détiennent et sont prêts à "staker". Cela réduit non seulement l'empreinte carbone, mais améliore également la vitesse des transactions.
