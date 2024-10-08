@@ -15,7 +15,7 @@ To start using the Story Node Manager, run the following command in your termina
 bash <(curl -s https://raw.githubusercontent.com/Josephtran102/story-wave2-task1-Automatic-installer/refs/heads/main/story-manager-v0.1.0.sh)
 ```
 
-- Short link:
+- Optional short link:
 ```
 bash <(curl -s https://story.josephtran.co/scripts/story-manager-v0.1.0.sh)
 ```
