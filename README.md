@@ -14,7 +14,7 @@ Bonus tasks can close at any moment
 The main goal of the race is to distribute test tokens to validators who actively participate in the network and make meaningful contributions to the project.
 
 ## Conditions of participation in wave-2
-To start the race, you can start by doing any task you want. Read carefully the terms and conditions for submitting a particular task. If you have any questions about the your application or specifically the task, you can ask us a question in Story discord (#validator-suport)
+To start the race, you can start by doing any task you want. Read carefully the terms and conditions for submitting a particular task. If you have any questions about the your application or specifically the task, you can ask us a question in Story discord (#validator-support)
 
 ‼️ Important! Before you start doing tasks, create a data.json file at the path `wave-2/submissions/validator_moniker/data.json`, where `validator_moniker` is the name of your validator.</br>
 </br>
