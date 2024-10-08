@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "https://rpc.story.web3validator.info",
+  "evm_json_rpc": "https://evm.story.web3validator.info",
+  "tests": "ok",
+  "timestamp": 1725970923
+}

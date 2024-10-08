@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://story-testnet-rpc.zstake.xyz",
+  "evm_json_rpc": "https://story-testnet-evm.zstake.xyz",
+  "cosmos_rest": "https://story-testnet-api.zstake.xyz",
+  "cosmos_ws": "wss://story-testnet-wss.zstake.xyz",
+  "evm_ws": "wss://story-testnet-wss.zstake.xyz",
+  "tests": "ok",
+  "timestamp": 1725884921
+}
