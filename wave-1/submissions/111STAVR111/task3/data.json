@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://story.rpc-archive.t.stavr.tech:443",
+  "evm_json_rpc": "https://story.evm.t.stavr.tech:443",
+  "cosmos_rest": "https://story.api-archive.t.stavr.tech:443",
+  "cosmos_ws": "wss://story.rpc-archive.t.stavr.tech/websocket",
+  "evm_ws": "wss://story.wss-archive.t.stavr.tech",
+  "tests": "ok",
+  "timestamp": 1725771489
+}
