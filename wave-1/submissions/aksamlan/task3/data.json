@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://story-testnet-rpc.husonode.xyz",
+  "evm_json_rpc": "https://story-testnet-evm.husonode.xyz",
+  "cosmos_rest": "https://story-testnet-api.husonode.xyz",
+  "cosmos_ws": "wss://story-testnet-rpc.husonode.xyz/websocket",
+  "evm_ws": "wss://story-testnet-wss.husonode.xyz",
+  "tests": "ok",
+  "timestamp": 1725960644
+}

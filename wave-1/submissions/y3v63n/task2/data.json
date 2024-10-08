@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "https://story-rpc.moonli.me",
+  "evm_json_rpc": "https://story-evm-rpc.moonli.me",
+  "tests": "ok",
+  "timestamp": 1725958238
+}

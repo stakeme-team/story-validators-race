@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://story-rpc-kaplan.ignorelist.com",
+  "evm_json_rpc": "https://story-evm-kaplan.ignorelist.com",
+  "cosmos_rest": "https://story-api-kaplan.ignorelist.com",
+  "cosmos_ws": "https://story-wss-kaplan.ignorelist.com",
+  "evm_ws": "https://story-wss-kaplan.ignorelist.com",
+  "tests": "ok",
+  "timestamp": 1725899216
+}
