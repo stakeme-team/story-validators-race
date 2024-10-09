@@ -1,6 +1,0 @@
-{
-  "cosmos_rpc": "https://story-cosmos-rpc.vitwit.com",
-  "evm_json_rpc": "https://story-evm-rpc.vitwit.com",
-  "tests": "ok",
-  "timestamp": 1725958291
-}
