@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://story-testnet-cosmos-rpc.crouton.digital",
+  "evm_json_rpc": "https://story-testnet-evm-rpc.crouton.digital",
+  "cosmos_rest": "https://story-testnet-cosmos-rest.crouton.digital",
+  "cosmos_ws": "wss://story-testnet-cosmos-ws.crouton.digital/websocket",
+  "evm_ws": "wss://story-testnet-evm-ws.crouton.digital",
+  "tests": "ok",
+  "timestamp": 1725872806
+}
