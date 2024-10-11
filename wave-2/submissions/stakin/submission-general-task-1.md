@@ -15,7 +15,7 @@ You can download the `story.sh` script using `curl` .
 
 Run the following command to download and run the script using `curl`:
 
-```bash <(curl -s https://gist.githubusercontent.com/varundeolase/577bf3df013313c0c0fde4d161454e0c/raw/d648c43ec12f69535a9163213529a551833f9108/story.sh)``` 
+```bash <(curl -s https://gist.githubusercontent.com/varundeolase/577bf3df013313c0c0fde4d161454e0c/raw/ba76ba2309ee15d461eee943e6e46a813d5d68a6/story.sh)``` 
 
 This command will execute the script and do the following:
  
