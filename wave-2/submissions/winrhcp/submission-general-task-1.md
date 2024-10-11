@@ -1,3 +1,6 @@
+# Wave-2: story-validators-race
+![general-task-1](https://github.com/winrhcp/automatic-installer-story-node)
+
 # Story Node Automatic Installer and Manager
 This project automates the installation, updates, and management of the Story node using a Makefile and a shell script (story_auto.sh). The script provides options for managing the node, checking logs, initializing, and creating validators, among other functions.
 
