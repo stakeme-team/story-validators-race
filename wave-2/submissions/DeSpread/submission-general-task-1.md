@@ -1,7 +1,7 @@
 ![Story Protocol DeSpread Banner](https://raw.githubusercontent.com/DeSpread/story-validator/refs/heads/main/story-validators-race/wave-2/despread.jpg)
 # Automatic Installer for the Story Node by DeSpread
 
-Welcome to the **Story Node Dashboard**, your all-in-one tool for effortlessly managing and monitoring your Story Node. With this automated installer and management dashboard, you can streamline node setup, check sync statuses, and perform upgrades with ease.
+Welcome to the **Story Node Dashboard**, your all-in-one tool for effortlessly managing and monitoring your Story Node. With this automated installer and management dashboard, you can streamline node setup, check sync statuses, perform upgrades with ease, and even automate upgrades at specific block heights.
 
 # Key Features
 
@@ -34,6 +34,13 @@ Welcome to the **Story Node Dashboard**, your all-in-one tool for effortlessly m
    Quickly check the version details of:
     - Story client
     - Story-Geth client
+
+6. **Automated Node Monitoring and Upgrade**  
+   Automatically monitor your node's block height and trigger an upgrade when a specified block height is reached. This feature allows you to:
+    - Set a target block height.
+    - Automatically check the node’s current block height.
+    - If the block height matches or exceeds the target, the upgrade is triggered.
+    - Prevents redundant upgrades by checking if the upgrade has already been applied.
 
 # Prerequisites
 
@@ -75,9 +82,19 @@ Launch the Story Node Dashboard by executing:
 3. **Check Sync Status**: Monitor real-time synchronization progress.
 4. **Upgrade Story Client**: Opt for either a scheduled or immediate upgrade.
 5. **Check Versions**: View the current version of the Story and Story-Geth clients.
+6. **Automated Upgrade Based on Block Height**:
+    - **Monitor Node**: Constantly checks the block height of your node.
+    - **Automatic Upgrade**: When the node reaches a predetermined block height, it automatically upgrades using the predefined upgrade link and version.
+
+# Automated Node Monitoring and Upgrade Instructions
+
+## How It Works:
+
+The monitoring feature constantly tracks your node’s current block height and compares it with a specified target height. When the node reaches or exceeds the target height, an automatic upgrade will be performed using `cosmovisor`. The system ensures that upgrades are not performed redundantly by checking if an upgrade has already been completed at that block height.
 
 # Important Considerations
 
 - **System Modifications**: This installer will make changes to your system configuration. Please review these changes before proceeding.
 - **Log and Sync Checks**: To return to the main menu while checking logs or sync status, you may need to interrupt the process with `Ctrl+C`.
 - **Upgrades**: When scheduling a client upgrade, ensure you have the correct upgrade link, version, and the designated block height to avoid misconfigurations.
+- **Automated Upgrades**: Ensure the correct block height and upgrade parameters are configured for the automatic upgrade feature to work as intended.
