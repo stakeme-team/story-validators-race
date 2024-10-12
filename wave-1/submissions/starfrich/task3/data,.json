@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://rpc-cosmos.starfrich.me",
+  "evm_json_rpc": "https://rpc-evm.starfrich.me",
+  "cosmos_rest": "https://story-api.starfrich.me",
+  "cosmos_ws": "wss://wss-cosmos.starfrich.me/websocket",
+  "evm_ws": "wss://wss-evm.starfrich.me",
+  "tests": "ok",
+  "timestamp": 1725986046
+}
