@@ -25,3 +25,4 @@ Benefits
 Automation: Significantly reduces manual effort by automating the installation and configuration process.
 User-Friendly: Provides clear instructions and prompts for user input, making it accessible for users with varying technical backgrounds.
 Efficiency: Saves time and effort by performing all necessary steps in a streamlined manner, ensuring a smooth setup experience.
+>> full guide is here :https://github.com/Onixs50/Story-Node-Installation
