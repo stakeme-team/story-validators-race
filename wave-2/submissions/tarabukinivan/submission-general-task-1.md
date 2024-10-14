@@ -26,13 +26,13 @@ tmux new-session -s storyupd
 source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/story_autoupgrade)
 ```
   
-## Installation from height 0. Version 0.10.1 from archive snapshot:
+## Installation from height 0. Version v0.11.0 from archive snapshot:
 ```
 source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/auto_story_statesynced.sh)
 ```
-snapshot info: [https://ivans-organization-17.gitbook.io/story](https://ivans-organization-17.gitbook.io/story)
+snapshot info: https://snapshots.tarabukin.work/
 
-## Installation from Story Statesync Version 0.10.1. Geth archive snapshot https://snapshots.tarabukin.work/storygeth/snap_info.txt:
+## Installation from Story Statesync Version v0.11.0. Geth archive snapshot https://snapshots.tarabukin.work/storygeth/snap_info.txt:
 ```
 source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/story_statesynf_etharch.sh)
 ```
