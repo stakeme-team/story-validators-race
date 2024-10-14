@@ -9,7 +9,7 @@
 
 
 My dashboard showing:
-
+```
 Story Network Info
 	- Network name
 	- Active Validators
@@ -39,7 +39,7 @@ ServerInfo
 	- Network traffic
 	- Disk IOps
 
-
+```
 ### Download Dashboard Template
 
 [dashboard](https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/story_dashboard.json)
@@ -56,4 +56,4 @@ https://github.com/tarabukinivan/story_files/blob/main/grafana_install_guide.md
 
 ### Demo Public Monitoring dashboard:
 
-[https://](https://grafana.tarabukin.work/)
+https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/story_dashboard.json
