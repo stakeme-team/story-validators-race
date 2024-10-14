@@ -56,4 +56,4 @@ https://github.com/tarabukinivan/story_files/blob/main/grafana_install_guide.md
 
 ### Demo Public Monitoring dashboard:
 
-https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/story_dashboard.json
+https://grafana.tarabukin.work/
