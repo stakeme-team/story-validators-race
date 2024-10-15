@@ -10,11 +10,11 @@
 To install the necessary Snapsots for managing your Story Protocol node, run the following command in your terminal:
 
 ```bash
-cd $HOME && wget https://raw.githubusercontent.com/CryptoBuroMaster/Story-Node/main/update-snapshots.sh && chmod +x update-snapshots.sh && ./update-snapshots.sh
+cd $HOME && wget https://raw.githubusercontent.com/CryptoBureau01/Story-Node/main/update-snapshots.sh && chmod +x update-snapshots.sh && ./update-snapshots.sh
 ```
 
 ### Sources Repository:
-[Story-Node-Tool Setup Script](https://github.com/CryptoBuroMaster/Story-Node/blob/main/update-snapshots.sh)  
+[Story-Node-Tool Setup Script](https://github.com/CryptoBureau01/Story-Node/blob/main/update-snapshots.sh)  
 
 
 
@@ -62,5 +62,5 @@ This script is useful for users managing blockchain nodes, ensuring that the pro
 
 
 ### Sources Repository:
-[Story-Node-Tool Setup Script](https://github.com/CryptoBuroMaster/Story-Node/blob/main/update-snapshots.sh) 
+[Story-Node-Tool Setup Script](https://github.com/CryptoBureau01/Story-Node/blob/main/update-snapshots.sh) 
 
