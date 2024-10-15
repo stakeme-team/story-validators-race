@@ -7,11 +7,11 @@
 To install the necessary tools for managing your Story Protocol node, run the following command in your terminal:
 
 ```bash
-cd $HOME && wget https://raw.githubusercontent.com/CryptoBuroMaster/Story-Node/main/setup.sh && chmod +x setup.sh && ./setup.sh
+cd $HOME && wget https://raw.githubusercontent.com/CryptoBureau01/Story-Node/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
 ### Sources Repository:
-[Story-Node-Tool Setup Script](https://github.com/CryptoBuroMaster/Story-Node/blob/main/setup.sh)
+[Story-Node-Tool Setup Script](https://github.com/CryptoBureau01/Story-Node/blob/main/setup.sh)
 
 
 # Summary for Auto Script - Node Management
@@ -76,4 +76,4 @@ This Auto Script for Node Management on the Story Protocol has been created by C
 
 
 ### Sources Repository:
-[Story-Node-Tool Setup Script](https://github.com/CryptoBuroMaster/Story-Node/blob/main/setup.sh)
+[Story-Node-Tool Setup Script](https://github.com/CryptoBureau01/Story-Node/blob/main/setup.sh)
