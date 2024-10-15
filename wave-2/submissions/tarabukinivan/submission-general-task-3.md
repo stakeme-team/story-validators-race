@@ -40,7 +40,18 @@ ServerInfo
 	- Disk space used
 	- Network traffic
 	- Disk IOps
-
+Alerts for
+	- SERVER IS UNAVAILABLE FOR MORE THAN 1 MINUTE
+	- DISK IS MORE THAN 85 PERCENT FULL
+	- CPU USED AT OVER 85 PERCENT
+	- RAM USAGE IS OVER 85 PERCENT
+	- Geth Sync Info is not "false"
+	- Story Sync Info is not "false"
+	- Geth has no peer
+	- Story has no peer
+	- Node is Jailed
+	- Node Tombstoned
+	- Node height lags behind API
 ```
 ### Install Instruction
 
