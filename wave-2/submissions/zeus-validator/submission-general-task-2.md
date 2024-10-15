@@ -5,14 +5,14 @@ We provide both archival and pruned snapshots, which are created every 8 hours. 
 You can see the name of the snapshot file in this url: https://story-snapshot.artsakh.network
 
 ## Archive snapshots
-- Geth: https://story-snapshot.artsakh.network/archive/geth_<height>.tar.lz4
-- Story: https://story-snapshot.artsakh.network/archive/story_<height>.tar.lz4
+- Geth: https://story-snapshot.artsakh.network/archive/geth.tar.lz4
+- Story: https://story-snapshot.artsakh.network/archive/story.tar.lz4
 
 Here is the instruction
 ```bash
 cd $HOME/.story/
-wget https://story-snapshot.artsakh.network/archive/geth_<height>.tar.lz4
-wget https://story-snapshot.artsakh.network/archive/story_<height>.tar.lz4
+wget https://story-snapshot.artsakh.network/archive/geth.tar.lz4
+wget https://story-snapshot.artsakh.network/archive/story.tar.lz4
 systemctl stop story geth
 mv story.tar.lz4 story/
 cd story 
@@ -28,14 +28,14 @@ systemctl restart geth story
 ```
 
 ## Pruned snapshots
-- Geth: https://story-snapshot.artsakh.network/pruned/geth_<height>.tar.lz4
-- Story: https://story-snapshot.artsakh.network/pruned/story_<height>.tar.lz4
+- Geth: https://story-snapshot.artsakh.network/pruned/geth.tar.lz4
+- Story: https://story-snapshot.artsakh.network/pruned/story.tar.lz4
 
 Here is the instruction
 ```bash
 cd $HOME/.story/
-wget https://story-snapshot.artsakh.network/pruned/geth_<height>.tar.lz4
-wget https://story-snapshot.artsakh.network/pruned/story_<height>.tar.lz4
+wget https://story-snapshot.artsakh.network/pruned/geth.tar.lz4
+wget https://story-snapshot.artsakh.network/pruned/story.tar.lz4
 systemctl stop story geth
 mv story.tar.lz4 story/
 cd story 
