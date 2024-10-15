@@ -86,3 +86,7 @@ curl -o validator.sh https://raw.githubusercontent.com/Vasya-kripto/story/refs/h
 ```   
 
 After running the script, you will see your EVM public key and private key. Save the private key in a secure place. Then, obtain tokens to your public key using the faucet, enter `yes`, and the script will create the validator.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------   
+
+All 3 scripts can be found here: `https://github.com/Vasya-kripto/story`
