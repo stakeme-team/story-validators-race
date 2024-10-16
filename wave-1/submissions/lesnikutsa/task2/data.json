@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "https://t-story.archive.rpc.utsa.tech:443",
+  "evm_json_rpc": "https://t-story.archive.evm.utsa.tech:443",
+  "tests": "ok",
+  "timestamp": 1725705414
+}

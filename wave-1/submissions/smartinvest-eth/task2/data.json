@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "https://story-rpc.smartinvest.guru",
+  "evm_json_rpc": "https://story-geth-rpc.smartinvest.guru/",
+  "tests": "ok",
+  "timestamp": 1725931924
+}

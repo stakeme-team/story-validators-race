@@ -1,0 +1,9 @@
+{
+    "cosmos_rpc": "https://story-rpc-cosmos.originstake.com",
+    "evm_json_rpc": "https://story-rpc01.originstake.com",
+    "cosmos_rest": "https://story-api-cosmos.originstake.com",
+    "cosmos_ws": "wss://story-rpc-cosmos.originstake.com/websocket",
+    "evm_ws": "wss://story-wss01.originstake.com",
+    "tests": "ok",
+    "timestamp": 1725703984
+  }

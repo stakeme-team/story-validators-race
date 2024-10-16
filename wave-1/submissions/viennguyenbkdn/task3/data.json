@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://story-cosmos-rpc.node101.online",
+  "evm_json_rpc": "https://story-evm-rpc.node101.online",
+  "cosmos_rest": "https://story-cosmos-rest.node101.online",
+  "cosmos_ws": "wss://story-cosmos-rpc.node101.online/websocket",
+  "evm_ws": "wss://story-evm-wss.node101.online",
+  "tests": "ok",
+  "timestamp": 1725949485
+}
