@@ -1,6 +1,6 @@
 # Story Node Setup and Management Script
 
-This submission provides a comprehensive script for Story node installation, upgrade, and management.
+This submission provides a comprehensive script for Story node installation, upgrade, management, and status checking.
 
 ## Repository
 
@@ -15,9 +15,10 @@ The script offers the following main features:
 1. **Install Story Node**: Sets up a new Story node with all necessary components.
 2. **Upgrade Story Node**: Allows for upgrading the Story node to a new version.
 3. **Check Current Version**: Displays the current version of the installed Story node.
-4. **Logging**: All major operations are logged for easy troubleshooting.
-5. **Error Handling**: Checks for successful execution of critical commands.
-6. **Configuration Backup**: Creates a backup of the current configuration before upgrades.
+4. **Check Node Status**: Allows checking the status of story-geth and story services.
+5. **Logging**: All major operations are logged for easy troubleshooting.
+6. **Error Handling**: Checks for successful execution of critical commands.
+7. **Configuration Backup**: Creates a backup of the current configuration before upgrades.
 
 ## Usage Guide
 
@@ -36,7 +37,8 @@ After running this command, follow the on-screen menu to choose your desired act
    - Option 1: Install a new Story Node
    - Option 2: Upgrade an existing Story Node
    - Option 3: Check the current Story Node version
-   - Option 4: Exit the script
+   - Option 4: Check Node Status
+   - Option 5: Exit the script
 
 ## Detailed Feature Explanation
 
@@ -59,6 +61,10 @@ After running this command, follow the on-screen menu to choose your desired act
 ### 3. Check Current Version
 - Displays the current version of the installed Story node
 - Provides detailed error messages if version checking fails
+
+### 4. Check Node Status
+- Allows user to choose between checking story-geth or story service status
+- Displays the most recent 10 lines of the selected service's log using journalctl
 
 ## Notes
 
