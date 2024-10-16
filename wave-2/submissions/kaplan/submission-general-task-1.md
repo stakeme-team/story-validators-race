@@ -10,7 +10,7 @@ This document provides a step-by-step guide for using the script to set up a Sto
 
 ### Script Location
 You can find the script in my public GitHub repository at the following link:
-Story Node Installation Script https://github.com/kaplanbitcoin1/Story/tree/main
+https://github.com/kaplanbitcoin1/Story/tree/main
 
 ### Installation Steps
 1. **Download the script**: You can download the installation script using the following command:
