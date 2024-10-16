@@ -7,31 +7,31 @@ nano story_node_setup.py
 chmod +x story_node_setup.py
 
 # 3. To run the script, use the following command format:
-# Example: sudo python3 story_node_setup.py <action> [optional parameters]
+Example: sudo python3 story_node_setup.py <action> [optional parameters]
 
-# Available Actions:
-# "install_dependencies"          -> Install system dependencies (curl, git, wget, etc.).
-# "install_go"                    -> Install Go language (default version is 1.22.8).
-# "clone_and_build"               -> Clone Story and Story Geth repositories and build the binaries.
-# "create_data_directories"       -> Create directories for Story and Geth data.
-# "initialize_node"               -> Initialize Story node with a given moniker.
-# "download_genesis"              -> Download the genesis and addrbook files.
-# "configure_peers"               -> Configure peers and seeds in config.toml.
-# "configure_gas_and_prometheus"  -> Enable Prometheus for monitoring in config.toml.
-# "create_service"                -> Create systemd service files for Story and Geth nodes.
-# "setup_snapshot"                -> Set up node synchronization with snapshots.
-# "verify_logs"                   -> Verify the Story node logs using journalctl.
-# "start_node"                    -> Start the Story and Geth node services.
-# "stop_node"                     -> Stop the Story and Geth node services.
-# "node_status"                   -> Check the status of the Story and Geth nodes.
-# "update_node"                   -> Update Story node to the latest version from GitHub.
-# "sync_status"                   -> Check the synchronization status of the Story node.
+Available Actions:
+- "install_dependencies"          -> Install system dependencies (curl, git, wget, etc.).
+- "install_go"                    -> Install Go language (default version is 1.22.8).
+- "clone_and_build"               -> Clone Story and Story Geth repositories and build the binaries.
+- "create_data_directories"       -> Create directories for Story and Geth data.
+- "initialize_node"               -> Initialize Story node with a given moniker.
+- "download_genesis"              -> Download the genesis and addrbook files.
+- "configure_peers"               -> Configure peers and seeds in config.toml.
+- "configure_gas_and_prometheus"  -> Enable Prometheus for monitoring in config.toml.
+- "create_service"                -> Create systemd service files for Story and Geth nodes.
+- "setup_snapshot"                -> Set up node synchronization with snapshots.
+- "verify_logs"                   -> Verify the Story node logs using journalctl.
+- "start_node"                    -> Start the Story and Geth node services.
+- "stop_node"                     -> Stop the Story and Geth node services.
+- "node_status"                   -> Check the status of the Story and Geth nodes.
+- "update_node"                   -> Update Story node to the latest version from GitHub.
+- "sync_status"                   -> Check the synchronization status of the Story node.
 
-# Optional Parameters:
-# --moniker         -> Node's moniker (only required for 'initialize_node' action, default: "StoryNode").
-# --story-version   -> Story repository version (used in 'clone_and_build', default: "v0.11.0").
-# --geth-version    -> Story Geth repository version (used in 'clone_and_build', default: "v0.9.3").
-# --go-version      -> Go language version (used in 'install_go', default: "1.22.8").
+Optional Parameters:
+- --moniker         -> Node's moniker (only required for 'initialize_node' action, default: "StoryNode").
+- --story-version   -> Story repository version (used in 'clone_and_build', default: "v0.11.0").
+- --geth-version    -> Story Geth repository version (used in 'clone_and_build', default: "v0.9.3").
+- --go-version      -> Go language version (used in 'install_go', default: "1.22.8").
 
 # Examples:
 
