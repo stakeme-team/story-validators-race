@@ -1,3 +1,5 @@
+Manual and Autoinstall [https://snapshots.tarabukin.work/installation.html](https://snapshots.tarabukin.work/installation.html)
+
 ## Installation from height 0. Story version v0.11.0, Geth version v0.9.4 from archive snapshot:
 ```
 source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/auto_story_statesynced.sh)
