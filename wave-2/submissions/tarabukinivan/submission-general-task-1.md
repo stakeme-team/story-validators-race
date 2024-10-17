@@ -1,16 +1,16 @@
-## Installation from height 0. Version v0.11.0 from archive snapshot:
+## Installation from height 0. Story version v0.11.0, Geth version v0.9.4 from archive snapshot:
 ```
 source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/auto_story_statesynced.sh)
 ```
 snapshot info: https://snapshots.tarabukin.work/
 
-## Installation from Story Statesync Version v0.11.0.  
+## Installation from Story Statesync. Story version v0.11.0, Geth version v0.9.4  
 Geth archive snapshot [Snap info](https://snapshots.tarabukin.work/storygeth/snap_info.txt):
 ```
 source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/story_statesynf_etharch.sh)
 ```
 
-## Installation from height 0 (Old version). Version 0.9.3 is installed. On version v0.10.1 we get the apphash.
+## Installation from height 0 (Old version). Story version v0.9.3, Geth version v0.9.3 is installed. On version v0.10.1 we get the apphash.
 Autoinstallation with custom ports:
 ```
 wget -O auto_story.sh https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/auto_story.sh && chmod a+x auto_story.sh && ./auto_story.sh
