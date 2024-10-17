@@ -1,6 +1,6 @@
 # [STORY TOOLS]
 
-## I suggest we sort out all these points.
+## All pages are responsive.
 
 <details>
   <summary>1) Install node guide</summary>
