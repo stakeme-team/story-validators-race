@@ -4,8 +4,8 @@
 
 <details>
   <summary>1) Install node guide</summary>
-  [Manual and Auto Installation](https://snapshots.tarabukin.work/installation.html)
-  The page has a copy button, changing the Story and Geth ports
+  [Manual and Auto Installation](https://snapshots.tarabukin.work/installation.html)  
+    The page has a copy button, changing the Story and Geth ports
 </details>
 
 <details>
