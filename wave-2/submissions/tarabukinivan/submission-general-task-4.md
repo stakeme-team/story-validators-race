@@ -5,7 +5,7 @@
 <details>
   <summary>1) Install node guide</summary>
   [Manual and Auto Installation](https://snapshots.tarabukin.work/installation.html)  <br>
-  The page has copy buttons, automatic replacement of Story and Geth ports, automatic replacement of service names   
+  The page has copy buttons, automatic replacement of Story and Geth ports, automatic replacement of service names.   
   Fresh peers are loading
 
   ![install guide](https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/images/installstory.png)
