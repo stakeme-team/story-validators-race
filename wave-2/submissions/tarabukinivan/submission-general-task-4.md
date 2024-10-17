@@ -23,10 +23,12 @@ The snapshot is updated every 15 hours. It has a counter for the next update, th
 </details>
 
 <details>
-  <summary>3) RPC Scaner and Live Peers</summary>
+  <summary>3) RPC Scaner,Live Peers and Autoupgrader</summary>
 [RPC Scaner and Live Peers](https://snapshots.tarabukin.work/tools.html)  
-  
-RPC and peers are updated every 5 hours. Has a counter until the next update and the time of the last update
+
+RPC and peers are updated every 5 hours. Has a counter until the next update and the time of the last update.  
+
+Script for automatic update when reaching the desired height
   
 ![RPC Scaner](https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/images/rpcscaner.png)
 
