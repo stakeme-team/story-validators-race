@@ -28,14 +28,20 @@ RPC and peers are updated every 5 hours. Has a counter until the next update and
 </details>
 
 <details>
-  <summary>4) Custom Grafana</summary>
-Instructions for installing the Grafana monitoring and alerting system. Compares the height of the block with the API story, Checks synchronization, jail, etc. Sends a notification to Telegram  
+  <summary>4) Grafana</summary>
+Instructions for installing the Grafana monitoring and alerting system. Dashboard made specifically for Story. Compares block height with API block, Network information, Checks synchronization, jail, etc. Sends notification to Telegram 
   
 [Grafana Instruction](https://github.com/tarabukinivan/story_files/blob/main/grafana_install_guide.md)   
 
 [Demo:](https://grafana.tarabukin.work/)  
   
 ![grafana](https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/images/grafana.png)
+
+</details>
+
+<details>
+  <summary>2) Telegram bot </summary>
+
 
 </details>
 
