@@ -1,4 +1,15 @@
-## Installation from height 0. Version 0.9.3 is installed. On version v0.10.1 we get the apphash.
+## Installation from height 0. Version v0.11.0 from archive snapshot:
+```
+source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/auto_story_statesynced.sh)
+```
+snapshot info: https://snapshots.tarabukin.work/
+
+## Installation from Story Statesync Version v0.11.0. Geth archive snapshot https://snapshots.tarabukin.work/storygeth/snap_info.txt:
+```
+source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/story_statesynf_etharch.sh)
+```
+
+## Installation from height 0 (Old version). Version 0.9.3 is installed. On version v0.10.1 we get the apphash.
 Autoinstallation with custom ports:
 ```
 wget -O auto_story.sh https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/auto_story.sh && chmod a+x auto_story.sh && ./auto_story.sh
@@ -26,16 +37,7 @@ tmux new-session -s storyupd
 source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/story_autoupgrade)
 ```
   
-## Installation from height 0. Version v0.11.0 from archive snapshot:
-```
-source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/auto_story_statesynced.sh)
-```
-snapshot info: https://snapshots.tarabukin.work/
 
-## Installation from Story Statesync Version v0.11.0. Geth archive snapshot https://snapshots.tarabukin.work/storygeth/snap_info.txt:
-```
-source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/story_statesynf_etharch.sh)
-```
 
 ##### If you have changed the port, replace the ‘26’ number at the beginning with the port you are using and try. Port ‘26’ is the default port number.
 ```console
