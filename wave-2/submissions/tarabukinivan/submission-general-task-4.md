@@ -43,7 +43,7 @@ Instructions for installing the Grafana monitoring and alerting system. Dashboar
 
 [Demo:](https://grafana.tarabukin.work/)  
   
-![grafana](https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/images/grafana.png)
+![grafana](https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/images/grafana4.png)
 
 </details>
 
