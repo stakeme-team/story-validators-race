@@ -1,8 +1,5 @@
 # Story Node Installation and Management Script
 
-## Repository Link
-[Link to your public repository containing the script]
-
 ## Features
 1. **Animated Text Display**: Visually appealing start using figlet and lolcat.
 2. **Multiple Installation and Management Options**:
@@ -23,7 +20,7 @@
 ### 1. Download the script
 
 ```bash
-wget https://raw.githubusercontent.com/[your-username]/[your-repo]/main/story-node-installer.sh
+wget https://files4.blacknodes.net/story-testnet/story-node-installer.sh
 ```
 
 ### 2. Make the script executable
