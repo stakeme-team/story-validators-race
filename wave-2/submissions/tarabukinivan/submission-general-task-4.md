@@ -27,9 +27,9 @@ It has a counter for the next update, the height of the snapshot and the time of
   <summary>3) RPC Scaner,Live Peers and Autoupgrader</summary>
 [RPC Scaner and Live Peers](https://snapshots.tarabukin.work/tools.html)  
 
-RPC and peers are updated every 5 hours. The script requires you to input the height and the update version. It creates an automatic update script to be executed once the specified height is reached.
+RPC and peers are updated every 5 hours. <br>The script requires you to input the height and the update version. It creates an automatic update script to be executed once the specified height is reached.
 
-Script for automatic update when reaching the desired height
+
   
 ![RPC Scaner](https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/images/rpcscaner.png)
 
