@@ -81,6 +81,8 @@ Block 1541421 | JosephTran01 ✅ | JosephTran02 ❌ (11) | JosephTran03 ✅ |
 Block 1541423 | JosephTran01 ✅ | JosephTran02 ❌ (12) | JosephTran03 ❌ (1) |
 ```
 
+<img src="https://raw.githubusercontent.com/Josephtran102/story-wave2-task4-Useful-utility-for-validators/refs/heads/main/assets/tele-bot.png" style="width: 100%; height: 100%; object-fit: cover;" />
+
 ## II. RPC Scanner 📡
 
 ### Description
