@@ -49,7 +49,8 @@ Instructions for installing the Grafana monitoring and alerting system. Dashboar
 <details>
   <summary>5) Telegram bot </summary>
 The bot monitors the operation of the RPC, the number of peers for Story and Geth.
-It checks the Story API. If the API is operational, the command '/storyapiinfo' becomes available, which displays the network height, the total number of validators, the number of active validators, and some network parameters. It compares the node height with the API height. If the node height lags by 300 blocks, it sends a notification to the chat.
+It checks the Story API. If the API is operational, the command '/storyapiinfo' becomes available, which displays the network height, the total number of validators, the number of active validators, and some network parameters. It compares the node height with the API height. If the node height lags by 300 blocks, it sends a notification to the chat.  
+When the proposal comes out, I will add tracking of the proposal and voting from the bot
 
 Available commands:
 status - displays full information about the RPC.
