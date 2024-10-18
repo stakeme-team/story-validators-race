@@ -16,7 +16,7 @@ This utility is a Python script designed to track and analyze Story Staking meth
 
 2. Install required dependencies:
    ```
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 ## Usage
@@ -28,7 +28,7 @@ This utility is a Python script designed to track and analyze Story Staking meth
 
 2. Run the script:
    ```
-   python txAnalysis.py
+   python3 txAnalysis.py
    ```
 
 3. When prompted, enter the starting and ending block numbers to analyze. Enter '0' for the ending block to analyze up to the latest block.
