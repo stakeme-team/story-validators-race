@@ -316,8 +316,11 @@ Adjust time ranges, add new panels, or modify existing ones as needed
 
 <img src="https://raw.githubusercontent.com/Josephtran102/story-wave2-task3-grafana-dashboard/refs/heads/main/assests/Alert-rule.png" style="width: 100%; height: 100%; object-fit: cover;" />
 
-Conclusion
-You now have a fully functional monitoring system for your node. This setup allows you to visualize system metrics, set up alerts, and gain insights into your node's performance. Remember to regularly check and update your monitoring setup to ensure it remains effective and secure.
+#### #Conclusion:
+
+- You now have a fully functional monitoring system for your node.
+- This setup allows you to visualize system metrics, set up alerts, and gain insights into your node's performance.
+- Remember to regularly check and update your monitoring setup to ensure it remains effective and secure.
 
 This comprehensive guide should provide a solid foundation for setting up Grafana to monitor your node. It covers all the necessary steps from installation to configuration, and includes some basic troubleshooting and maintenance tips.
 
