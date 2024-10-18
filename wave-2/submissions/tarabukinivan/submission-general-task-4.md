@@ -16,7 +16,8 @@
   <summary>2) 🔗Snapshot and StateSync</summary>
 [Snap and State](https://snapshots.tarabukin.work/)  
   
-The snapshot is updated every 15 hours. It has a counter for the next update, the height of the snapshot and the time of the snapshot. The service has an automatic change of the service name
+The snapshot is updated every 15 hours. <br>
+It has a counter for the next update, the height of the snapshot and the time of the snapshot. The service has an automatic change of the service name
 
 ![Snap and State](https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/images/snapshot4.png)
 
