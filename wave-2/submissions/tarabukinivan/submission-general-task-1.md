@@ -4,7 +4,7 @@ Manual and Autoinstall [https://snapshots.tarabukin.work/installation.html](http
 ```
 source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/auto_story_statesynced.sh)
 ```
-snapshot info: https://snapshots.tarabukin.work/
+[Snapshot info](https://snapshots.tarabukin.work/)
 
 ## Installation pruned snapshot Story version v0.11.0, Geth version v0.9.4:
 
@@ -18,7 +18,7 @@ source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/ref
 Statesync has become very poorly synchronized. Use snap <br>
 
 
-Geth archive snapshot [Snap info](https://snapshots.tarabukin.work/storygeth/snap_info.txt):
+[Geth archive snapshot info](https://snapshots.tarabukin.work/storygeth/snap_info.txt)
 ```
 source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/story_statesynf_etharch.sh)
 ```
