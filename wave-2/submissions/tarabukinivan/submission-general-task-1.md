@@ -7,10 +7,11 @@ source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/ref
 snapshot info: https://snapshots.tarabukin.work/
 
 ## Installation pruned snapshot Story version v0.11.0, Geth version v0.9.4:
-[Snapshot Info](https://snapshots.tarabukin.work/index.html)
+
 ```
 source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/story_pruned.sh)
 ```
+[Snapshot Info](https://snapshots.tarabukin.work/index.html)
 
 ## Installation from Story Statesync. Story version v0.11.0, Geth version v0.9.4
 
