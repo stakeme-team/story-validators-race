@@ -6,15 +6,17 @@ The dashboard is organized into three main sections:
 1. Blockchain Overview
 2. Consensus Metrics
 3. Validator Metrics
+
 ## How to Use
-Demo Link: http://34.143.199.206:3000/d/be15zg6lujx1cc/validator
-Account: user
-Password: user
-Installation Guide
+Demo Link: http://34.143.199.206:3000/d/be15zg6lujx1cc/validator  
+Account: user  
+Password: user  
+
+## Installation Guide
 1. In Grafana, go to 'Create' > 'Import'.
 2. Copy and paste the JSON configuration provided in this submission.
 3. Select your Prometheus data source.
 4. Click 'Import' to create the dashboard.
 
-Grafan Dashboard File 
+Grafan Dashboard File  
 https://raw.githubusercontent.com/card3/story-validator/refs/heads/main/dashboard/grafana.json
