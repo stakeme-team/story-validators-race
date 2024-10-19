@@ -1,5 +1,7 @@
 # General-Task 1: Automatic installer for the Story node
 
+# 0xdoubleline Validator
+
 # ⛓️ 0xdoubleline Story Node Auto Installation Guide
 
 This script is designed to automate the installation and management of the Story Node. It can handle installations, updates, backups, and restores of the validator key.
