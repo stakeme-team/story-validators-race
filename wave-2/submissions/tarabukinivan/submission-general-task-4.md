@@ -64,6 +64,7 @@ Available commands:
  * /last10blockinfo - information about signing the last 10 blocks.
  * /mute - temporarily disable monitoring, for example during an update or temporarily exit the active set
  * /unmute - enable monitoring
+ * /logs - last 30 line log
 
 [Install guide](https://github.com/tarabukinivan/storybot)
 
