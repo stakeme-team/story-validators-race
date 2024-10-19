@@ -1,7 +1,7 @@
 <H1>Introducing the Story Validator Installation Script</H1>
 
 <p>A powerful yet simple tool designed to set up and manage your Story validator node effortlessly. With just a few commands, you can easily install, configure, and maintain your node, ensuring smooth operation at all times.</p>
-
+<b>Note: The script is tested and debugged on Ubuntu 24 operating system.</b>
 <H2>Features:</H2>
 <ul>
 <li>Install Validator Node: Complete setup for running a Story validator node.</li>
