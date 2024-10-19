@@ -1,3 +1,4 @@
+![story](https://github.com/user-attachments/assets/47214ed3-ef39-4223-952f-13a245934e37)
 # Story Protocol Node Installer
 
 This repository provides an automated installation script for setting up a **Story Protocol** node. The **Story Protocol** integrates a consensus layer using **cometBFT** and an execution layer using **gETH**.
