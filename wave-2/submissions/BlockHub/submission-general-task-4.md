@@ -6,6 +6,8 @@
 
 Story Node Dashboard is a Bash script that provides a user-friendly interface for managing and monitoring Story nodes. This tool simplifies the process of installing, upgrading, and maintaining Story nodes, making it easier for both novice and experienced users to participate in the Story network.
 
+![CleanShot 2024-10-20 at 04 21 04](https://github.com/user-attachments/assets/7a2da6d7-b4c4-4f80-be42-dee8b7978aeb)
+
 ## Features
 
 - Easy installation of Story Node
