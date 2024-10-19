@@ -1,6 +1,6 @@
 <H1>Introducing the Story Validator Installation Script</H1>
 
-<H3>A powerful yet simple tool designed to set up and manage your Story validator node effortlessly. With just a few commands, you can easily install, configure, and maintain your node, ensuring smooth operation at all times.</H3>
+<p>A powerful yet simple tool designed to set up and manage your Story validator node effortlessly. With just a few commands, you can easily install, configure, and maintain your node, ensuring smooth operation at all times.</p>
 
 <H2>Features:</H2>
 <ul>
