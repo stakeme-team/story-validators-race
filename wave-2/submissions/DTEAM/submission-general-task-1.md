@@ -32,7 +32,7 @@ Using Ansible and Python over traditional Bash scripts offers significant conven
 
 Ensure your system meets the following requirements before proceeding:
 
-- **Operating System**: Ubuntu 20.04 LTS or later
+- **Operating System**: Ubuntu 22.04 LTS or later
 - **User Privileges**: Root or user with `sudo` privileges
 - **Network**: Stable internet connection for downloading dependencies
 - **Packages**:
