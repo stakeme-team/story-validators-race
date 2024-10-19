@@ -1,3 +1,4 @@
+![story](https://github.com/user-attachments/assets/47214ed3-ef39-4223-952f-13a245934e37)
 # Snapshot Management for Story Blockchain
 
 **dteam.tech** presents a robust snapshot management feature tailored specifically for the Story blockchain, which runs on the **CometBFT consensus** with an execution layer built on **gETH**. This toolset is designed to provide seamless management of blockchain snapshots, including both **pruned** and **archive** snapshots, ensuring flexibility and efficiency in node setup and synchronization.
