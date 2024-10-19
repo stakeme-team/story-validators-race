@@ -60,8 +60,13 @@ Available commands:
  * peers - information about Story and Geth peers.
  * nodeheight - the height of the node.
  * storyapiinfo - network information from the Story API.
+ * /last10blockinfo - information about signing the last 10 blocks.
+ * mute - temporarily disable monitoring, for example during an update or temporarily exit the active set
+ * unmute - enable monitoring
 
 [Install guide](https://github.com/tarabukinivan/storybot)
+
+Video instruction https://youtu.be/dLL5FUvFi28
 
 ![bot](https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/images/storybot.png)
 
