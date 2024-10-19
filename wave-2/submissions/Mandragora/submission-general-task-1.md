@@ -2,7 +2,7 @@
 
 - MandraInstaller is a tool and one-liner script that allows the user perform the following actions:
 
-1) INSTALL A NODE (simple and standard setup)
+1) INSTALL A NODE (standard setup)
 2) APPLY A SNAPSHOT (Mandragora & others)
 3) UPDATE TO A SPECIFIC VERSION
 4) NODE STATUS
