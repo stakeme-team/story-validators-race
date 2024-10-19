@@ -2,6 +2,10 @@
 
 **dteam.tech** presents a robust snapshot management feature tailored specifically for the Story blockchain, which runs on the **CometBFT consensus** with an execution layer built on **gETH**. This toolset is designed to provide seamless management of blockchain snapshots, including both **pruned** and **archive** snapshots, ensuring flexibility and efficiency in node setup and synchronization.
 
+### Link - [https://dteam.tech/services/testnet/snapshot/story](https://dteam.tech/services/testnet/snapshot/story?type=pruned)
+
+<br/>
+
 ## Key Features
 
 ### 1. User-Friendly Interface
@@ -9,6 +13,7 @@
 Our **custom-built interface** offers a visually appealing and intuitive experience, designed with **user convenience** in mind. With clearly organized sections and dynamically updated information, users can easily navigate between different services, whether installing dependencies, managing snapshot data, or adjusting node configurations.
 
 ### 2. Seamless Switching Between Snapshot Types
+![image](https://github.com/user-attachments/assets/9348f144-1bbe-4d51-82a6-471d35cd73c8)
 
 Users can effortlessly toggle between **Pruned** and **Archive Snapshots**. Both options are displayed with real-time details such as:
 
@@ -27,6 +32,7 @@ A **Pruned Snapshot** provides a lightweight, faster synchronization option by r
 An **Archive Snapshot** offers a full, historical blockchain dataset, suitable for users who need to maintain complete records for validation, auditing, or custom analytics purposes.
 
 ### 3. Dynamic Snapshot Information
+![image](https://github.com/user-attachments/assets/9ad43943-b6c9-4468-ba62-5c5d18d6ea59)
 
 The snapshot section offers a dynamically updated overview of the latest available snapshots. This includes both the **Latest Pruned Snapshot** and the **Latest Archive Snapshot**, as well as past snapshots for reference, ensuring users always have access to the most current and reliable data.
 
