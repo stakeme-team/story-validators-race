@@ -1,0 +1,11 @@
+
+{
+    "cosmos_rpc": "http://story-rpc.leiz95.xyz",
+    "evm_json_rpc": "http://evm-json-rpc.leiz95.xyz",
+    "cosmos_rest": "http://story-rpc-rest.leiz95.xyz",
+    "cosmos_ws": "ws://story-rpc.leiz95.xyz:26657/websocket",
+    "evm_ws": "ws://evm-json-rpc.leiz95.xyz:8546",
+    "tests": "ok",
+    "timestamp": 1725979295
+}
+  

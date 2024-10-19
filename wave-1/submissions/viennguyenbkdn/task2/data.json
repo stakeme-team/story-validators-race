@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "https://story-cosmos-rpc.node101.online",
+  "evm_json_rpc": "https://story-evm-rpc.node101.online",
+  "tests": "ok",
+  "timestamp": 1725896965
+}

@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "http://story-cosmos-rpc.empirex.tech",
+  "evm_json_rpc": "http://story-evm-rpc.empirex.tech",
+  "cosmos_rest": "http://story-api.empirex.tech",
+  "cosmos_ws": "ws://story-cosmos-rpc.empirex.tech/websocket",
+  "evm_ws": "ws://story-evm-ws.empirex.tech",
+  "tests": "ok",
+  "timestamp": 1725976070
+}
