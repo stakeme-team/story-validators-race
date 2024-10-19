@@ -1,7 +1,6 @@
-# **Story Node in one click**
-Automatically set up a Story node. This script with just one command will install the node, update snapshots and view the log.
+# **Story Snap in one click**
 
-## **Snapshot installation:**
+## **Installation:**
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/Poezdec/story-oneclick/main/story_snap_oneclick.sh)
