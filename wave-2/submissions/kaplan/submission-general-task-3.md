@@ -6,10 +6,13 @@
 
 In my work with the Story project, I implemented a robust monitoring system using **Grafana** and **Prometheus** to visualize and track a comprehensive set of metrics pertaining to both system and node performance. This systematic approach was essential for ensuring the health and stability of the network, providing insights that guided optimizations and troubleshooting efforts. Below, I outline the various metrics I monitored, detailing their functions and significance within the context of the Story blockchain.
 
+
+[KaplanStoryGrafana](http://95.217.61.32:3000/public-dashboards/55c3a63e429643b0aea3d0f5f54f3f78?orgId=1&refresh=10s)
+
 <img width="1536" alt="1" src="https://github.com/user-attachments/assets/d2f35874-7d44-4518-973a-9807859a3242">
 
 
-[KaplanStoryGrafana](http://95.217.61.32:3000/public-dashboards/55c3a63e429643b0aea3d0f5f54f3f78?orgId=1&refresh=10s)<br>
+
 
 ## 1. Node Metrics
 
