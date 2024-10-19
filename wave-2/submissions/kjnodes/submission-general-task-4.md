@@ -11,3 +11,5 @@ We have built and we operate an RPC Scanner integrated into the Story protocol, 
 Notably, RPC nodes are an important developer tool, for testing integration scenarios. A range of nodes to integrate with allows seeing various behaviors in the wild. Such nodes can also be used for data collection purposes.
 
 The list also serves as a helpful means of discovering nodes that are exposed while having reported voting power. This should not be generally done, as nodes with voting power should have restricted access.
+
+![image](https://github.com/user-attachments/assets/b6fa06d3-e3db-4235-89a1-63f2c3e9f02f)
