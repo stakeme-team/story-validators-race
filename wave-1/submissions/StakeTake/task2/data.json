@@ -1,0 +1,6 @@
+{
+  "cosmos_rpc": "https://story-testnet-rpc.stake-take.com",
+  "evm_json_rpc": "https://story-testnet-evm-rpc.stake-take.com",
+  "tests": "ok",
+  "timestamp": 1725904207
+}

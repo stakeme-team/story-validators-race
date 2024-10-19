@@ -1,0 +1,9 @@
+{
+  "cosmos_rpc": "https://rpc-story.roscuong.xyz",
+  "evm_json_rpc": "https://evm-rpc-story.roscuong.xyz",
+  "cosmos_rest": "https://api-story.roscuong.xyz",
+  "cosmos_ws": "wss://rpc-story.roscuong.xyz/websocket",
+  "evm_ws": "wss://wss-story.roscuong.xyz",
+  "tests": "ok",
+  "timestamp": 1725868193
+}
