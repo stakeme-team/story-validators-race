@@ -6,7 +6,11 @@ source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/ref
 ```
 snapshot info: https://snapshots.tarabukin.work/
 
-## Installation from Story Statesync. Story version v0.11.0, Geth version v0.9.4  
+## Installation from Story Statesync. Story version v0.11.0, Geth version v0.9.4
+
+Statesynk has become very poorly synchronized. Use snap <br>
+
+
 Geth archive snapshot [Snap info](https://snapshots.tarabukin.work/storygeth/snap_info.txt):
 ```
 source <(curl -s https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/story_statesynf_etharch.sh)
