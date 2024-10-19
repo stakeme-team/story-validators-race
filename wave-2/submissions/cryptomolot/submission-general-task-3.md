@@ -1,6 +1,8 @@
 # This dashboard contains basic network and validator parameters
 ![image](https://github.com/user-attachments/assets/55ed3a07-1595-4ba2-bf5c-74fcf364fe30)
 
+download dashboard and import in grafana interface: https://github.com/team-cryptomolot/metadata/blob/main/forstorynetworkdashboard.json
+
 is installed on a separate server:
 # 1. Install Docker 
 ```
