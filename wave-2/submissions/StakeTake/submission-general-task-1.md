@@ -117,43 +117,6 @@ If you encounter any issues or have questions regarding the script, please reach
 ## 🔄 Updates
 The script is regularly updated to align with the latest developments in the Story network. It's recommended to check for updates before initiating a new installation to benefit from new features and improvements.
 
-## ⚠️ Disclaimer
-Use this script at your own risk. Ensure you understand each step and have backups of your data before making significant changes to your node's configuration.
-
-## 📚 Additional Recommendations
-
-To further enhance the script and user experience, consider implementing the following features:
-
-### 🔄 Automated Updates
-- **Add Functionality:**
-  - Automatically update the script and node binaries to their latest versions.
-  - Notify users when a new version is available and provide options to upgrade.
-
-### 💾 Backup and Restore
-- **Include Options:**
-  - Backup node configurations and data before performing critical operations like snapshot installation or state sync.
-  - Allow users to restore from backups in case of failures or unintended changes.
-
-### 🔒 Enhanced Security
-- **Implement:**
-  - Integrity checks for downloaded binaries using checksums (e.g., SHA256) to ensure file authenticity.
-  - Provide warnings and best practices for securing private keys and sensitive information.
-
-### 📈 Advanced Monitoring
-- **Integrate:**
-  - More detailed health checks, such as monitoring peer connections, block processing times, and resource utilization.
-  - Offer alerting mechanisms via email or messaging platforms for critical issues or when synchronization completes.
-
-### 📖 Comprehensive Documentation
-- **Develop:**
-  - Detailed guides and FAQs addressing common issues and advanced configurations.
-  - Troubleshooting steps for typical problems users might face.
-
-### 🌐 Localization
-- **Expand Support:**
-  - Support for multiple languages to cater to a broader audience.
-  - Ensure all user-facing messages and documentation are translated accurately.
-
 ---
 
 Thank you for choosing **StakeTake** for your Story node deployment and management needs! 🚀
