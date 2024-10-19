@@ -14,7 +14,7 @@ bash <(curl -sL https://github.com/kjnodes/story-node-configuration/raw/refs/hea
 
 The Grafana dashboard is organized into three main sections:
 
-### 1. kjnodes Story Services**
+### 1. kjnodes Story Services
 
 Contains links to kjnodes provided services for Story Protocol.
 
