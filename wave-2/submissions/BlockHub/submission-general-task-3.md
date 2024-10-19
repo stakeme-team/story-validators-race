@@ -10,6 +10,9 @@ Our Grafana dashboard provides real-time insights into various aspects of valida
 - Mempool size trends
 - System resource utilization
 
+![CleanShot 2024-10-20 at 04 01 16@2x](https://github.com/user-attachments/assets/4cf66ecb-05bc-4f50-9a7e-8568370cf219)
+
+
 ## Key Metrics
 
 ### Validator Info
