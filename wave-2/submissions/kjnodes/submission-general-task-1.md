@@ -2,6 +2,10 @@
 
 This guide provides step-by-step instructions to use the Story Node Installer and Manager Script. It automates the setup and maintenance of Story nodes, ensuring an easy-to-use experience for node operators.
 
+## Script Repository
+
+View Node Installer project at [kjnodes/story-node-configuration](https://github.com/kjnodes/story-node-configuration)
+
 ## Using the Script
 
 Run the script using the following command in your terminal:
@@ -73,7 +77,3 @@ Understandaly, before the option is executed, a question is prompted to the user
 Select option `0` to exit the script.
 
 During usual script operation, the main menu is shown after any option is completed. This allows, for example, viewing logs after initial initialization of node services.
-
-## Script Repository
-
-View the script on [kjnodes/story-node-configuration](https://github.com/kjnodes/story-node-configuration)
