@@ -54,15 +54,16 @@ It checks the Story API. If the API is operational, the command '/storyapiinfo' 
 When the proposal comes out, I will add tracking of the proposal and voting from the bot.
 
 Available commands:
- * status - displays full information about the RPC.
- * df - displays information about HDD.
- * free - displays information about RAM.
- * peers - information about Story and Geth peers.
- * nodeheight - the height of the node.
- * storyapiinfo - network information from the Story API.
+ * /status - displays full information about the RPC.
+ * /df - displays information about HDD.
+ * /free - displays information about RAM.
+ * /peers - information about Story and Geth peers.
+ * /infoval - validator info
+ * /nodeheight - the height of the node.
+ * /storyapiinfo - network information from the Story API.
  * /last10blockinfo - information about signing the last 10 blocks.
- * mute - temporarily disable monitoring, for example during an update or temporarily exit the active set
- * unmute - enable monitoring
+ * /mute - temporarily disable monitoring, for example during an update or temporarily exit the active set
+ * /unmute - enable monitoring
 
 [Install guide](https://github.com/tarabukinivan/storybot)
 
