@@ -68,6 +68,8 @@ Available commands:
 
 Video instruction https://youtu.be/dLL5FUvFi28
 
+Demo: [@story_network_bot](https://t.me/story_network_bot)
+
 ![bot](https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/images/storybot.png)
 
 </details>
