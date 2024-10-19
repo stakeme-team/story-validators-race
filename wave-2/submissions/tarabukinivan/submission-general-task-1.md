@@ -1,4 +1,6 @@
-Manual and Autoinstall [https://snapshots.tarabukin.work/installation.html](https://snapshots.tarabukin.work/installation.html)
+Manual Install and Autoinstall [https://snapshots.tarabukin.work/installation.html](https://snapshots.tarabukin.work/installation.html)
+
+Installation video https://youtu.be/FXUwGyrNtIA
 
 ## Installation from height 0. Story version v0.11.0, Geth version v0.9.4 from archive snapshot:
 ```
