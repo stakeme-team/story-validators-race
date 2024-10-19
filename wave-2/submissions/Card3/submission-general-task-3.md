@@ -16,5 +16,5 @@ Installation Guide
 3. Select your Prometheus data source.
 4. Click 'Import' to create the dashboard.
 
-Dashboard Link
+Grafan Dashboard File 
 https://raw.githubusercontent.com/card3/story-validator/refs/heads/main/dashboard/grafana.json
