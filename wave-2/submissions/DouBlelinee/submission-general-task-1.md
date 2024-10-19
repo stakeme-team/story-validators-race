@@ -1,5 +1,3 @@
-# Wave-2: story-validators-race
-
 # Task 1: Automatic installer for the Story node
 
 # ⛓️ 0xdoubleline Story Node Auto Installation Guide
