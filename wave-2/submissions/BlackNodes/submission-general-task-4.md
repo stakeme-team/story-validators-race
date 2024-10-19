@@ -3,7 +3,6 @@
 
 ![Screenshot 2024-10-20 012630](https://github.com/user-attachments/assets/768720ca-d2e9-4d27-be34-0ce4c366e800)
 
-
 ## Description
 The Story Ecosystem Map is an interactive, visual guide to the projects and applications building on the Story blockchain. This utility provides validators, developers, and users with a comprehensive overview of the Story ecosystem, showcasing its growth and diversity.
 
