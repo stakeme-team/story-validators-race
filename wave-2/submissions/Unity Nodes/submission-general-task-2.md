@@ -2,7 +2,7 @@
 
 `https://services.unitynodes.com/testnet-network/story-protocol/sync/snapshots`
 
-### Copy and paste the command on your server.
+### Command for snapshots.
 
 ```sudo systemctl stop story
 cp $HOME/.story/story/data/priv_validator_state.json $HOME/.story/story/priv_validator_state.json.backup
