@@ -46,6 +46,4 @@ For future expansion, we are developing additional categories including:
 * **Continuous Improvement**: Encourages healthy competition among RPC providers, leading to improved service quality.
 * **Infrastructure Enhancement**: Optimizes RPC performance and reduces latency to support more demanding applications.
 
-  \
-
 **Additionally, with a clear vision for Story Protocol, we are focusing on developing more features for IPWorld and will be launching soon.**
