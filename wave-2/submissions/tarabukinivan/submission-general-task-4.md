@@ -65,6 +65,7 @@ Available commands:
  * /mute - temporarily disable monitoring, for example during an update or temporarily exit the active set
  * /unmute - enable monitoring
  * /logs - last 30 line log
+ * /links - story links
 
 [Install guide](https://github.com/tarabukinivan/storybot)
 
