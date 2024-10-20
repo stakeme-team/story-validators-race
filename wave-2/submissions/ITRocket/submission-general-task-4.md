@@ -29,8 +29,8 @@ Most of the utilities are available on the [Story section of our website](https:
 
 <details>
   <summary>Click to view images</summary>
-  <img src="https://github.com/user-attachments/assets/23c9f76c-3c25-446e-9d63-845d19bab642" alt="Decentralization Analytics Screenshot 1" style="width: 100%; height: 100%; object-fit: cover;" />
-  <img src="https://github.com/user-attachments/assets/fc7cfbfa-732d-4c22-9b84-76efc577b3cd" alt="Decentralization Analytics Screenshot 2" style="width: 100%; height: 100%; object-fit: cover;" />
+  <img src="https://github.com/itrocket-team/testnet_guides/blob/main/utils/basket/DA_1.png" alt="Decentralization Analytics Screenshot 1" style="width: 100%; height: 100%; object-fit: cover;" />
+  <img src="https://github.com/itrocket-team/testnet_guides/blob/main/utils/basket/DA_2.png" alt="Decentralization Analytics Screenshot 2" style="width: 100%; height: 100%; object-fit: cover;" />
 </details>
 
 ---
@@ -48,7 +48,7 @@ Most of the utilities are available on the [Story section of our website](https:
 
 <details>
   <summary>Click to view image</summary>
-  <img src="https://github.com/user-attachments/assets/3008c3eb-4845-41dc-9fa8-f3e73ae300a7" alt="Public RPC Scanner Screenshot" style="width: 100%; height: 100%; object-fit: cover;" />
+  <img src="https://github.com/itrocket-team/testnet_guides/blob/main/utils/basket/rpc_scanner.png" alt="Public RPC Scanner Screenshot" style="width: 100%; height: 100%; object-fit: cover;" />
 </details>
 
 ---
@@ -112,7 +112,7 @@ We provide the following public services for Story nodes:
 
 <details>
   <summary>Click to view image</summary>
-  <img src="https://github.com/user-attachments/assets/a57994b7-c84d-4fbb-8b89-fe087504dd1b" alt="Public Endpoints Screenshot" style="width: 100%; height: 100%; object-fit: cover;" />
+  <img src="https://github.com/itrocket-team/testnet_guides/blob/main/utils/basket/public_endpoints.png" alt="Public Endpoints Screenshot" style="width: 100%; height: 100%; object-fit: cover;" />
 </details>
 
 ---
