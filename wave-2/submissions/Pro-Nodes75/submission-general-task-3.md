@@ -5,12 +5,11 @@ Our unique monitoring project will allow you to control:
  * Geth node monitoring.
 
 This Monitoring consist of the following parts:
- * **Prometheus** - embedded part for consistent metric collection;
- * **Telegraf agent** - collect data form Prometheus for InfluxDB;
- * **InfluxDB** - for storing metrics database;
+ * **Telegraf agent** - collect data form cometbft' Prometheus port for InfluxDB;
+ * **InfluxDB** - database for storing metrics;
  * **Grafana** - visual representation of collected data.
 
 The stack includes a quick-start Docker Compose configuration.
 
 Step by step setup process is described here:
-https://github.com/the-node75/mon_story?tab=readme-ov-file#story-node-monitoring-tool
+https://github.com/the-node75/mon_story?tab=readme-ov-file#the-following-steps-will-guide-you-through-the-setup-process
