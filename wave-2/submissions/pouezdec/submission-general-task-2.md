@@ -27,3 +27,4 @@ done
 https://docs.story.foundation/docs/node-setup
 
 _by poezdec_
+https://github.com/Poezdec/story-oneclick
