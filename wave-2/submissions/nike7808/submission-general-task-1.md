@@ -1,1 +1,0 @@
-https://github.com/EasyMinters/Story-wave2/blob/main/one-liner.sh
