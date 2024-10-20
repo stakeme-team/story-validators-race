@@ -11,6 +11,8 @@
 7) ADD PEERS (Mandragora & others)
 8) ADD GETH ENODE (Mandragora)
 9) DOWNLOAD ADDRBOOK (Mandragora)
+10) STOP STORY OR GETH NODES
+11) RESTART STORY OR GETH NODES
 
 :key: We offer an automatic installation node script (it installs a basic and standard setup), multiple snapshot providers to make it more useful, as well as extra infrastructure configurations that may help during troubleshooting of bad peering or connectivity.
 
