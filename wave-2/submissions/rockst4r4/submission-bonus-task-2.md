@@ -1,0 +1,1 @@
+https://medium.com/@mahan.mohammadiannasab/unveiling-the-story-project-a-new-paradigm-in-decentralized-applications-06831790ab52
