@@ -127,7 +127,7 @@ sudo systemctl start node-exporter.service
 sudo journalctl -u node-exporter.service -f -o cat
 ```
 
-You now have access locally to your Grafana dashboard via `localhost:3000` (you could also configure it with a Nginx config or depending on then needs). The default user and password tends to be `admin` and `admin` respectively - they can be changed at any moment afterwards.
+You now have access locally to your Grafana dashboard via `localhost:3000` (or remotely in case you open 3000 port) (you could also configure it with a Nginx config or depending on then needs). The default user and password tends to be `admin` and `admin` respectively - they can be changed at any moment afterwards.
 ## Apply a standard dashboard
 
 You can download this standard Grafana dashboard we have prepared for Story Protocol, or from other providers. You just have to download the JSON file of a specific dashboard, and import it into the Grafana dashboards configuration (at `localhostt:3000` on default). In this specific case, most likely you will have to set your validator HEX address in the respective field at the top, as well as the instance `localhost:prometheusport`, i.e. commonly by default to be 26660 (so `localhoat:26660`). 
@@ -135,3 +135,6 @@ You can download this standard Grafana dashboard we have prepared for Story Prot
 ```
 wget https://raw.githubusercontent.com/McDaan/general/refs/heads/main/story/grafana/mandashboard.json
 ```
+
+
+Well done! You successfully installed a standard Grafana dashboard backed by Prometheus metrics. You can now start exploring panels and playing around to add new useful metrics.
