@@ -12,6 +12,6 @@ lz4 -dc /tmp/story-testnet-latest.tar.lz4 | tar -xf - -C $HOME/.story/story data
 lz4 -dc /tmp/story-testnet-latest.tar.lz4 | tar -xf - -C $HOME/.story/geth/iliad/geth/ chaindata
 mv $HOME/.story/story/priv_validator_state.json.backup $HOME/.story/story/data/priv_validator_state.json
 sudo systemctl restart story
-sudo journalctl -u story -f -o cat```
+sudo journalctl -u story -f -o cat
 
 
