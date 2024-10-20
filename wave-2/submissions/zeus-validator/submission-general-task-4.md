@@ -19,6 +19,7 @@ You also need an account with fund stored in geth node. Here are the steps to im
 geth --datadir $HOME/.story/geth/iliad account import /path/to/priv_key
 geth --datadir $HOME/.story/geth/iliad account list
 ```
+Bot repo: https://github.com/LianD-09/discord-faucet-bot
 
 Then, in the bot repo, add configuration to `config.toml`:
 ```toml
