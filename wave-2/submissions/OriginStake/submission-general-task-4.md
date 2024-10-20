@@ -1,6 +1,6 @@
-# [IPWORLD.io](http://ipworld.io) - The comprehensive gateway to the Story Protocol ecosystem
+# [IPWORLD.io](https://ipworld.io) - The comprehensive gateway to the Story Protocol ecosystem
 
-## Story Protocol Ecosystem Page
+## Story Protocol Ecosystem - [IPWORLD.io/ecosystem](https://ipworld.io/ecosystem)
 
 
  ![IPWorld Eco](https://res.cloudinary.com/ghostdigital/image/upload/v1729416347/ipworld-eco_akuup3.jpg)
@@ -19,7 +19,7 @@ Story Protocol is building a diverse and powerful ecosystem aimed at revolutioni
 In the future, we are developing individual profiles for each project, including basic information, mini-guild, mini-docs, and general project updates.
 
 
-## Story RPC/API Infrastructure Tracking Page
+## Story RPC/API Infrastructure Tracking - [IPWORLD.io/RPC-API](https://ipworld.io/rpc-api)
 
 
  ![IPWorld Infrastructure](https://res.cloudinary.com/ghostdigital/image/upload/v1729416347/ipworld-infra_boemqf.jpg)
