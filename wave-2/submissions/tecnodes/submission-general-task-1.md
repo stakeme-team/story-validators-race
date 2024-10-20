@@ -20,7 +20,7 @@ Follow the steps below to use the script for installing or managing your Story P
 
 ### 1. Run the Script
 
-To run the script, open your terminal and execute the following command:
+To run the script, open your terminal and execute the following command: for installation use:**`Option 1`**
 
 ```bash
 curl -sL https://tecnodes.network/chains/testnet/story/script/story.sh | bash
