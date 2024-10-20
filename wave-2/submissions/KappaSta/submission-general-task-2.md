@@ -15,3 +15,4 @@ while true; do
     sleep 5;
 done
 ```
+my code: https://github.com/gnatelo/stry/blob/main/installsnap.sh
