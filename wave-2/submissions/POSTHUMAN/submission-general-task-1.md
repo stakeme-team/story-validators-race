@@ -1,5 +1,7 @@
 
-# Story Node Setup Script by PostHuman Validator
+# Story Node Setup Script by PostHuman Validator 
+
+https://github.com/Validator-POSTHUMAN/story-oneliner
 
 This script is provided by PostHuman Validator to automate the setup and management of Story nodes on the Iliad network. It allows you to install, configure, and maintain Story nodes easily, ensuring a streamlined and efficient setup process.
 
