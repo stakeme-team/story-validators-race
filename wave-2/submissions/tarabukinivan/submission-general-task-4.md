@@ -77,6 +77,8 @@ Demo: [@story_network_bot](https://t.me/story_network_bot)
 
 ![tg](https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/images/strorytg.png)
 
+![tg3](https://raw.githubusercontent.com/tarabukinivan/story_files/refs/heads/main/images/tg3.png)
+
 </details>
 
 [DISCORD](https://discordapp.com/users/810477748614332437) \
