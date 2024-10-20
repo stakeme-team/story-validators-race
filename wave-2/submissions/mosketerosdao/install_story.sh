@@ -2,50 +2,59 @@
 
 # Variables
 VERSION="v0.10.0"
-NODE_DIR="$HOME/story_node"
-BIN_URL="https://github.com/piplabs/story/releases/download/${VERSION}/story-linux-amd64-${VERSION}-9603826.tar"
-
-echo "Instalando nodo Story versión ${VERSION}..."
+BIN_URL="https://github.com/piplabs/story/releases/download/$VERSION/story-node-linux-amd64.tar.gz"
+NODE_DIR="$HOME/story-node"
 
 # Crear directorio de instalación
-mkdir -p $NODE_DIR
-cd $NODE_DIR
+mkdir -p $NODE_DIR && cd $NODE_DIR
 
-# Descargar binario
-echo "Descargando binarios desde ${BIN_URL}..."
-curl -LO $BIN_URL
+# Descargar binarios
+echo "Descargando binarios de Story Node versión $VERSION..."
+curl -L $BIN_URL -o story-node.tar.gz
 
-# Extraer archivo
-echo "Extrayendo binarios..."
-tar -xvf story-linux-amd64-${VERSION}-9603826.tar
+# Verificar si la descarga fue exitosa
+if [ $? -ne 0 ]; then
+    echo "Error al descargar los binarios. Verifica la URL y la conexión a Internet." >&2
+    exit 1
+fi
 
-# Mover binarios a /usr/local/bin
+# Extraer binarios
+echo "Extrayendo los binarios..."
+tar -xvf story-node.tar.gz
+
+# Mover binarios y configurar permisos
 echo "Instalando binarios..."
 sudo mv story /usr/local/bin/
 sudo chmod +x /usr/local/bin/story
 
-# Crear servicio de systemd
-echo "Configurando servicio systemd..."
-sudo tee /etc/systemd/system/story.service > /dev/null <<EOL
+# Crear servicio systemd
+echo "Configurando el servicio systemd..."
+sudo tee /etc/systemd/system/story.service > /dev/null <<EOF
 [Unit]
-Description=Story Node Service
+Description=Story Node
 After=network.target
 
 [Service]
-Type=simple
 User=$USER
-ExecStart=/usr/local/bin/story run
+ExecStart=/usr/local/bin/story
 Restart=always
-RestartSec=3
+RestartSec=5
+LimitNOFILE=4096
 
 [Install]
 WantedBy=multi-user.target
-EOL
+EOF
 
-# Recargar systemd y habilitar el servicio
-echo "Habilitando servicio story..."
+# Recargar systemd y habilitar servicio
+echo "Habilitando y iniciando el servicio..."
 sudo systemctl daemon-reload
 sudo systemctl enable story.service
 sudo systemctl start story.service
 
-echo "Instalación y configuración completadas."
+# Verificar si el servicio se inició correctamente
+if systemctl is-active --quiet story.service; then
+    echo "El nodo Story se ha instalado y se está ejecutando como un servicio."
+else
+    echo "Hubo un problema al iniciar el servicio. Verifica los registros para más detalles." >&2
+    exit 1
+fi
