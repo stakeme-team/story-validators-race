@@ -1,4 +1,4 @@
-This script is used to install and manage components of Story and Geth on your system.
+[This script is used to install and manage components of Story and Geth on your system.
 
 Use the following command in your terminal:
 ```bash
@@ -21,4 +21,4 @@ curl localhost:26657/status | jq
 ```
 
 Repository here:
-https://github.com/0x1Levi/story-general-tasks
+https://github.com/0x1Levi/story-general-tasks](https://testnet.storyscan.app/validators/verify?validator=storyvaloper1t4wu8gkcct8tf04whkxkefju5hl2g2jnq0adqx)
