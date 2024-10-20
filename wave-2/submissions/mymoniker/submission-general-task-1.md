@@ -19,3 +19,6 @@ Synchronization Check
 ```bash
 curl localhost:26657/status | jq
 ```
+
+Repository here:
+https://github.com/0x1Levi/story-general-tasks
