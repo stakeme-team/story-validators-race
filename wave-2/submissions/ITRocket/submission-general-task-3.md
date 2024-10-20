@@ -93,8 +93,6 @@ sudo cp node_exporter /usr/local/bin/
 node_exporter --version
 ~~~
 
-<img src="https://github.com/mART321/story/blob/main/img/2story.png" alt="Grafa banner 1" style="width: 100%; height: 100%; object-fit: cover;" />
-
 
 Create service file
 ```
@@ -114,7 +112,6 @@ RestartSec=3
 WantedBy=default.target
 EOF
 ```
-<img src="https://github.com/mART321/story/blob/main/img/3story.png" alt="Grafa banner 2" style="width: 100%; height: 100%; object-fit: cover;" />
 
 
 Enable and start Node Exporter
@@ -133,7 +130,6 @@ sudo useradd --no-create-home --shell /bin/false prometheus
 sudo groupadd --system prometheus
 sudo usermod -aG prometheus prometheus
 ```
-<img src="https://github.com/mART321/story/blob/main/img/5story.png" alt="Grafa banner 4" style="width: 100%; height: 100%; object-fit: cover;" />
 
 Download and unpack Prometheus  
 ```
@@ -152,7 +148,6 @@ sudo chown -R prometheus:prometheus /etc/prometheus /usr/local/bin/prometheus /u
 prometheus --version
 promtool --version
 ```
-<img src="https://github.com/mART321/story/blob/main/img/4story.png" alt="Grafa banner 3" style="width: 100%; height: 100%; object-fit: cover;" />
 
 Create prometheus.yml file
 Your story node ip address
@@ -201,7 +196,6 @@ scrape_configs:
       - targets: ['${NODE_IP}:6060']
 EOF
 ```
-<img src="https://github.com/mART321/story/blob/main/img/7story.png" alt="Grafa banner 5" style="width: 100%; height: 100%; object-fit: cover;" />
 
 Create service file
 ```
@@ -235,7 +229,6 @@ NoNewPrivileges=true
 WantedBy=multi-user.target
 EOF
 ```
-<img src="https://github.com/mART321/story/blob/main/img/6story.png" alt="Grafa banner 6" style="width: 100%; height: 100%; object-fit: cover;" />
 
 Enable and start Prometheus
 ```
@@ -254,7 +247,6 @@ sudo apt install grafana
 sudo systemctl start grafana-server
 sudo systemctl status grafana-server
 ```
-<img src="https://github.com/mART321/story/blob/main/img/8story.png" alt="Grafa banner 7" style="width: 100%; height: 100%; object-fit: cover;" />
 
 Open browser and and navigate to `http://<your_server_ip>:3000`
 > Default login and password are admin/admin. After log in, change your password.
