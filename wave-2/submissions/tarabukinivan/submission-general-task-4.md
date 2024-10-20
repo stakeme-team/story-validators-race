@@ -81,5 +81,7 @@ Demo: [@story_network_bot](https://t.me/story_network_bot)
 
 </details>
 
+[more](https://github.com/tarabukinivan/story_files/blob/main/validator_tools.md)
+
 [DISCORD](https://discordapp.com/users/810477748614332437) \
 [TELEGRAM](https://t.me/tarabukinivan)
