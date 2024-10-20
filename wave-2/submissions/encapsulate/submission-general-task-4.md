@@ -19,3 +19,5 @@ Managing blockchain infrastructure can be challenging, especially for validators
 This project goes beyond deployment—it’s a holistic infrastructure management solution crafted for validators. It ensures validators can maintain their nodes efficiently by automatically managing sensitive keys, applying the correct permissions, and handling service operations with precision.
 
 With built-in prompts for user input, secure secret management, and dynamic file handling, this utility ensures that validators can focus on network governance and community involvement without worrying about operational complexities.
+
+![Ansible](https://i.ibb.co/6DHhS13/Screenshot-2024-10-20-at-2-06-29-PM.png)
