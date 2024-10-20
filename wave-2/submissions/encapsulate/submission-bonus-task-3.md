@@ -1,7 +1,9 @@
 # Explore the future of intellectual property with Story Protocol
 
+[![Watch the video](https://i.ibb.co/wCSY1Xc/video.jpg)](https://youtu.be/l01zdNnHS5Y?feature=shared)
+
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=your-video-link">
+  <a href="https://youtu.be/l01zdNnHS5Y?feature=shared">
     <img src="https://i.ibb.co/wCSY1Xc/video.jpg" alt="Watch the video" width="100%" />
   </a>
 </p>
