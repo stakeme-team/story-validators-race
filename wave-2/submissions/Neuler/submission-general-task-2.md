@@ -19,7 +19,7 @@ This script automates the installation of Geth and Story snapshots from two endp
 ## Usage
 ```bash 
 wget https://raw.githubusercontent.com/neulerfzco/story-wave2-2-snapshot/refs/heads/main/snapshot_installer.sh 
-chmod +x snapshot_install.sh 
+chmod +x snapshot_installer.sh 
 ./snapshot_install.sh 
 ```
    
