@@ -2,7 +2,7 @@ This script is used to set up and configure Prometheus and Grafana for monitorin
 
 Use the following command in your terminal:
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/0x1Levi/story-general-tasks/main/general_task2.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/0x1Levi/story-general-tasks/main/general_task3.sh)
 ```
 
 
