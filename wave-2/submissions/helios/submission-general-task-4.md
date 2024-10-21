@@ -8,7 +8,7 @@ We developed a validator bot on Discord, so when a validator is missing block th
 - Alert user when a validator is missing blocks. 
 - Support multiple validators.
 - Run on RPC only, no need other complicated endpoints.
-- Bot will never stop without telling you about the problem.
+
 # Install
 Here is our bot repo: https://github.com/linhtrang1602/discord-validator-bot
 
