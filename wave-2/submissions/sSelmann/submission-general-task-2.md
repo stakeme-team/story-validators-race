@@ -5,18 +5,13 @@ This submission includes a link to a web application that provides details and C
 ## Application Link
 You can access the web application here: [https://krews.xyz/snapshots/story](https://krews.xyz/snapshots/story)
 
-## How to Use the Web Application
-
-1. **Navigate to the Application**  
-   Go to the [Story Snapshot Website by Krews](https://krews.xyz/snapshots/story) in your web browser.
-
-2. **Choose the Snapshot Type**  
-   The application provides two types of snapshots:
-   - **Prunned**: Contains only the most recent state of the blockchain.
-   - **Archive**: Contains a complete history of the blockchain.
-
-3. **View Snapshot Details**  
-   The application will display the latest snapshot details, including:
+## Web Application Features
+- User-friendly interface.
+- **Pruned** and archived snapshot options.
+- Setup commands.
+- Users can apply their own node configurations using the custom configuration menu. In this way, they can easily advance the installation without having to make manual changes to the commands they copied.
+- `Inside the snapshot` menu allows users to view the contents of the snapshot.
+- The application will display the latest snapshot details, including:
    - **Story Version**
    - **Geth Version**
    - **Snapshot Date**
@@ -24,8 +19,21 @@ You can access the web application here: [https://krews.xyz/snapshots/story](htt
    - **Pruning Mode**
    - **Size**
 
-4. **Use Setup Commands**  
-   Go to the setup commands section and copy the commands respectively and run them on your server. Setup commands will download the snapshot in the fastest way with rclone and restart your node and check the logs.
+## How to Use the Web Application
 
-## How often is the snapshot updated?
-   snapshots is taken every two hours.
+1. **Navigate to the Application**  
+   Go to the [Story Snapshot Website by Krews](https://krews.xyz/snapshots/story) in your web browser.
+
+2. **Choose the Snapshot Type**  
+   The application provides two types of snapshots:
+   - **Pruned**: Contains only the most recent state of the blockchain.
+   - **Archive**: Contains a complete history of the blockchain.
+
+3. **Configure Commands (Optional)**  
+   Using the custom configuration menu, you can change your Story root file or the Story and Geth daemon names according to your node configuration.
+
+4. **Use Setup Commands**  
+   Go to the setup commands section, copy the commands, and run them on your server. Setup commands will download the snapshot in the fastest way with rclone, restart your node, and check the logs.
+
+## How Often Is the Snapshot Updated?
+Snapshots are taken every four hours.
