@@ -1,0 +1,1 @@
+https://medium.com/@nodes_shablya/story-protocol-a-revolution-in-blockchain-technology-with-scalability-and-security-638811308afb

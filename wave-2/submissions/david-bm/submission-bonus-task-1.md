@@ -1,0 +1,1 @@
+https://testnet.storyscan.app/validators/storyvaloper1sgl4s0ysqq8e3fdhrpxnlw7w2xjq6agqvp8kur

@@ -1,0 +1,1 @@
+https://medium.com/@rogertodamoon1/วิธีการรันโหนด-story-protocol-คู่มือสำหรับผู้เริ่มต้น-b619f5574ebb
