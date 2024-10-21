@@ -1,0 +1,1 @@
+https://medium.com/@blocktechhouse/introducing-story-protocol-transforming-intellectual-property-management-through-blockchain-60660bd0df38
