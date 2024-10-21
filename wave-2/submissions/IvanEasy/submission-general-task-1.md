@@ -1,0 +1,1 @@
+https://github.com/IvanEasy/story-wave2/blob/main/one-liner.sh
