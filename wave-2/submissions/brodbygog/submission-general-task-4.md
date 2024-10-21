@@ -11,4 +11,4 @@ while true; do
 done
 
 
-![photo_2024-10-21_18-28-37](https://github.com/user-attachments/assets/63c1f0ee-c8e4-43c0-a313-c15adbf42295)
+![photo_2024-10-21_18-28-37](https://github.com/user-attachments/assets/d86ccc32-869c-400f-8e5d-d3791c3ef6ed)
