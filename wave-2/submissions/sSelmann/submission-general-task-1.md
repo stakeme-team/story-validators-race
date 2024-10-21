@@ -11,6 +11,17 @@ You can easily install the CLI by running the following command:
 sudo -v ; curl https://krews-eu.krews-storage.xyz/install.sh | sudo bash
 ```
 
+### Usage
+
+```bash
+scli [command]
+```
+example:
+```bash
+# Setup a story node
+scli setup node
+```
+
 You can check the CLI commands by visiting the [StoryCLI GitHub page](https://github.com/sSelmann/storycli?tab=readme-ov-file).
 
 ### Prerequisites
@@ -19,6 +30,9 @@ Ensure that Go is installed before running the installation script. The installa
 
 ```bash
 go version >= 1.20
+```
+```bash
+Ubuntu Version >= 20.04
 ```
 
 ---
@@ -55,3 +69,7 @@ StoryCLI offers a variety of features that help you set up and manage your Story
 
 ### 6. View Logs
 - **Log Monitoring**: Displays logs for Story or Geth services to track node activity.
+
+---
+
+Note: The CLI will continue to be improved to serve users in a fully automated way. Visit the [StoryCli GitHub repository](https://github.com/sSelmann/storycli) for more information and to see new features not currently available here.
