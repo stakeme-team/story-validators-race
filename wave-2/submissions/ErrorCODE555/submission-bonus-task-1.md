@@ -1,0 +1,2 @@
+https://testnet.storyscan.app/validators/storyvaloper16yd80eu34nsqv6c397vqnk4djsl9c6cewe67fg
+change compless
