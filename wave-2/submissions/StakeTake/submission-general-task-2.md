@@ -1,0 +1,40 @@
+# Snapshot Server
+
+Welcome to the **Snapshot Server** by [Stake-Take](https://stake-take.com). This server provides reliable and up-to-date blockchain snapshots, enabling users to efficiently synchronize their nodes with the network.
+
+## Overview
+
+The Snapshot Server is designed to deliver optimized snapshots of the blockchain, reducing the time and resources required to synchronize a node from scratch. By leveraging pre-generated snapshots, users can quickly get their nodes up and running, ensuring minimal downtime and enhanced performance.
+
+## Features
+
+- **Fast Synchronization:** Accelerate the node synchronization process with ready-to-use snapshots.
+- **Secure Access:** All snapshots are served over HTTPS, ensuring data integrity and security during transfers.
+- **Automated Updates:** Snapshots are regularly updated to reflect the latest state of the blockchain, providing users with the most recent data.
+- **User-Friendly Interface:** Easy-to-navigate web interface for browsing and downloading available snapshots.
+
+## Access to Snapshots
+
+All available snapshots can be accessed and downloaded from our dedicated snapshots page:
+
+🔗 [Download Snapshots](https://story.stake-take.com/snapshots)
+
+## Security
+
+- **HTTPS Encryption:** Ensures that all data transmitted between the server and users is encrypted and secure.
+- **Access Controls:** Implemented measures to protect snapshot data from unauthorized access and tampering.
+- **Regular Audits:** Continuous monitoring and auditing to maintain the integrity and reliability of the snapshot service.
+
+## Technologies
+
+- **Python:** Utilized for automating snapshot management and server operations.
+- **Nginx:** Serves snapshots efficiently with robust handling of web requests.
+- **Cron Jobs:** Schedule regular updates to ensure snapshots are always up-to-date.
+
+## Contact and Support
+
+If you have any questions, feedback, or need assistance, please reach out to our support team:
+
+📧 **Email:** support@stake-take.com  
+🌐 **Website:** [stake-take.com](https://stake-take.com)
+---

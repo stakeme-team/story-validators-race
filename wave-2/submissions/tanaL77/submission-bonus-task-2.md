@@ -1,0 +1,1 @@
+https://medium.com/@hoskinson148/story-protocol-34394f0817ca
