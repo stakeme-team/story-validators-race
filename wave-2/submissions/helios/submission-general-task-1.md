@@ -17,11 +17,26 @@ fi
 # Install binaries
 echo -ne "\033[1;33mInstalling binaries...\033[0m"
 cd $HOME/go/bin
+story_ver=$(curl -s https://api.github.com/repos/piplabs/story/releases/latest | grep '"tag_name"' | sed -E 's/.*"([^"]+)".*/\1/')
+geth_ver=$(curl -s https://api.github.com/repos/piplabs/story-geth/releases/latest | grep '"tag_name"' | sed -E 's/.*"([^"]+)".*/\1/')
 
-wget -qO- https://story-geth-binaries.s3.us-west-1.amazonaws.com/geth-public/geth-linux-amd64-0.9.3-b224fdf.tar.gz | tar xzf -
-mv geth-*/geth . && rm -rf geth-*
-wget -qO- https://story-geth-binaries.s3.us-west-1.amazonaws.com/story-public/story-linux-amd64-0.11.0-aac4bfe.tar.gz | tar xzf -
-mv story-*/story . && rm -rf story-*
+echo "Latest Story version: $story_ver"
+echo "Latest Geth version: $geth_ver"
+
+echo "Installing geth..."
+git clone https://github.com/piplabs/story-geth && cd story-geth
+git checkout $geth_ver
+make geth
+mv ./build/bin/geth $HOME/go/bin/geth
+cd .. && rm -rf story-geth
+
+echo "Installing story..."
+git clone https://github.com/piplabs/story && cd story
+git checkout $story_ver
+go build -o story ./client
+mv story $HOME/go/bin/story
+cd .. && rm -rf story
+
 echo -e "\e[32mDone!\e[0m"
 
 # Init
@@ -67,12 +82,16 @@ systemctl enable story geth
 # Add peers
 PEERS=$(curl -sS https://story-rpc.mandragora.io/net_info | jq -r '.result.peers[] | "\(.node_info.id)@\(.remote_ip):\(.node_info.listen_addr)"' | awk -F ':' '{print $1":"$(NF)}' | paste -sd, -)
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$PEERS\"/" $HOME/.story/story/config/config.toml
-geth --exec 'admin.addPeer("enode://a86b76eb7171eb68c4495e1fbad292715eee9b77a34ffa5cf39e40cc9047e1c41e01486d1e31428228a1350b0f870bcd3b6c5d608ba65fe7b7fcba715a78eeb8@story-geth.mandragora.io:30303")' attach $HOME/.story/geth/iliad/geth.ipc
 
 # Start
 systemctl restart geth story
-echo -e "\e[32mAll services started!\e[0m"
 
+# Add geth peer and restart geth
+sleep 15
+geth --exec 'admin.addPeer("enode://a86b76eb7171eb68c4495e1fbad292715eee9b77a34ffa5cf39e40cc9047e1c41e01486d1e31428228a1350b0f870bcd3b6c5d608ba65fe7b7fcba715a78eeb8@story-geth.mandragora.io:30303")' attach $HOME/.story/geth/iliad/geth.ipc
+systemctl restart geth
+
+echo -e "\e[32mAll services started!\e[0m"
 ```
 
 > **Note**: If you want custom moniker for your node, please set the variable `MONIKER`.
