@@ -1,1 +1,0 @@
-https://juhyuk.substack.com/p/taking-a-third-look-at-story-protocol
