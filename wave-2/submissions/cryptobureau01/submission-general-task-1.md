@@ -75,5 +75,5 @@ This Auto Script for Node Management on the Story Protocol has been created by C
 
 
 
-### Sources Repository:
+### Sources Repository
 [Story-Node-Tool Setup Script](https://github.com/CryptoBureau01/Story-Node/blob/main/setup.sh)
