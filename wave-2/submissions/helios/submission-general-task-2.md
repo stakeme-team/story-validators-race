@@ -8,7 +8,7 @@ Here is the instruction for installing new snapshot. User will need to provide w
 
 ```bash
 cd $HOME/.story/
-wget -O install.sh https://gist.githubusercontent.com/linhtrang1602/fc9cd72dff320ec1807310c4f816d7da/raw/ea3b3507e7553b0b8ca4fabb5f3f7544c10982b1/gistfile1.txt
+wget -O install.sh https://gist.githubusercontent.com/linhtrang1602/fc9cd72dff320ec1807310c4f816d7da/raw/15638b4a74ae47a30848aee7a32e11b00c26df22/snapshot.sh
 bash install.sh pruned|archive
 ```
 The file will automatically stop the node, download the chosen snapshot and backup your priv_validator_state.json before decompressing and restart the node.
