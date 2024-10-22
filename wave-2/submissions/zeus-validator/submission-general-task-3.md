@@ -2,7 +2,7 @@
 This is the documentation about Story Grafana dashboard and the setup instructions.
 
 ## Dashboard
-You can view our public dasboard here: https://grafana.artsakh.network/d/be18s0yjyfzlsb/zeus?orgId=1&from=1729297104392&to=1729318704392
+You can view our public dashboard here: https://grafana.artsakh.network/public-dashboards/d3e1c4c46ad2420a9b0256817146b6ce?orgId=1
 
 Our JSON file: https://gist.github.com/LianD-09/05dd28f331cc7971ea581e3d072cbfcc
 
